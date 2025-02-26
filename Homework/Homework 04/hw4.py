@@ -2,6 +2,7 @@
 
 secret_message_dict = {}
 
+# importing data to manipulate
 with open('c:/Users/gum12/Documents/CS/homeworkfolder-Gizmofire/Homework/Homework 04/SecretMessage.txt', 'r') as file:
     for line in file:
         number, word = line.strip().split()
@@ -9,6 +10,7 @@ with open('c:/Users/gum12/Documents/CS/homeworkfolder-Gizmofire/Homework/Homewor
 
 # Print the dictionary to verify
 
+# sorts by numerical key
 secret_message_dict = dict(sorted(secret_message_dict.items()))
 
 
@@ -18,12 +20,9 @@ count = 0
 
 for x in secret_message_dict:
 
-    
 
     print(secret_message_dict[x], end=" ")
     count += 1
-    
-            
     
 
     if count == row:

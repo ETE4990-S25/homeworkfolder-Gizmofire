@@ -1,0 +1,15 @@
+Name,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales,Critic_Score,Critic_Count,User_Score,User_Count,Developer,Rating
+Alter Ego,1985,Simulation,Activision,0,0.03,0,0.01,0.03,59,9,5.8,19,"Viva Media, Viva Media, LLC",T
+SimCity,1988,Simulation,Maxis,0,0.02,0,0.01,0.03,64,75,2.2,4572,Maxis,E10+
+Doom,1992,Shooter,id Software,0.02,0,0,0,0.03,85,44,8.2,1796,id Software,M
+Battle Arena Toshinden,1994,Fighting,Sony Computer Entertainment,0.39,0.26,0.53,0.08,1.27,69,4,6.3,4,Tamsoft,T
+Diablo,1996,Role-Playing,Activision,0.01,1.58,0,0,1.59,94,12,8.7,850,Blizzard Entertainment,M
+Super Puzzle Fighter II Turbo,1996,Puzzle,Virgin Interactive,0.08,0.05,0,0.01,0.14,83,9,7.4,5,Capcom,E
+WipEout XL,1996,Racing,Psygnosis,0.14,0.1,0,0.02,0.25,93,8,8.7,20,Psygnosis,N/A
+PaRappa The Rapper,1996,Misc,Sony Computer Entertainment,0.26,0.16,1.46,0.03,1.92,92,15,7.4,48,NanaOn-Sha,K-A
+Tomb Raider,1996,Action,Eidos Interactive,0.96,0.07,0,0,1.03,86,18,8.5,3552,"Crystal Dynamics, Nixxes Software",M
+Resident Evil,1996,Action,Virgin Interactive,2.05,1.16,1.11,0.73,5.05,91,8,9,266,Capcom,M
+Tekken 2,1996,Fighting,Sony Computer Entertainment,2.26,1.89,1.36,0.23,5.74,89,8,8.9,102,Namco,T
+Tomb Raider,1996,Action,Eidos Interactive,2.29,1.97,0.13,0.24,4.63,91,13,8.6,147,Core Design Ltd.,T
+RayStorm,1997,Shooter,Sony Computer Entertainment,0.04,0.03,0,0,0.07,79,7,7.8,4,Taito Corporation,E
+RPG Maker,1997,Role-Playing,ASCII Entertainment,0.11,0.07,0.29,0.03,0.5,66,11,8.2,9,Kuusou Kagaku,E

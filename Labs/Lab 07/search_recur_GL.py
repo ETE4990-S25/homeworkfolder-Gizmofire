@@ -42,25 +42,36 @@ def find_duplicates(directory):
 
             print(paths)
 
-
-    for path in paths:
-        print(path)
-
-        
+            
 
 
+    for path in range(len(paths)):
+        if path == len(paths) - 1:
+            break
+        # print(paths[path].get("checksum"))
 
-    # use a dictionary to store file names and paths
-    # compare files with the same name
+        for i in range(path + 1, len(paths)):
+            if paths[path].get("checksum") == paths[i].get("checksum"):
+                print("Duplicate found!")
+                print(paths[path].get("path") + " | Checksum:" + paths[path].get("checksum"))
+                print(paths[i].get("path") + " | Checksum:" + paths[i].get("checksum"))
+
+            else:
+                print("No duplicates found for File: ", paths[path].get("path"), "and", paths[path].get("checksum"))
+
+            print("\n")
+                
+
+
 
 def get_checksum(file_path):
     return hashlib.sha256(open(file_path, "rb").read()).hexdigest()
 
 
 if __name__ == "__main__":
-    # menu()
+    menu()
 
     # use .\\a for testing
 
 
-    find_duplicates(".\\a")
+    # find_duplicates(".\\a")

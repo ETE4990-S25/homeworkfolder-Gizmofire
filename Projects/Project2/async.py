@@ -59,8 +59,8 @@ def main(num_processes, run_time):
 
 if __name__ == '__main__':
   freeze_support()
-  num_processes = 4  # Adjust the number of processes
-  run_time = 5  # Adjust the run time in seconds
+  num_processes = 12  # Adjust the number of processes
+  run_time = 3 * 60   # Adjust the run time in seconds
   main(num_processes, run_time)
 
 

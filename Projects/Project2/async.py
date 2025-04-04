@@ -9,7 +9,7 @@ def is_prime(n):
             return False
     return True
 
-def worker(input_q, output_q, highest_prime, lock, end_time):
+def worker(input_q, highest_prime, lock, end_time):
   """Worker process to test numbers and update highest prime."""
   local_highest = 0
   while time.time() < end_time:  # Time-based stop condition
@@ -28,14 +28,13 @@ def main(num_processes, run_time):
   """Main function to manage processes and calculate execution time."""
   manager = Manager()
   input_q = Queue()
-  output_q = Queue()
   highest_prime = manager.Value('i', 0)
   lock = Lock()
 
   processes = []
   end_time = time.time() + run_time  # Calculate end time
   for _ in range(num_processes):
-    p = Process(target=worker, args=(input_q, output_q, highest_prime, lock, end_time))
+    p = Process(target=worker, args=(input_q, highest_prime, lock, end_time))
     processes.append(p)
     p.start()
 

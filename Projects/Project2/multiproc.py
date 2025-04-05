@@ -1,3 +1,5 @@
+# https://docs.python.org/3/library/multiprocessing.html - multiprocessing man page
+
 import time
 from multiprocessing import Process, Queue, current_process, freeze_support, Manager, Lock
 
@@ -44,7 +46,7 @@ def main(num_processes, run_time):
     input_q.put(num)
     num += 1
 
-  # Send termination signals (optional, workers will stop due to time condition)
+  # Send termination signals (optional, workers will stop due to time condition) - chatgpted
   for _ in range(num_processes):
     input_q.put(None)
 

@@ -3,6 +3,7 @@
 import time
 from multiprocessing import Process, Queue, current_process, freeze_support, Manager, Lock
 
+# given function
 def is_prime(n):
     if n <= 1:
         return False
@@ -16,7 +17,7 @@ def worker(input_q, highest_prime, lock, end_time):
   local_highest = 0
   while time.time() < end_time:  # Time-based stop condition
     try:
-      num = input_q.get(timeout=0.1)  # Add timeout to avoid blocking
+      num = input_q.get(timeout=0.01)  # Add timeout to avoid blocking
       if num is None:  # Termination signal
         break
       if is_prime(num):
@@ -59,7 +60,7 @@ def main(num_processes, run_time):
   print(f"Time taken: {end_time - start_time:.2f} seconds")
 
 if __name__ == '__main__':
-  freeze_support()
+  freeze_support() # found in some multiprocessing examples 
   num_processes = 12  # Adjust the number of processes
   run_time = 3 * 60   # Adjust the run time in seconds
   main(num_processes, run_time)

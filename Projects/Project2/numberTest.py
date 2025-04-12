@@ -1,61 +1,55 @@
-import time
-from multiprocessing import Process, Queue, current_process, freeze_support
+import threading
+from datetime import datetime, timedelta
+from fibCalc import fibTest
+from factorial import factorial_test
 
-def is_prime(n):
-    if n <= 1:
-        return False
-    for i in range(2, int(n ** 0.5) + 1):
-        if n % i == 0:
-            return False
-    return True
+multiThread = 3582017
 
-def worker(input_q, output_q, highest_prime, lock):
-  """Worker process to test numbers and update highest prime."""
-  local_highest = 0
-  while True:
-    num = input_q.get()
-    if num is None:  # Termination signal
-      break
+def testFib(num):
+    # Start task 1 (fibTest) and record its start time
+   
+    task1_start_time = datetime.now()
+    print(f"Task 1 (fibTest) started at: {task1_start_time.strftime('%Y-%m-%d %H:%M:%S.%f')}")
+    fibTest(num)  # Call the fibTest function with the multiThread argument
+
+    task1_end_time = datetime.now()
+    task1_duration = task1_end_time - task1_start_time
+    print(f"Task 1 (fibTest) finished at: {task1_end_time.strftime('%Y-%m-%d %H:%M:%S.%f')}")
+    print(f"Task 1 (fibTest) duration: {task1_duration}")
+
+
+def testFact(num):
+    # Start task 2 (factorial_test) and record its start time
+    task2_start_time = datetime.now()
+    print(f"Task 2 (factorial_test) started at: {task2_start_time.strftime('%Y-%m-%d %H:%M:%S.%f')}")
+    factorial_test(num)  # Call the factorial_test function with the multiThread argument
+
+    task2_end_time = datetime.now()
+    task2_duration = task2_end_time - task2_start_time
+    print(f"Task 2 (factorial_test) finished at: {task2_end_time.strftime('%Y-%m-%d %H:%M:%S.%f')}")
+    print(f"Task 2 (factorial_test) duration: {task2_duration}")
+
+
+
+def main():
+    start_time = datetime.now()
+    print(f"Main program started at: {start_time.strftime('%Y-%m-%d %H:%M:%S.%f')}")
+
+    print("Starting processes...")
+    thread1 = threading.Thread(target=testFib, args=(multiThread,))
+    thread2 = threading.Thread(target=testFact, args=(multiThread,))
+    thread1.start()
+    thread2.start()
+    thread1.join()
+    thread2.join()
+    print("Processes finished.")
+
     
-    if is_prime(num):
-      print
-      local_highest = max(local_highest, num)
 
-      with lock:
-        highest_prime.value = max(highest_prime.value, local_highest)
+    end_time = datetime.now()
+    main_duration = end_time - start_time
+    print(f"Main program finished at: {end_time.strftime('%Y-%m-%d %H:%M:%S.%f')}")
+    print(f"Total main program duration: {main_duration}")
 
-def main(num_processes, range_end):
-    """Main function to manage processes and calculate execution time."""
-    manager = Manager()
-    input_q = Queue()
-    output_q = Queue()
-    highest_prime = manager.Value('i', 0)  # Shared highest prime
-    lock = Lock()  # Lock to protect shared variable
-
-    processes = []
-    for _ in range(num_processes):
-        p = Process(target=worker, args=(input_q, output_q, highest_prime, lock))
-        processes.append(p)
-        p.start()
-
-    start_time = time.time()
-    for num in range(0, range_end):
-        input_q.put(num)
-
-    # Send termination signals to worker processes
-    for _ in range(num_processes):
-        input_q.put(None)
-
-    for p in processes:
-        p.join()
-
-    end_time = time.time()
-
-    print(f"Highest prime found: {highest_prime.value}")
-    print(f"Time taken: {end_time - start_time:.2f} seconds")
-
-if __name__ == '__main__':
-    freeze_support()
-    num_processes = 4  # Adjust the number of processes
-    range_end = 10000  # Adjust the range of numbers to test
-    main(num_processes, range_end)
+if __name__ == "__main__":
+    main()

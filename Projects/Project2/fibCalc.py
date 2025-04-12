@@ -12,12 +12,14 @@ def fibonacci_recursive(n):
     else:
         return fibonacci_recursive(n-1) + fibonacci_recursive(n-2)
 
-num  = 0
-while True:
-    if fibonacci_recursive(num) > 670867:
-        break
-    num += 1
-    print(f"The Fibonacci number at position {num} is {fibonacci_recursive(num)}") # Output: The Fibonacci number at position 5 is 120
+
+def fibTest(numT):
+    num  = 0
+    while True:
+        if fibonacci_recursive(num) > numT:
+            return num
+        num += 1
+        print(f"The Fibonacci number at position {num} is {fibonacci_recursive(num)}") # Output: The Fibonacci number at position 5 is 120
 
 
 

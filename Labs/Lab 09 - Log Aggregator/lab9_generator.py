@@ -8,6 +8,21 @@ options = ["INFO", "WARNING", "ERROR", "CRITICAL"]
 possible_messages = [ " System failure", "Database corruption",
     "Disk failure detected", "Database corruption"]
 
+file_path_base = "logGLfolder\\log"
+file_path_postfix_core = "_core"
+file_path_postfix_utils = "_utils"
+file_path_second_postfix = "_db"
+
+postfix_group = [file_path_postfix_core, file_path_postfix_utils,0]
+
+second_postfix_group = [file_path_second_postfix,0]
+
+
+file_path_extension = ".log"
+
+
+
+
 now = datetime.now()
 
 def getCurrentTime():
@@ -22,19 +37,73 @@ def getRandomMessage():
 
 
 
-
-file_path = "logGL.log"
-
-
-
-
 for i in range(100):
     log_level = getRandomLogLevel()
     message = getRandomMessage()
-    log_message = f"{getCurrentTime()} | {log_level} | {message} \n"
-    print(log_message)
-    with open(file_path, "a") as file:
-        file.write(log_message)
+
+    postfix = random.choice(postfix_group)
+    second_postfix = random.choice(second_postfix_group)
+
+
+    
+
+    if postfix == 0:
+        file_path = file_path_base + file_path_extension
+
+        log_message = f"{getCurrentTime()} | {file_path} | {log_level} | {message}\n"
+
+        with open(file_path, "a") as file:
+                file.write(log_message)
+    else:
+        if second_postfix == 0:
+            file_path = file_path_base + postfix + file_path_extension
+
+
+            log_message = f"{getCurrentTime()} | {file_path} | {log_level} | {message}\n"
+        
+
+            # can be done recursively
+            with open(file_path, "a") as file:
+                file.write(log_message)
+
+            file_path = file_path_base + file_path_extension
+
+            with open(file_path, "a") as file:
+                file.write(log_message)
+
+
+
+
+        else:
+            file_path = file_path_base + postfix + second_postfix + file_path_extension
+
+            log_message = f"{getCurrentTime()} | {file_path} | {log_level} | {message}\n"
+        
+            with open(file_path, "a") as file:
+                file.write(log_message)
+
+            file_path = file_path_base + postfix + file_path_extension
+
+            with open(file_path, "a") as file:
+                file.write(log_message)
+
+            file_path = file_path_base  + file_path_extension
+
+            with open(file_path, "a") as file:
+                file.write(log_message)
+
+
+
+
+
+    
+
+
+  
+
+
+
+    
 
 
 

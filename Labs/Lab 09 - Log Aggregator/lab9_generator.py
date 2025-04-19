@@ -62,7 +62,7 @@ for i in range(100):
             log_message = f"{getCurrentTime()} | {file_path} | {log_level} | {message}\n"
         
 
-            # can be done recursively
+            # can be done recursively - split by the underscore remove the last item and recombine into a string
             with open(file_path, "a") as file:
                 file.write(log_message)
 

@@ -34,9 +34,6 @@ logger.addHandler(
 
 # used https://docker-py.readthedocs.io/en/stable/containers.html
 
-
-
-
 def start_shutdown_check():
 
     while True:

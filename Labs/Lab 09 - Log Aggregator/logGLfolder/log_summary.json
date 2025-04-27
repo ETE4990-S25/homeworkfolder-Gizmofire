@@ -1,25 +1,26 @@
 {
     "INFO": {
-        "count": 17,
-        "Database corruption": 10,
-        "Disk failure detected": 1,
-        "System failure": 6
+        "count": 8,
+        "Database corruption": 3,
+        "Disk failure detected": 2,
+        "System failure": 3
     },
     "WARNING": {
-        "count": 7,
+        "count": 5,
+        "Disk failure detected": 1,
         "Database corruption": 3,
-        "Disk failure detected": 3,
         "System failure": 1
     },
     "ERROR": {
-        "count": 9,
-        "Database corruption": 3,
-        "Disk failure detected": 4,
-        "System failure": 2
+        "count": 11,
+        "Database corruption": 6,
+        "System failure": 3,
+        "Disk failure detected": 2
     },
     "CRITICAL": {
         "count": 9,
-        "Disk failure detected": 7,
-        "Database corruption": 2
+        "Disk failure detected": 2,
+        "System failure": 4,
+        "Database corruption": 3
     }
 }

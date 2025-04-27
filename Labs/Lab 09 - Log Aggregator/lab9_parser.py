@@ -5,7 +5,7 @@ from datetime import datetime
 
 
 
-dictionary = {"INFO": 0, "WARNING": 0, "ERROR": 0, "CRITICAL": 0}
+dictionary = {"INFO": {}, "WARNING": {}, "ERROR": {}, "CRITICAL": {}}
 
 
 
@@ -44,15 +44,27 @@ def logParser(log_file_path, data_dict):
 
   try:
     for line in log_generator:
-        print(f"New log entry: {line.strip()}")
-        items = line.split("|")
-        # format of data, [time, file_path, log_level, message]
-        print(items[2])
+      print(f"New log entry: {line.strip()}")
+      items = line.split("|")
+      # format of data, [time, file_path, log_level, message]
+      print(items[2])
 
-        if items[2].strip() in data_dict:
-            data_dict[items[2].strip()] += 1
-            print(f"Updated dictionary: {data_dict}")
-            
+      if items[2].strip() in data_dict:
+        if 'count' not in data_dict[items[2].strip()]:
+          data_dict[items[2].strip()]['count'] = 0
+          # print(f"Updated dictionary: {data_dict}")
+
+        data_dict[items[2].strip()]['count'] += 1
+        # print(f"Updated dictionary: {data_dict}")
+    
+      
+        if items[3].strip() in data_dict[items[2].strip()]:
+          data_dict[items[2].strip()][items[3].strip()] += 1
+        else:
+          data_dict[items[2].strip()][items[3].strip()] = 1
+          # print(f"Updated dictionary: {data_dict}")
+
+
 
   except KeyboardInterrupt:
     print("\nMonitoring stopped.")

@@ -2,10 +2,11 @@ import lab9_generator
 import lab9_parser
 import threading
 import sys
+import json
 
 
 
-dictionary = {"INFO": 0, "WARNING": 0, "ERROR": 0, "CRITICAL": 0}
+dictionary = {"INFO": {}, "WARNING": {}, "ERROR": {}, "CRITICAL": {}}
 
 def main():
     t1 = threading.Thread(target=lab9_generator.logGenerator)
@@ -16,7 +17,7 @@ def main():
     t1.start()
 
     # timout added since program was being hung 
-    t2.join(timeout=10)
+    t2.join(timeout=4)
     
    
     t1.join()
@@ -25,6 +26,11 @@ def main():
 
     print("Done!")
     print("Final dictionary:", dictionary)
+
+    with open("logGLfolder\\log_summary.json", "w") as json_file:
+        json.dump(dictionary, json_file, indent=4)
+
+
     print("Exiting in 10 seconds...")
 
     lab9_parser.exitTimer()

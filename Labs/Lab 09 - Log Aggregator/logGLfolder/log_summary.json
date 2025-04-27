@@ -1,0 +1,25 @@
+{
+    "INFO": {
+        "count": 17,
+        "Database corruption": 10,
+        "Disk failure detected": 1,
+        "System failure": 6
+    },
+    "WARNING": {
+        "count": 7,
+        "Database corruption": 3,
+        "Disk failure detected": 3,
+        "System failure": 1
+    },
+    "ERROR": {
+        "count": 9,
+        "Database corruption": 3,
+        "Disk failure detected": 4,
+        "System failure": 2
+    },
+    "CRITICAL": {
+        "count": 9,
+        "Disk failure detected": 7,
+        "Database corruption": 2
+    }
+}

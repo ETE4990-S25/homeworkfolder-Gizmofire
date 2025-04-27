@@ -798,3 +798,1203 @@
 2025-04-27 13:14:41 | logGLfolder\log_core.log | ERROR | Database corruption
 2025-04-27 13:14:41 | logGLfolder\log_core_db.log | INFO |  System failure
 2025-04-27 13:14:41 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils.log | ERROR |  System failure
+2025-04-27 13:16:13 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | ERROR | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_core.log | INFO |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_core_db.log | ERROR | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils.log | CRITICAL | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_core.log | ERROR |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_utils.log | CRITICAL | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log.log | ERROR |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_utils.log | ERROR |  System failure
+2025-04-27 13:16:13 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_core_db.log | INFO | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log_utils.log | INFO | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | CRITICAL |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_utils.log | WARNING |  System failure
+2025-04-27 13:16:13 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | CRITICAL |  System failure
+2025-04-27 13:16:13 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_core_db.log | INFO | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils.log | INFO |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_core_db.log | ERROR | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils.log | ERROR |  System failure
+2025-04-27 13:16:13 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_core.log | ERROR |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | INFO | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_core.log | WARNING | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | WARNING | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils.log | INFO | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log_core_db.log | ERROR | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | WARNING | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | WARNING | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_core.log | INFO | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log_core.log | INFO |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils.log | WARNING |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_utils.log | CRITICAL | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_core_db.log | WARNING |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | WARNING | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:16:13 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_core_db.log | ERROR | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log_core.log | CRITICAL |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_core.log | CRITICAL | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_core_db.log | INFO | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log_utils_db.log | CRITICAL |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:16:13 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:16:13 | logGLfolder\log_utils.log | INFO |  System failure
+2025-04-27 13:16:13 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_core_db.log | WARNING |  System failure
+2025-04-27 13:16:31 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_utils.log | INFO | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:16:31 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_utils.log | INFO |  System failure
+2025-04-27 13:16:31 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_core_db.log | CRITICAL |  System failure
+2025-04-27 13:16:31 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_core.log | WARNING |  System failure
+2025-04-27 13:16:31 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_utils.log | INFO | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_core_db.log | INFO | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_utils_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_core_db.log | ERROR |  System failure
+2025-04-27 13:16:31 | logGLfolder\log_utils.log | ERROR | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_core.log | WARNING | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log.log | ERROR |  System failure
+2025-04-27 13:16:31 | logGLfolder\log_core.log | ERROR |  System failure
+2025-04-27 13:16:31 | logGLfolder\log_core_db.log | WARNING |  System failure
+2025-04-27 13:16:31 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_core_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_utils.log | CRITICAL | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_core.log | CRITICAL |  System failure
+2025-04-27 13:16:31 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_core_db.log | INFO |  System failure
+2025-04-27 13:16:31 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:16:31 | logGLfolder\log_utils.log | ERROR | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_core.log | ERROR | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:16:31 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_core_db.log | WARNING | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:16:31 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:16:31 | logGLfolder\log_utils_db.log | WARNING | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_core.log | INFO | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_utils_db.log | INFO | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_core.log | ERROR |  System failure
+2025-04-27 13:16:31 | logGLfolder\log_core.log | INFO |  System failure
+2025-04-27 13:16:31 | logGLfolder\log_utils_db.log | WARNING | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log.log | ERROR |  System failure
+2025-04-27 13:16:31 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:16:31 | logGLfolder\log_core_db.log | ERROR | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_utils_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_utils_db.log | ERROR | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log_core.log | ERROR | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_core_db.log | ERROR | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:16:31 | logGLfolder\log_core.log | ERROR | Disk failure detected
+2025-04-27 13:16:31 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:16:31 | logGLfolder\log_core_db.log | INFO |  System failure
+2025-04-27 13:16:31 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core_db.log | WARNING |  System failure
+2025-04-27 13:27:46 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core.log | INFO |  System failure
+2025-04-27 13:27:46 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:27:46 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log_utils.log | CRITICAL |  System failure
+2025-04-27 13:27:46 | logGLfolder\log_utils.log | INFO | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core.log | CRITICAL |  System failure
+2025-04-27 13:27:46 | logGLfolder\log_core_db.log | ERROR | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core_db.log | INFO |  System failure
+2025-04-27 13:27:46 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | WARNING | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log.log | ERROR |  System failure
+2025-04-27 13:27:46 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core.log | INFO |  System failure
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | ERROR | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | WARNING | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:27:46 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:27:46 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:27:46 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:27:46 | logGLfolder\log_core.log | CRITICAL |  System failure
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | WARNING |  System failure
+2025-04-27 13:27:46 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | WARNING | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core_db.log | CRITICAL |  System failure
+2025-04-27 13:27:46 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core.log | ERROR | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core_db.log | WARNING | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | WARNING | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:27:46 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:27:46 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:27:46 | logGLfolder\log_core_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core_db.log | WARNING | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | ERROR |  System failure
+2025-04-27 13:27:46 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log.log | ERROR |  System failure
+2025-04-27 13:27:46 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:27:46 | logGLfolder\log_core.log | INFO |  System failure
+2025-04-27 13:27:46 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:27:46 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core_db.log | ERROR | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | CRITICAL |  System failure
+2025-04-27 13:27:46 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_core.log | WARNING |  System failure
+2025-04-27 13:27:46 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log_core.log | CRITICAL | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log_utils.log | ERROR | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:27:46 | logGLfolder\log.log | ERROR |  System failure
+2025-04-27 13:27:46 | logGLfolder\log_core.log | CRITICAL |  System failure
+2025-04-27 13:27:46 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:27:46 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | INFO | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_core.log | CRITICAL |  System failure
+2025-04-27 13:32:11 | logGLfolder\log_core.log | INFO |  System failure
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | ERROR | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:32:11 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_core.log | CRITICAL | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log_core.log | INFO |  System failure
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | WARNING | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | ERROR | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | ERROR | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | WARNING |  System failure
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | ERROR | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | WARNING | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | INFO | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_core.log | CRITICAL | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_core_db.log | ERROR | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_core_db.log | ERROR | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_core.log | INFO | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:32:11 | logGLfolder\log_core_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | ERROR | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:32:11 | logGLfolder\log_core.log | WARNING | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log_core_db.log | WARNING |  System failure
+2025-04-27 13:32:11 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | CRITICAL | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | INFO | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:32:11 | logGLfolder\log_core_db.log | ERROR | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_core_db.log | INFO |  System failure
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | WARNING | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:32:11 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:32:11 | logGLfolder\log_utils_db.log | WARNING |  System failure
+2025-04-27 13:32:11 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_core.log | CRITICAL |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_utils_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log_utils.log | INFO |  System failure
+2025-04-27 13:33:55 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_utils_db.log | CRITICAL |  System failure
+2025-04-27 13:33:55 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_core_db.log | INFO |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_core_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_utils.log | INFO |  System failure
+2025-04-27 13:33:55 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_core.log | WARNING |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log_core_db.log | ERROR | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:33:55 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_utils.log | INFO | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_core_db.log | INFO |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log_core.log | INFO |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_core.log | INFO | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log_core_db.log | INFO | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_core.log | INFO | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_core_db.log | WARNING |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_utils.log | CRITICAL |  System failure
+2025-04-27 13:33:55 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_core_db.log | ERROR | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_utils_db.log | WARNING | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_core_db.log | INFO |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_utils_db.log | ERROR | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_core_db.log | INFO | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_core.log | INFO | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log_core_db.log | WARNING |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_core.log | CRITICAL |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_core.log | ERROR |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_core.log | WARNING |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_core.log | CRITICAL | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_utils_db.log | WARNING | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_core_db.log | ERROR | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log_core.log | INFO | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_utils.log | ERROR |  System failure
+2025-04-27 13:33:55 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_utils.log | CRITICAL |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_utils_db.log | INFO | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log_core.log | INFO | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log_core_db.log | CRITICAL |  System failure
+2025-04-27 13:33:55 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_utils_db.log | CRITICAL |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_core_db.log | WARNING | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_core_db.log | WARNING | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_core_db.log | INFO | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:33:55 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:33:55 | logGLfolder\log_utils.log | ERROR |  System failure
+2025-04-27 13:33:55 | logGLfolder\log_core.log | ERROR | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils_db.log | ERROR | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core_db.log | INFO | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_core.log | CRITICAL | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_core_db.log | ERROR | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core_db.log | CRITICAL |  System failure
+2025-04-27 13:34:25 | logGLfolder\log_utils_db.log | WARNING | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core.log | INFO | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | INFO | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core.log | WARNING |  System failure
+2025-04-27 13:34:25 | logGLfolder\log_utils_db.log | ERROR |  System failure
+2025-04-27 13:34:25 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | CRITICAL | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_core.log | INFO |  System failure
+2025-04-27 13:34:25 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log.log | ERROR |  System failure
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | ERROR | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_core_db.log | ERROR | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log.log | ERROR |  System failure
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core_db.log | INFO | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_core_db.log | WARNING | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core.log | INFO | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:34:25 | logGLfolder\log.log | ERROR |  System failure
+2025-04-27 13:34:25 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:34:25 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core_db.log | INFO | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | CRITICAL |  System failure
+2025-04-27 13:34:25 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core.log | WARNING | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_utils_db.log | WARNING | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:34:25 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils_db.log | ERROR | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils_db.log | INFO | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core.log | ERROR | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log.log | ERROR |  System failure
+2025-04-27 13:34:25 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:34:25 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:34:25 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:34:25 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_core.log | WARNING | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_core_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_core.log | ERROR |  System failure
+2025-04-27 13:36:32 | logGLfolder\log_core.log | INFO |  System failure
+2025-04-27 13:36:32 | logGLfolder\log_utils_db.log | INFO | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:36:32 | logGLfolder\log_utils_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:36:32 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:36:32 | logGLfolder\log_core_db.log | ERROR | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_core.log | CRITICAL |  System failure
+2025-04-27 13:36:32 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_core_db.log | ERROR | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_utils_db.log | ERROR |  System failure
+2025-04-27 13:36:32 | logGLfolder\log_core.log | INFO |  System failure
+2025-04-27 13:36:32 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_core_db.log | ERROR | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_core_db.log | INFO | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_core_db.log | WARNING |  System failure
+2025-04-27 13:36:32 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:36:32 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_utils.log | INFO | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_core.log | ERROR |  System failure
+2025-04-27 13:36:32 | logGLfolder\log.log | ERROR |  System failure
+2025-04-27 13:36:32 | logGLfolder\log_core.log | WARNING |  System failure
+2025-04-27 13:36:32 | logGLfolder\log_core_db.log | WARNING |  System failure
+2025-04-27 13:36:32 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:36:32 | logGLfolder\log_utils.log | INFO | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_utils_db.log | CRITICAL |  System failure
+2025-04-27 13:36:32 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_core_db.log | ERROR |  System failure
+2025-04-27 13:36:32 | logGLfolder\log_utils_db.log | WARNING | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_core.log | CRITICAL | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_utils_db.log | WARNING | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:36:32 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_utils.log | ERROR | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_utils.log | INFO |  System failure
+2025-04-27 13:36:32 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_core.log | CRITICAL | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:36:32 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:36:32 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_utils_db.log | INFO | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_utils.log | INFO |  System failure
+2025-04-27 13:36:32 | logGLfolder\log_core.log | WARNING |  System failure
+2025-04-27 13:36:32 | logGLfolder\log_core_db.log | WARNING | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_core.log | WARNING | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_core_db.log | ERROR | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_core.log | ERROR |  System failure
+2025-04-27 13:36:32 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_utils.log | CRITICAL | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_core_db.log | INFO |  System failure
+2025-04-27 13:36:32 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_utils_db.log | INFO | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_core_db.log | WARNING |  System failure
+2025-04-27 13:36:32 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:36:32 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:36:32 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils.log | ERROR | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:37:10 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core.log | ERROR | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | WARNING | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core.log | WARNING | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_core_db.log | WARNING |  System failure
+2025-04-27 13:37:10 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_core_db.log | ERROR | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | INFO | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core_db.log | ERROR | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:37:10 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core.log | CRITICAL |  System failure
+2025-04-27 13:37:10 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core.log | INFO | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_core_db.log | ERROR | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | WARNING |  System failure
+2025-04-27 13:37:10 | logGLfolder\log_core.log | CRITICAL | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | ERROR |  System failure
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | INFO | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core.log | CRITICAL |  System failure
+2025-04-27 13:37:10 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core.log | ERROR | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log.log | ERROR |  System failure
+2025-04-27 13:37:10 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core.log | ERROR |  System failure
+2025-04-27 13:37:10 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | WARNING | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_core_db.log | WARNING |  System failure
+2025-04-27 13:37:10 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core.log | ERROR | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | CRITICAL |  System failure
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | INFO | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_core_db.log | ERROR |  System failure
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | WARNING | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils.log | CRITICAL | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:37:10 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core.log | ERROR | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | WARNING |  System failure
+2025-04-27 13:37:10 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core_db.log | INFO |  System failure
+2025-04-27 13:37:10 | logGLfolder\log_core_db.log | ERROR | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:37:10 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | WARNING |  System failure
+2025-04-27 13:37:10 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | ERROR |  System failure
+2025-04-27 13:37:10 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:37:10 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:37:10 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_utils.log | ERROR |  System failure
+2025-04-27 13:38:50 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_core_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log_utils_db.log | WARNING | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log_core_db.log | ERROR | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_utils.log | WARNING |  System failure
+2025-04-27 13:38:50 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_core_db.log | ERROR | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_core.log | ERROR | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log_utils.log | WARNING |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_core_db.log | WARNING | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_core.log | INFO | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log_core_db.log | ERROR | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_core.log | WARNING | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log_utils.log | ERROR | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log.log | ERROR |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_utils.log | INFO |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_core.log | INFO |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_core_db.log | CRITICAL |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_core.log | WARNING | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_utils.log | CRITICAL | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log_core_db.log | INFO |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log_core.log | INFO |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_core.log | ERROR | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_core.log | INFO | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_core_db.log | INFO | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_core_db.log | INFO | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_core_db.log | INFO |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_utils.log | ERROR | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_core_db.log | CRITICAL |  System failure
+2025-04-27 13:38:50 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:38:50 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_core.log | ERROR | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_core_db.log | INFO | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log_core.log | ERROR | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_core.log | INFO | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log_core_db.log | ERROR |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_core.log | WARNING |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log_core.log | WARNING |  System failure
+2025-04-27 13:38:50 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:38:50 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:38:50 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:38:50 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:38:50 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_utils_db.log | ERROR | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_utils_db.log | WARNING |  System failure
+2025-04-27 13:39:21 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log_core_db.log | INFO | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log_core_db.log | ERROR | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_core.log | INFO |  System failure
+2025-04-27 13:39:21 | logGLfolder\log_core.log | CRITICAL |  System failure
+2025-04-27 13:39:21 | logGLfolder\log_core_db.log | ERROR | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_core.log | CRITICAL | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_utils_db.log | CRITICAL |  System failure
+2025-04-27 13:39:21 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_utils_db.log | WARNING | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_core.log | CRITICAL | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log_utils.log | WARNING |  System failure
+2025-04-27 13:39:21 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:39:21 | logGLfolder\log_core_db.log | INFO |  System failure
+2025-04-27 13:39:21 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:39:21 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_core_db.log | INFO |  System failure
+2025-04-27 13:39:21 | logGLfolder\log.log | ERROR |  System failure
+2025-04-27 13:39:21 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log.log | ERROR |  System failure
+2025-04-27 13:39:21 | logGLfolder\log_utils.log | CRITICAL |  System failure
+2025-04-27 13:39:21 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_utils.log | ERROR |  System failure
+2025-04-27 13:39:21 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_core.log | INFO |  System failure
+2025-04-27 13:39:21 | logGLfolder\log_core_db.log | ERROR |  System failure
+2025-04-27 13:39:21 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log_core.log | WARNING | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log_core.log | INFO | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_core.log | ERROR | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_core.log | ERROR |  System failure
+2025-04-27 13:39:21 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:39:21 | logGLfolder\log_utils_db.log | ERROR | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log_core_db.log | CRITICAL |  System failure
+2025-04-27 13:39:21 | logGLfolder\log_utils.log | ERROR |  System failure
+2025-04-27 13:39:21 | logGLfolder\log_utils.log | ERROR |  System failure
+2025-04-27 13:39:21 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_core.log | CRITICAL |  System failure
+2025-04-27 13:39:21 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_utils_db.log | ERROR | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log_core_db.log | CRITICAL |  System failure
+2025-04-27 13:39:21 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log_core_db.log | ERROR | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log.log | ERROR |  System failure
+2025-04-27 13:39:21 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:39:21 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:39:21 | logGLfolder\log_core.log | CRITICAL | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:39:21 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:39:21 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_core.log | WARNING | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_core_db.log | ERROR |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_core_db.log | ERROR |  System failure
+2025-04-27 13:42:04 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log_core.log | WARNING | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_core_db.log | ERROR |  System failure
+2025-04-27 13:42:04 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:42:04 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_utils_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log_core_db.log | INFO |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_utils.log | ERROR | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_utils.log | ERROR | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_utils.log | WARNING | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log_core_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log_utils_db.log | CRITICAL |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_core_db.log | ERROR | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log_core_db.log | INFO |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_utils.log | INFO | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:42:04 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_utils_db.log | WARNING | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_core_db.log | INFO |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_utils_db.log | WARNING | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_core.log | ERROR | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_core.log | ERROR |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_utils.log | WARNING |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_core_db.log | ERROR | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:42:04 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_utils_db.log | ERROR |  System failure
+2025-04-27 13:42:04 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_utils.log | WARNING |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_utils_db.log | INFO | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_core.log | WARNING |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_core_db.log | WARNING | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log.log | ERROR |  System failure
+2025-04-27 13:42:04 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_core.log | CRITICAL |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_utils_db.log | WARNING | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log_core.log | ERROR | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log_utils_db.log | CRITICAL |  System failure
+2025-04-27 13:42:04 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:42:04 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:42:04 | logGLfolder\log_utils_db.log | WARNING | Disk failure detected
+2025-04-27 13:42:04 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils_db.log | ERROR |  System failure
+2025-04-27 13:42:37 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils_db.log | WARNING |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_core.log | WARNING | Disk failure detected
+2025-04-27 13:42:37 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | ERROR | Disk failure detected
+2025-04-27 13:42:37 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils_db.log | CRITICAL |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_core.log | ERROR | Disk failure detected
+2025-04-27 13:42:37 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils_db.log | CRITICAL | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log.log | ERROR |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_utils_db.log | INFO |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | INFO | Disk failure detected
+2025-04-27 13:42:37 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_core_db.log | ERROR | Disk failure detected
+2025-04-27 13:42:37 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils_db.log | CRITICAL |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_core.log | ERROR |  System failure
+2025-04-27 13:42:37 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_core_db.log | INFO | Disk failure detected
+2025-04-27 13:42:37 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_core.log | WARNING | Disk failure detected
+2025-04-27 13:42:37 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:42:37 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils_db.log | WARNING | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_core_db.log | INFO | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_core_db.log | ERROR |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_utils_db.log | INFO | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_core_db.log | ERROR |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | INFO | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | CRITICAL |  System failure
+2025-04-27 13:42:37 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:42:37 | logGLfolder\log.log | INFO | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_core_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:42:37 | logGLfolder\log_core_db.log | INFO |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | CRITICAL |  System failure
+2025-04-27 13:42:37 | logGLfolder\log.log | CRITICAL | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | CRITICAL | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils_db.log | ERROR | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log.log | INFO | Disk failure detected
+2025-04-27 13:42:37 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:42:37 | logGLfolder\log.log | WARNING | Disk failure detected
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | ERROR | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_core_db.log | INFO |  System failure
+2025-04-27 13:42:37 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log.log | WARNING | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log.log | ERROR | Disk failure detected
+2025-04-27 13:42:37 | logGLfolder\log_core_db.log | CRITICAL | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils_db.log | CRITICAL | Disk failure detected
+2025-04-27 13:42:37 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | WARNING |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_core.log | CRITICAL |  System failure
+2025-04-27 13:42:37 | logGLfolder\log.log | WARNING |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_core.log | WARNING | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_core_db.log | CRITICAL |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_core.log | INFO | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log.log | CRITICAL | Disk failure detected
+2025-04-27 13:42:37 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_utils_db.log | WARNING | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_core_db.log | WARNING | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils_db.log | CRITICAL |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | WARNING |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | INFO |  System failure
+2025-04-27 13:42:37 | logGLfolder\log.log | INFO |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | WARNING | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log.log | CRITICAL |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_core.log | ERROR |  System failure
+2025-04-27 13:42:37 | logGLfolder\log_core.log | CRITICAL | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log.log | ERROR | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_core.log | INFO | Disk failure detected
+2025-04-27 13:42:37 | logGLfolder\log_core.log | ERROR | Database corruption
+2025-04-27 13:42:37 | logGLfolder\log_utils.log | CRITICAL | Database corruption

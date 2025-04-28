@@ -5,6 +5,11 @@ from datetime import datetime
 
 
 
+# pretty much does 2b and 3a 
+# creates a thread that reads the log as its being written to 
+# at the end pritns the summary of the log file for all levels of logging including critical
+
+
 dictionary = {"INFO": {}, "WARNING": {}, "ERROR": {}, "CRITICAL": {}}
 
 
@@ -44,10 +49,16 @@ def logParser(log_file_path, data_dict):
 
   try:
     for line in log_generator:
-      print(f"New log entry: {line.strip()}")
+      # print(f"New log entry: {line.strip()}")
       items = line.split("|")
       # format of data, [time, file_path, log_level, message]
-      print(items[2])
+      # print(items[2])
+
+      if (items[2].strip() == "CRITICAL"):
+        print("Critical log entry detected!\n")
+        print(f"Time: {items[0]} CRITICAL Found at {items[1]} with message: {items[3]}")
+
+
 
       if items[2].strip() in data_dict:
         if 'count' not in data_dict[items[2].strip()]:
@@ -63,8 +74,6 @@ def logParser(log_file_path, data_dict):
         else:
           data_dict[items[2].strip()][items[3].strip()] = 1
           # print(f"Updated dictionary: {data_dict}")
-
-
 
   except KeyboardInterrupt:
     print("\nMonitoring stopped.")

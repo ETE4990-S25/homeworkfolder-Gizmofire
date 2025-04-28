@@ -1,6 +1,6 @@
 
 
-
+# sample dict
 dictionary = {
                 'INFO': {'count': 8, 
                         'Database corruption': 3, 

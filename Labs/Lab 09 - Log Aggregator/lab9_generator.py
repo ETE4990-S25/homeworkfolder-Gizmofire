@@ -4,6 +4,11 @@ import time
 from datetime import datetime
 
 
+
+
+# quizkly makes a sample logfile dseired for the parser to read from
+
+
 options = ["INFO", "WARNING", "ERROR", "CRITICAL"]
 possible_messages = [ " System failure", "Database corruption",
     "Disk failure detected", "Database corruption"]

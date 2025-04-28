@@ -4,7 +4,7 @@ import threading
 import sys
 import json
 
-
+# all the threads are to be ran from here
 
 dictionary = {"INFO": {}, "WARNING": {}, "ERROR": {}, "CRITICAL": {}}
 
@@ -18,11 +18,8 @@ def main():
 
     # timout added since program was being hung 
     t2.join(timeout=4)
-    
-   
     t1.join()
 
-    
 
     print("Done!")
     print("Final dictionary:", dictionary)
@@ -31,8 +28,9 @@ def main():
         json.dump(dictionary, json_file, indent=4)
 
 
-    print("Exiting in 10 seconds...")
-
+    
+    
+    # this does not work at all, cry face
     lab9_parser.exitTimer()
 
    

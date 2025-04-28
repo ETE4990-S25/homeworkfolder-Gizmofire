@@ -68,14 +68,17 @@ def dict_listener(dictionary):
     temp  = {"INFO": {}, "WARNING": {}, "ERROR": {}, "CRITICAL": {}}
     
     start_time = time.time()
-    while time.time() - start_time < 10:
+    while True:
+        if time.time() - start_time >= 10:
+            break
         
         if temp != dictionary:
             # If the dictionary has changed, update the graph
             draw_graph(dictionary)
             # Update the temp variable to the current state of the dictionary
-            temp = dictionary.copy()
-        time.sleep(0.001)
+            # copy this data did not work for some reason, so i had to use this AI reponse that worked?????
+            temp = {key: value.copy() for key, value in dictionary.items()}
+        time.sleep(0.01)
         
 
 

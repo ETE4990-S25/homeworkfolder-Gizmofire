@@ -44,6 +44,7 @@ def getRandomMessage():
 def logGenerator():
     # Generated log messages - not the log handler way wanted but you said this was okay when asked in person :)
     for i in range(100):
+        time.sleep(0.01)
         log_level = getRandomLogLevel()
         message = getRandomMessage()
 

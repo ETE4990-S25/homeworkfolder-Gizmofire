@@ -21,7 +21,7 @@ def new_line_reader(log_file_path):
       while True:
         line = file_.readline()
         if not line:
-          time.sleep(0.001)  # Wait briefly if no new lines
+          time.sleep(0.000000001)  # Wait briefly if no new lines
           continue
         yield line
   except FileNotFoundError:

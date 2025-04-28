@@ -12,7 +12,7 @@ dictionary = {"INFO": {}, "WARNING": {}, "ERROR": {}, "CRITICAL": {}}
 def main():
     t1 = threading.Thread(target=lab9_generator.logGenerator, daemon=True)
     t2 = threading.Thread(target=lab9_parser.logParser, daemon=True, args=("logGLfolder\\log.log",dictionary))
-    t3 = threading.Thread(target=lab9Graph.dict_listener, daemon=True, args=(dictionary))
+    t3 = threading.Thread(target=lab9Graph.dict_listener, daemon=True, args=(dictionary,))
     
 
     

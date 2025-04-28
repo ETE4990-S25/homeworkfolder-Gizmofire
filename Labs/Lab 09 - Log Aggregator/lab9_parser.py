@@ -18,7 +18,6 @@ def new_line_reader(log_file_path):
   try:
     with open(log_file_path, 'r') as file_:
       file_.seek(0, 2)
-
       while True:
         line = file_.readline()
         if not line:
@@ -30,14 +29,14 @@ def new_line_reader(log_file_path):
   except Exception as e:
     print(f"An error occurred: {e}")
 
-# added this 
+
+# added this to try and solve hanging issue
 def exitTimer():
   # Exit timer for the program
   print("Exiting in 10 seconds...")
   time.sleep(10)
   print("Exiting now.")
   exit(0)
-
 
 
 def logParser(log_file_path, data_dict):

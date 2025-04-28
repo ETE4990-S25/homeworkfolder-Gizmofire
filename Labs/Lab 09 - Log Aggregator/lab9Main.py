@@ -10,10 +10,13 @@ import json
 dictionary = {"INFO": {}, "WARNING": {}, "ERROR": {}, "CRITICAL": {}}
 
 def main():
-    t1 = threading.Thread(target=lab9_generator.logGenerator)
-    t2 = threading.Thread(target=lab9_parser.logParser, args=("logGLfolder\\log.log",dictionary))
-    t3 = threading.Thread(target=lab9Graph.dict_listener, args=(dictionary))
+    t1 = threading.Thread(target=lab9_generator.logGenerator, daemon=True)
+    t2 = threading.Thread(target=lab9_parser.logParser, daemon=True, args=("logGLfolder\\log.log",dictionary))
+    t3 = threading.Thread(target=lab9Graph.dict_listener, daemon=True, args=(dictionary))
     
+
+    
+
     t2.start()
     t3.start()
     t1.start()

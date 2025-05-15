@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Saudi Riyal (SAR) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/sar/</link>
+	<xmlLink>http://www.floatrates.com/daily/sar.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Saudi Riyal (SAR) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>SAR</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 SAR = 0.179187 EUR</title>
+		<link>http://www.floatrates.com/sar/eur/</link>
+		<description>1 Saudi Riyal = 0.179187 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.179187</exchangeRate>
+		<inverseRate>5.580750</inverseRate>
+		<inverseDescription>1 Euro = 5.580750 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.161416 GBP</title>
+		<link>http://www.floatrates.com/sar/gbp/</link>
+		<description>1 Saudi Riyal = 0.161416 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.161416</exchangeRate>
+		<inverseRate>6.195171</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 6.195171 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.266667 USD</title>
+		<link>http://www.floatrates.com/sar/usd/</link>
+		<description>1 Saudi Riyal = 0.266667 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.266667</exchangeRate>
+		<inverseRate>3.750000</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 3.750000 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 19.011467 DZD</title>
+		<link>http://www.floatrates.com/sar/dzd/</link>
+		<description>1 Saudi Riyal = 19.011467 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>19.011467</exchangeRate>
+		<inverseRate>0.052600</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.052600 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.246158 AUD</title>
+		<link>http://www.floatrates.com/sar/aud/</link>
+		<description>1 Saudi Riyal = 0.246158 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.246158</exchangeRate>
+		<inverseRate>4.062425</inverseRate>
+		<inverseDescription>1 Australian Dollar = 4.062425 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 1.699596 BWP</title>
+		<link>http://www.floatrates.com/sar/bwp/</link>
+		<description>1 Saudi Riyal = 1.699596 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>1.699596</exchangeRate>
+		<inverseRate>0.588375</inverseRate>
+		<inverseDescription>1 Botswana Pula = 0.588375 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.328053 BND</title>
+		<link>http://www.floatrates.com/sar/bnd/</link>
+		<description>1 Saudi Riyal = 0.328053 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.328053</exchangeRate>
+		<inverseRate>3.048285</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 3.048285 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.254977 CAD</title>
+		<link>http://www.floatrates.com/sar/cad/</link>
+		<description>1 Saudi Riyal = 0.254977 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.254977</exchangeRate>
+		<inverseRate>3.921920</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 3.921920 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 123.485333 CLP</title>
+		<link>http://www.floatrates.com/sar/clp/</link>
+		<description>1 Saudi Riyal = 123.485333 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>123.485333</exchangeRate>
+		<inverseRate>0.008098</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.008098 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 1.732985 CNY</title>
+		<link>http://www.floatrates.com/sar/cny/</link>
+		<description>1 Saudi Riyal = 1.732985 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>1.732985</exchangeRate>
+		<inverseRate>0.577039</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 0.577039 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 471.213333 COP</title>
+		<link>http://www.floatrates.com/sar/cop/</link>
+		<description>1 Saudi Riyal = 471.213333 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>471.213333</exchangeRate>
+		<inverseRate>0.002122</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.002122 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 4.337538 CZK</title>
+		<link>http://www.floatrates.com/sar/czk/</link>
+		<description>1 Saudi Riyal = 4.337538 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>4.337538</exchangeRate>
+		<inverseRate>0.230546</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.230546 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 1.336161 DKK</title>
+		<link>http://www.floatrates.com/sar/dkk/</link>
+		<description>1 Saudi Riyal = 1.336161 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>1.336161</exchangeRate>
+		<inverseRate>0.748413</inverseRate>
+		<inverseDescription>1 Danish Krone = 0.748413 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 47.554883 HUF</title>
+		<link>http://www.floatrates.com/sar/huf/</link>
+		<description>1 Saudi Riyal = 47.554883 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>47.554883</exchangeRate>
+		<inverseRate>0.021028</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.021028 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 29.704000 ISK</title>
+		<link>http://www.floatrates.com/sar/isk/</link>
+		<description>1 Saudi Riyal = 29.704000 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>29.704000</exchangeRate>
+		<inverseRate>0.033665</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.033665 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 11.879985 INR</title>
+		<link>http://www.floatrates.com/sar/inr/</link>
+		<description>1 Saudi Riyal = 11.879985 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>11.879985</exchangeRate>
+		<inverseRate>0.084175</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.084175 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 2,281.776201 IDR</title>
+		<link>http://www.floatrates.com/sar/idr/</link>
+		<description>1 Saudi Riyal = 2,281.776201 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>2,281.776201</exchangeRate>
+		<inverseRate>0.000438</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.000438 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.904744 ILS</title>
+		<link>http://www.floatrates.com/sar/ils/</link>
+		<description>1 Saudi Riyal = 0.904744 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.904744</exchangeRate>
+		<inverseRate>1.105285</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 1.105285 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 38.877333 KZT</title>
+		<link>http://www.floatrates.com/sar/kzt/</link>
+		<description>1 Saudi Riyal = 38.877333 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>38.877333</exchangeRate>
+		<inverseRate>0.025722</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.025722 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 285.614137 KRW</title>
+		<link>http://www.floatrates.com/sar/krw/</link>
+		<description>1 Saudi Riyal = 285.614137 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>285.614137</exchangeRate>
+		<inverseRate>0.003501</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.003501 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.073173 KWD</title>
+		<link>http://www.floatrates.com/sar/kwd/</link>
+		<description>1 Saudi Riyal = 0.073173 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.073173</exchangeRate>
+		<inverseRate>13.666181</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 13.666181 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.515307 LYD</title>
+		<link>http://www.floatrates.com/sar/lyd/</link>
+		<description>1 Saudi Riyal = 0.515307 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.515307</exchangeRate>
+		<inverseRate>1.940592</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 1.940592 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.794402 MYR</title>
+		<link>http://www.floatrates.com/sar/myr/</link>
+		<description>1 Saudi Riyal = 0.794402 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.794402</exchangeRate>
+		<inverseRate>1.258809</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 1.258809 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 7.260933 MUR</title>
+		<link>http://www.floatrates.com/sar/mur/</link>
+		<description>1 Saudi Riyal = 7.260933 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>7.260933</exchangeRate>
+		<inverseRate>0.137723</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.137723 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 18.970667 NPR</title>
+		<link>http://www.floatrates.com/sar/npr/</link>
+		<description>1 Saudi Riyal = 18.970667 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>18.970667</exchangeRate>
+		<inverseRate>0.052713</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.052713 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.334700 NZD</title>
+		<link>http://www.floatrates.com/sar/nzd/</link>
+		<description>1 Saudi Riyal = 0.334700 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.334700</exchangeRate>
+		<inverseRate>2.987755</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 2.987755 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 1.410377 NOK</title>
+		<link>http://www.floatrates.com/sar/nok/</link>
+		<description>1 Saudi Riyal = 1.410377 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>1.410377</exchangeRate>
+		<inverseRate>0.709030</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 0.709030 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.102533 OMR</title>
+		<link>http://www.floatrates.com/sar/omr/</link>
+		<description>1 Saudi Riyal = 0.102533 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.102533</exchangeRate>
+		<inverseRate>9.752926</inverseRate>
+		<inverseDescription>1 Omani Rial = 9.752926 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 22.482267 PKR</title>
+		<link>http://www.floatrates.com/sar/pkr/</link>
+		<description>1 Saudi Riyal = 22.482267 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>22.482267</exchangeRate>
+		<inverseRate>0.044480</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.044480 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.706223 PLN</title>
+		<link>http://www.floatrates.com/sar/pln/</link>
+		<description>1 Saudi Riyal = 0.706223 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.706223</exchangeRate>
+		<inverseRate>1.415983</inverseRate>
+		<inverseDescription>1 Polish Zloty = 1.415983 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.970667 QAR</title>
+		<link>http://www.floatrates.com/sar/qar/</link>
+		<description>1 Saudi Riyal = 0.970667 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.970667</exchangeRate>
+		<inverseRate>1.030220</inverseRate>
+		<inverseDescription>1 Qatari Rial = 1.030220 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 7.286155 RUB</title>
+		<link>http://www.floatrates.com/sar/rub/</link>
+		<description>1 Saudi Riyal = 7.286155 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>7.286155</exchangeRate>
+		<inverseRate>0.137247</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.137247 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 1.000000 SAR</title>
+		<link>http://www.floatrates.com/sar/sar/</link>
+		<description>1 Saudi Riyal = 1.000000 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 1.000000 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.327797 SGD</title>
+		<link>http://www.floatrates.com/sar/sgd/</link>
+		<description>1 Saudi Riyal = 0.327797 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.327797</exchangeRate>
+		<inverseRate>3.050664</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 3.050664 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 1.766376 ZAR</title>
+		<link>http://www.floatrates.com/sar/zar/</link>
+		<description>1 Saudi Riyal = 1.766376 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>1.766376</exchangeRate>
+		<inverseRate>0.566131</inverseRate>
+		<inverseDescription>1 South African Rand = 0.566131 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 29.275067 LKR</title>
+		<link>http://www.floatrates.com/sar/lkr/</link>
+		<description>1 Saudi Riyal = 29.275067 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>29.275067</exchangeRate>
+		<inverseRate>0.034159</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.034159 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 1.611523 SEK</title>
+		<link>http://www.floatrates.com/sar/sek/</link>
+		<description>1 Saudi Riyal = 1.611523 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>1.611523</exchangeRate>
+		<inverseRate>0.620531</inverseRate>
+		<inverseDescription>1 Swedish Krona = 0.620531 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.229924 CHF</title>
+		<link>http://www.floatrates.com/sar/chf/</link>
+		<description>1 Saudi Riyal = 0.229924 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.229924</exchangeRate>
+		<inverseRate>4.349261</inverseRate>
+		<inverseDescription>1 Swiss Franc = 4.349261 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 8.006379 THB</title>
+		<link>http://www.floatrates.com/sar/thb/</link>
+		<description>1 Saudi Riyal = 8.006379 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>8.006379</exchangeRate>
+		<inverseRate>0.124900</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.124900 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 1.705360 TTD</title>
+		<link>http://www.floatrates.com/sar/ttd/</link>
+		<description>1 Saudi Riyal = 1.705360 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>1.705360</exchangeRate>
+		<inverseRate>0.586386</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 0.586386 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.979333 AED</title>
+		<link>http://www.floatrates.com/sar/aed/</link>
+		<description>1 Saudi Riyal = 0.979333 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.979333</exchangeRate>
+		<inverseRate>1.021103</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 1.021103 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 1.143813 VEF</title>
+		<link>http://www.floatrates.com/sar/vef/</link>
+		<description>1 Saudi Riyal = 1.143813 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>1.143813</exchangeRate>
+		<inverseRate>0.874269</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 0.874269 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 21.613582 JPY</title>
+		<link>http://www.floatrates.com/sar/jpy/</link>
+		<description>1 Saudi Riyal = 21.613582 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>21.613582</exchangeRate>
+		<inverseRate>0.046267</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.046267 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.350455 BGN</title>
+		<link>http://www.floatrates.com/sar/bgn/</link>
+		<description>1 Saudi Riyal = 0.350455 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.350455</exchangeRate>
+		<inverseRate>2.853436</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 2.853436 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.618698 LTL</title>
+		<link>http://www.floatrates.com/sar/ltl/</link>
+		<description>1 Saudi Riyal = 0.618698 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>0.618698</exchangeRate>
+		<inverseRate>1.616297</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 1.616297 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.127133 LVL</title>
+		<link>http://www.floatrates.com/sar/lvl/</link>
+		<description>1 Saudi Riyal = 0.127133 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.127133</exchangeRate>
+		<inverseRate>7.865751</inverseRate>
+		<inverseDescription>1 Latvian Lats = 7.865751 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.736460 RON</title>
+		<link>http://www.floatrates.com/sar/ron/</link>
+		<description>1 Saudi Riyal = 0.736460 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.736460</exchangeRate>
+		<inverseRate>1.357847</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 1.357847 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 1.322672 HRK</title>
+		<link>http://www.floatrates.com/sar/hrk/</link>
+		<description>1 Saudi Riyal = 1.322672 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>1.322672</exchangeRate>
+		<inverseRate>0.756046</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 0.756046 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.409927 TRY</title>
+		<link>http://www.floatrates.com/sar/try/</link>
+		<description>1 Saudi Riyal = 0.409927 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.409927</exchangeRate>
+		<inverseRate>2.439459</inverseRate>
+		<inverseDescription>1 Turkish Lira = 2.439459 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 0.422506 BRL</title>
+		<link>http://www.floatrates.com/sar/brl/</link>
+		<description>1 Saudi Riyal = 0.422506 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.422506</exchangeRate>
+		<inverseRate>2.366831</inverseRate>
+		<inverseDescription>1 Brazilian Real = 2.366831 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 2.071818 HKD</title>
+		<link>http://www.floatrates.com/sar/hkd/</link>
+		<description>1 Saudi Riyal = 2.071818 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>2.071818</exchangeRate>
+		<inverseRate>0.482668</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.482668 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 3.085141 MXN</title>
+		<link>http://www.floatrates.com/sar/mxn/</link>
+		<description>1 Saudi Riyal = 3.085141 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>3.085141</exchangeRate>
+		<inverseRate>0.324134</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.324134 Saudi Riyal</inverseDescription>
+	</item>
+	<item>
+		<title>1 SAR = 11.443623 PHP</title>
+		<link>http://www.floatrates.com/sar/php/</link>
+		<description>1 Saudi Riyal = 11.443623 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>SAR</baseCurrency>
+		<baseName>Saudi Riyal</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>11.443623</exchangeRate>
+		<inverseRate>0.087385</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.087385 Saudi Riyal</inverseDescription>
+	</item>
+</channel>
+

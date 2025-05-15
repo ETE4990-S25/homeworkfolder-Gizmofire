@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for South Korean Won (KRW) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/krw/</link>
+	<xmlLink>http://www.floatrates.com/daily/krw.xml</xmlLink>
+	<description>XML historical foreign exchange rates for South Korean Won (KRW) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>KRW</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 KRW = 0.000627 EUR</title>
+		<link>http://www.floatrates.com/krw/eur/</link>
+		<description>1 South Korean Won = 0.000627 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.000627</exchangeRate>
+		<inverseRate>1,593.941100</inverseRate>
+		<inverseDescription>1 Euro = 1,593.941100 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.000565 GBP</title>
+		<link>http://www.floatrates.com/krw/gbp/</link>
+		<description>1 South Korean Won = 0.000565 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.000565</exchangeRate>
+		<inverseRate>1,769.428373</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 1,769.428373 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.000934 USD</title>
+		<link>http://www.floatrates.com/krw/usd/</link>
+		<description>1 South Korean Won = 0.000934 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.000934</exchangeRate>
+		<inverseRate>1,071.053013</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 1,071.053013 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.066563 DZD</title>
+		<link>http://www.floatrates.com/krw/dzd/</link>
+		<description>1 South Korean Won = 0.066563 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>0.066563</exchangeRate>
+		<inverseRate>15.023256</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 15.023256 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.000862 AUD</title>
+		<link>http://www.floatrates.com/krw/aud/</link>
+		<description>1 South Korean Won = 0.000862 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.000862</exchangeRate>
+		<inverseRate>1,160.285938</inverseRate>
+		<inverseDescription>1 Australian Dollar = 1,160.285938 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.005951 BWP</title>
+		<link>http://www.floatrates.com/krw/bwp/</link>
+		<description>1 South Korean Won = 0.005951 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>0.005951</exchangeRate>
+		<inverseRate>168.048218</inverseRate>
+		<inverseDescription>1 Botswana Pula = 168.048218 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.001149 BND</title>
+		<link>http://www.floatrates.com/krw/bnd/</link>
+		<description>1 South Korean Won = 0.001149 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.001149</exchangeRate>
+		<inverseRate>870.633241</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 870.633241 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.000893 CAD</title>
+		<link>http://www.floatrates.com/krw/cad/</link>
+		<description>1 South Korean Won = 0.000893 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.000893</exchangeRate>
+		<inverseRate>1,120.155810</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 1,120.155810 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.432350 CLP</title>
+		<link>http://www.floatrates.com/krw/clp/</link>
+		<description>1 South Korean Won = 0.432350 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>0.432350</exchangeRate>
+		<inverseRate>2.312940</inverseRate>
+		<inverseDescription>1 Chilean Peso = 2.312940 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.006068 CNY</title>
+		<link>http://www.floatrates.com/krw/cny/</link>
+		<description>1 South Korean Won = 0.006068 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>0.006068</exchangeRate>
+		<inverseRate>164.810500</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 164.810500 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 1.649825 COP</title>
+		<link>http://www.floatrates.com/krw/cop/</link>
+		<description>1 South Korean Won = 1.649825 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>1.649825</exchangeRate>
+		<inverseRate>0.606125</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.606125 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.015187 CZK</title>
+		<link>http://www.floatrates.com/krw/czk/</link>
+		<description>1 South Korean Won = 0.015187 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>0.015187</exchangeRate>
+		<inverseRate>65.847062</inverseRate>
+		<inverseDescription>1 Czech Koruna = 65.847062 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.004678 DKK</title>
+		<link>http://www.floatrates.com/krw/dkk/</link>
+		<description>1 South Korean Won = 0.004678 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>0.004678</exchangeRate>
+		<inverseRate>213.757197</inverseRate>
+		<inverseDescription>1 Danish Krone = 213.757197 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.166500 HUF</title>
+		<link>http://www.floatrates.com/krw/huf/</link>
+		<description>1 South Korean Won = 0.166500 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>0.166500</exchangeRate>
+		<inverseRate>6.005990</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 6.005990 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.104000 ISK</title>
+		<link>http://www.floatrates.com/krw/isk/</link>
+		<description>1 South Korean Won = 0.104000 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>0.104000</exchangeRate>
+		<inverseRate>9.615343</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 9.615343 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.041595 INR</title>
+		<link>http://www.floatrates.com/krw/inr/</link>
+		<description>1 South Korean Won = 0.041595 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>0.041595</exchangeRate>
+		<inverseRate>24.041625</inverseRate>
+		<inverseDescription>1 Indian Rupee = 24.041625 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 7.989017 IDR</title>
+		<link>http://www.floatrates.com/krw/idr/</link>
+		<description>1 South Korean Won = 7.989017 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>7.989017</exchangeRate>
+		<inverseRate>0.125172</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.125172 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.003168 ILS</title>
+		<link>http://www.floatrates.com/krw/ils/</link>
+		<description>1 South Korean Won = 0.003168 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.003168</exchangeRate>
+		<inverseRate>315.685060</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 315.685060 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.136118 KZT</title>
+		<link>http://www.floatrates.com/krw/kzt/</link>
+		<description>1 South Korean Won = 0.136118 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>0.136118</exchangeRate>
+		<inverseRate>7.346546</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 7.346546 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 1.000000 KRW</title>
+		<link>http://www.floatrates.com/krw/krw/</link>
+		<description>1 South Korean Won = 1.000000 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 South Korean Won = 1.000000 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.000256 KWD</title>
+		<link>http://www.floatrates.com/krw/kwd/</link>
+		<description>1 South Korean Won = 0.000256 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.000256</exchangeRate>
+		<inverseRate>3,903.254419</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 3,903.254419 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.001804 LYD</title>
+		<link>http://www.floatrates.com/krw/lyd/</link>
+		<description>1 South Korean Won = 0.001804 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.001804</exchangeRate>
+		<inverseRate>554.260512</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 554.260512 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.002781 MYR</title>
+		<link>http://www.floatrates.com/krw/myr/</link>
+		<description>1 South Korean Won = 0.002781 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.002781</exchangeRate>
+		<inverseRate>359.533639</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 359.533639 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.025422 MUR</title>
+		<link>http://www.floatrates.com/krw/mur/</link>
+		<description>1 South Korean Won = 0.025422 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>0.025422</exchangeRate>
+		<inverseRate>39.335733</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 39.335733 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.066421 NPR</title>
+		<link>http://www.floatrates.com/krw/npr/</link>
+		<description>1 South Korean Won = 0.066421 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>0.066421</exchangeRate>
+		<inverseRate>15.055567</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 15.055567 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.001172 NZD</title>
+		<link>http://www.floatrates.com/krw/nzd/</link>
+		<description>1 South Korean Won = 0.001172 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.001172</exchangeRate>
+		<inverseRate>853.344970</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 853.344970 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.004938 NOK</title>
+		<link>http://www.floatrates.com/krw/nok/</link>
+		<description>1 South Korean Won = 0.004938 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>0.004938</exchangeRate>
+		<inverseRate>202.509092</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 202.509092 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.000359 OMR</title>
+		<link>http://www.floatrates.com/krw/omr/</link>
+		<description>1 South Korean Won = 0.000359 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.000359</exchangeRate>
+		<inverseRate>2,785.573505</inverseRate>
+		<inverseDescription>1 Omani Rial = 2,785.573505 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.078716 PKR</title>
+		<link>http://www.floatrates.com/krw/pkr/</link>
+		<description>1 South Korean Won = 0.078716 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>0.078716</exchangeRate>
+		<inverseRate>12.703974</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 12.703974 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.002473 PLN</title>
+		<link>http://www.floatrates.com/krw/pln/</link>
+		<description>1 South Korean Won = 0.002473 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.002473</exchangeRate>
+		<inverseRate>404.424847</inverseRate>
+		<inverseDescription>1 Polish Zloty = 404.424847 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.003399 QAR</title>
+		<link>http://www.floatrates.com/krw/qar/</link>
+		<description>1 South Korean Won = 0.003399 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.003399</exchangeRate>
+		<inverseRate>294.245333</inverseRate>
+		<inverseDescription>1 Qatari Rial = 294.245333 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.025510 RUB</title>
+		<link>http://www.floatrates.com/krw/rub/</link>
+		<description>1 South Korean Won = 0.025510 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>0.025510</exchangeRate>
+		<inverseRate>39.199570</inverseRate>
+		<inverseDescription>1 Russian Rouble = 39.199570 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.003501 SAR</title>
+		<link>http://www.floatrates.com/krw/sar/</link>
+		<description>1 South Korean Won = 0.003501 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.003501</exchangeRate>
+		<inverseRate>285.614137</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 285.614137 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.001148 SGD</title>
+		<link>http://www.floatrates.com/krw/sgd/</link>
+		<description>1 South Korean Won = 0.001148 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.001148</exchangeRate>
+		<inverseRate>871.312802</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 871.312802 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.006184 ZAR</title>
+		<link>http://www.floatrates.com/krw/zar/</link>
+		<description>1 South Korean Won = 0.006184 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>0.006184</exchangeRate>
+		<inverseRate>161.694942</inverseRate>
+		<inverseDescription>1 South African Rand = 161.694942 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.102499 LKR</title>
+		<link>http://www.floatrates.com/krw/lkr/</link>
+		<description>1 South Korean Won = 0.102499 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>0.102499</exchangeRate>
+		<inverseRate>9.756225</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 9.756225 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.005642 SEK</title>
+		<link>http://www.floatrates.com/krw/sek/</link>
+		<description>1 South Korean Won = 0.005642 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>0.005642</exchangeRate>
+		<inverseRate>177.232469</inverseRate>
+		<inverseDescription>1 Swedish Krona = 177.232469 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.000805 CHF</title>
+		<link>http://www.floatrates.com/krw/chf/</link>
+		<description>1 South Korean Won = 0.000805 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.000805</exchangeRate>
+		<inverseRate>1,242.210331</inverseRate>
+		<inverseDescription>1 Swiss Franc = 1,242.210331 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.028032 THB</title>
+		<link>http://www.floatrates.com/krw/thb/</link>
+		<description>1 South Korean Won = 0.028032 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>0.028032</exchangeRate>
+		<inverseRate>35.673323</inverseRate>
+		<inverseDescription>1 Thai Baht = 35.673323 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.005971 TTD</title>
+		<link>http://www.floatrates.com/krw/ttd/</link>
+		<description>1 South Korean Won = 0.005971 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>0.005971</exchangeRate>
+		<inverseRate>167.480260</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 167.480260 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.003429 AED</title>
+		<link>http://www.floatrates.com/krw/aed/</link>
+		<description>1 South Korean Won = 0.003429 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.003429</exchangeRate>
+		<inverseRate>291.641392</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 291.641392 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.004005 VEF</title>
+		<link>http://www.floatrates.com/krw/vef/</link>
+		<description>1 South Korean Won = 0.004005 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>0.004005</exchangeRate>
+		<inverseRate>249.703451</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 249.703451 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.075674 JPY</title>
+		<link>http://www.floatrates.com/krw/jpy/</link>
+		<description>1 South Korean Won = 0.075674 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>0.075674</exchangeRate>
+		<inverseRate>13.214567</inverseRate>
+		<inverseDescription>1 Japanese Yen = 13.214567 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.001227 BGN</title>
+		<link>http://www.floatrates.com/krw/bgn/</link>
+		<description>1 South Korean Won = 0.001227 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.001227</exchangeRate>
+		<inverseRate>814.981641</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 814.981641 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.002166 LTL</title>
+		<link>http://www.floatrates.com/krw/ltl/</link>
+		<description>1 South Korean Won = 0.002166 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>0.002166</exchangeRate>
+		<inverseRate>461.637249</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 461.637249 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.000445 LVL</title>
+		<link>http://www.floatrates.com/krw/lvl/</link>
+		<description>1 South Korean Won = 0.000445 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.000445</exchangeRate>
+		<inverseRate>2,246.569547</inverseRate>
+		<inverseDescription>1 Latvian Lats = 2,246.569547 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.002579 RON</title>
+		<link>http://www.floatrates.com/krw/ron/</link>
+		<description>1 South Korean Won = 0.002579 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.002579</exchangeRate>
+		<inverseRate>387.820217</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 387.820217 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.004631 HRK</title>
+		<link>http://www.floatrates.com/krw/hrk/</link>
+		<description>1 South Korean Won = 0.004631 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>0.004631</exchangeRate>
+		<inverseRate>215.937288</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 215.937288 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.001435 TRY</title>
+		<link>http://www.floatrates.com/krw/try/</link>
+		<description>1 South Korean Won = 0.001435 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.001435</exchangeRate>
+		<inverseRate>696.743932</inverseRate>
+		<inverseDescription>1 Turkish Lira = 696.743932 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.001479 BRL</title>
+		<link>http://www.floatrates.com/krw/brl/</link>
+		<description>1 South Korean Won = 0.001479 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.001479</exchangeRate>
+		<inverseRate>676.000294</inverseRate>
+		<inverseDescription>1 Brazilian Real = 676.000294 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.007254 HKD</title>
+		<link>http://www.floatrates.com/krw/hkd/</link>
+		<description>1 South Korean Won = 0.007254 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>0.007254</exchangeRate>
+		<inverseRate>137.856749</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 137.856749 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.010802 MXN</title>
+		<link>http://www.floatrates.com/krw/mxn/</link>
+		<description>1 South Korean Won = 0.010802 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>0.010802</exchangeRate>
+		<inverseRate>92.577340</inverseRate>
+		<inverseDescription>1 Mexican Peso = 92.577340 South Korean Won</inverseDescription>
+	</item>
+	<item>
+		<title>1 KRW = 0.040067 PHP</title>
+		<link>http://www.floatrates.com/krw/php/</link>
+		<description>1 South Korean Won = 0.040067 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>KRW</baseCurrency>
+		<baseName>South Korean Won</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>0.040067</exchangeRate>
+		<inverseRate>24.958366</inverseRate>
+		<inverseDescription>1 Philippine Peso = 24.958366 South Korean Won</inverseDescription>
+	</item>
+</channel>
+

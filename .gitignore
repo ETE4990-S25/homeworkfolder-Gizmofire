@@ -1,2 +1,3 @@
-/Projects/takeHome/currInfo/*
-/Projects/takeHome/currInfo/*.json
+*.xml
+*.json
+

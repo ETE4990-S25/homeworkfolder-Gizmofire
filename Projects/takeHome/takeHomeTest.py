@@ -14,7 +14,8 @@ import logging
 
 
 
-
+# Script to pull all data from the source store it locally in xml and json
+# Then log and package all that data into a CSV data set for later manipulation 
 
 # https://www.geeksforgeeks.org/xml-parsing-python/
 # really good info on parsing xml and saving to csv 
@@ -36,29 +37,34 @@ ratesForBase = [r for r in rates if r != "USD" and r != "EUR" and r != "GBP"]
 
 # WRITE TO FILE WITH DATA
 
-def fetchDataFromXML(respose):
+def fetchDataFromXML(respose,date):
     try:
         root =  ET.fromstring(respose)
     except ET.ParseError as e:
         logger.error(f"Error parsing XML string: {e}")
         return []
-    # create empty list for news items
+
     newsitems = []
 
-    # iterate news items
-    
-    logger.info('parssing info ')
+ 
+    # TODO pass the date the Logger
+    logger.info(f'parssing info for {date}')
     # empty news dictionary
     news = {}
     
-    
+
 
     for item_element in root.findall('item'):
         item_details = {}
+
+        
+        
+
         # Iterate through all child elements of the current <item>
         for child_element in item_element:
             item_details[child_element.tag] = child_element.text
         if item_details: # Ensure we only add non-empty item data
+            item_details['pubDate'] = date
             newsitems.append(item_details)
 
 
@@ -70,7 +76,7 @@ def fetchDataFromXML(respose):
 def savetoCSV(newsitems):
 
     # specifying the fields for csv file
-    fields = ['title', 'baseCurrency', 'targetCurrency', 'exchangeRate', 'inverseRate' ]
+    fields = ['pubDate','title', 'baseCurrency', 'targetCurrency', 'exchangeRate', 'inverseRate' ]
 
     # writing to csv file
     if os.path.exists(f"./allDB.csv"):
@@ -107,8 +113,10 @@ def pullCurrInfo(base,date):
 
     # Parse the XML data to a Python dictionary
     data_dict = xmltodict.parse(response.text)
-    savetoCSV(fetchDataFromXML(response.text))
-    
+    try:
+        savetoCSV(fetchDataFromXML(response.text,date))
+    except:
+        logger.error("ERROR at Saving to CSV")
 
 
     # Convert the dictionary to a JSON string
@@ -130,10 +138,10 @@ def task(name,date):
     threadsPool.acquire()
     try:
         print(f"Thread {name}: starting")
-        logger.info(f"{name} Start")
+        logger.info(f"{name} at {date} Task Start ")
         pullCurrInfo(name,date)
         print(f"Thread {name}: finishing")
-        logger.info(f"{name} Done")
+        logger.info(f"{name} at {date} Task Done")
     finally:
         threadsPool.release()
 
@@ -196,6 +204,7 @@ if __name__ == "__main__":
 
     date = "2011-05-04"
     r = random.choice(rates)
+    r = "KRW"
     for x in increment_date_string(date, "2025-05-04"):
         thread = threading.Thread(target=task, args=(r,x,))
         threads.append(thread)
@@ -212,5 +221,3 @@ if __name__ == "__main__":
 
     print("All threads completed")
     logger.info("Program Finished - ALL THE SCROLLS ARE BACK")
-
-

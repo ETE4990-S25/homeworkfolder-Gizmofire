@@ -1,2 +1,2 @@
-Projects\takeHome\currInfo\*
-Projects\takeHome\currInfo\*.json
+/Projects/takeHome/currInfo/*
+/Projects/takeHome/currInfo/*.json

@@ -4,7 +4,7 @@ import xmltodict
 import json
 import xml.etree.ElementTree as ET
 import random
-
+from datetime import datetime, timedelta
 import threading
 import time
 import csv
@@ -90,7 +90,7 @@ def savetoCSV(newsitems):
             writer.writerows(newsitems)
 
 
-def pullCurrInfo(base):
+def pullCurrInfo(base,date):
 
     # make directory
 
@@ -99,7 +99,6 @@ def pullCurrInfo(base):
 
 
 
-    date = "2011-05-04"
     url = f"https://www.floatrates.com/historical-exchange-rates.html?operation=rates&pb_id=1775&page=historical&currency_date={date}&base_currency_code={base}&format_type=xml"
     print(url)
     # Fetch the XML data
@@ -123,25 +122,54 @@ def pullCurrInfo(base):
         json_file.write(json_data)
 
     
-    with open(f"currInfo//{base}//{date}_exchange_rates_{base}.xml", "w") as json_file:
+    with open(f"currInfo//{base}//{date}_exchange_rates_{base}.xml", "w", encoding="utf-8") as json_file:
         json_file.write(response.text)
 
 
-def task(name):
-    print(f"Thread {name}: starting")
-    logger.info(f"{name} Start")
-    pullCurrInfo(name)
-    print(f"Thread {name}: finishing")
-    logger.info(f"{name} Done")
+def task(name,date):
+    threadsPool.acquire()
+    try:
+        print(f"Thread {name}: starting")
+        logger.info(f"{name} Start")
+        pullCurrInfo(name,date)
+        print(f"Thread {name}: finishing")
+        logger.info(f"{name} Done")
+    finally:
+        threadsPool.release()
 
 
 
+
+def increment_date_string(startdate, enddate):
+    try:
+        date_object = datetime.strptime(startdate, "%Y-%m-%d")
+    except ValueError:
+        return "Invalid date format. Please use YYYY-MM-DD."
+
+    try:
+        end_date_object = datetime.strptime(enddate, "%Y-%m-%d")
+    except ValueError:
+        return "Invalid date format. Please use YYYY-MM-DD."
+    
+    if date_object > end_date_object:
+        return "Start date cannot be after end date."
+    
+    dates = []
+    current_date = date_object
+    while current_date <= end_date_object:
+        dates.append(current_date.strftime("%Y-%m-%d"))
+        current_date += timedelta(days=1)
+    
+    return dates
+
+    
+   
 if __name__ == "__main__":
     
-    # thread these all the base rates
-    # for r in ratesForBase:
-    #     pullCurrInfo(r)
-    os.remove("allDb.csv")
+
+    max_threads = 100
+    threadsPool = threading.Semaphore(max_threads)
+
     os.remove("log//kingsLogs.log")
     logger = logging.getLogger("file_logger")
     logger.setLevel(logging.INFO)
@@ -151,24 +179,36 @@ if __name__ == "__main__":
 
     logger.addHandler(file_handler)
 
+    try:
+        os.remove("allDb.csv")
+    except:
+        logger.warning("no DB found")
 
+ 
+        
+    
+        
 
     logger.warning("Starting Threads - GATHERING SCROLLS :)")
+
+
     threads = []
 
-
-    # r = random.choice(rates)
-    # thread = threading.Thread(target=task, args=(r,))
-    # threads.append(thread)
-    # thread.start()
-
-    for r in ratesForBase:
-        thread = threading.Thread(target=task, args=(r,))
+    date = "2011-05-04"
+    r = random.choice(rates)
+    for x in increment_date_string(date, "2025-05-04"):
+        thread = threading.Thread(target=task, args=(r,x,))
         threads.append(thread)
         thread.start()
 
-    for thread in threads:
-        thread.join()
+
+    # for r in ratesForBase:
+    #     thread = threading.Thread(target=task, args=(r,))
+    #     threads.append(thread)
+    #     thread.start()
+
+    # for thread in threads:
+    #     thread.join()
 
     print("All threads completed")
     logger.info("Program Finished - ALL THE SCROLLS ARE BACK")

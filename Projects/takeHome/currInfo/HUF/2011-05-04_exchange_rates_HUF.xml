@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Hungarian Forint (HUF) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/huf/</link>
+	<xmlLink>http://www.floatrates.com/daily/huf.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Hungarian Forint (HUF) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>HUF</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 HUF = 0.003768 EUR</title>
+		<link>http://www.floatrates.com/huf/eur/</link>
+		<description>1 Hungarian Forint = 0.003768 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.003768</exchangeRate>
+		<inverseRate>265.391917</inverseRate>
+		<inverseDescription>1 Euro = 265.391917 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.003394 GBP</title>
+		<link>http://www.floatrates.com/huf/gbp/</link>
+		<description>1 Hungarian Forint = 0.003394 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.003394</exchangeRate>
+		<inverseRate>294.610628</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 294.610628 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.005608 USD</title>
+		<link>http://www.floatrates.com/huf/usd/</link>
+		<description>1 Hungarian Forint = 0.005608 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.005608</exchangeRate>
+		<inverseRate>178.330813</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 178.330813 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.399779 DZD</title>
+		<link>http://www.floatrates.com/huf/dzd/</link>
+		<description>1 Hungarian Forint = 0.399779 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>0.399779</exchangeRate>
+		<inverseRate>2.501379</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 2.501379 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.005176 AUD</title>
+		<link>http://www.floatrates.com/huf/aud/</link>
+		<description>1 Hungarian Forint = 0.005176 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.005176</exchangeRate>
+		<inverseRate>193.188136</inverseRate>
+		<inverseDescription>1 Australian Dollar = 193.188136 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.035740 BWP</title>
+		<link>http://www.floatrates.com/huf/bwp/</link>
+		<description>1 Hungarian Forint = 0.035740 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>0.035740</exchangeRate>
+		<inverseRate>27.980105</inverseRate>
+		<inverseDescription>1 Botswana Pula = 27.980105 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.006898 BND</title>
+		<link>http://www.floatrates.com/huf/bnd/</link>
+		<description>1 Hungarian Forint = 0.006898 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.006898</exchangeRate>
+		<inverseRate>144.960830</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 144.960830 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.005362 CAD</title>
+		<link>http://www.floatrates.com/huf/cad/</link>
+		<description>1 Hungarian Forint = 0.005362 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.005362</exchangeRate>
+		<inverseRate>186.506451</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 186.506451 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 2.596691 CLP</title>
+		<link>http://www.floatrates.com/huf/clp/</link>
+		<description>1 Hungarian Forint = 2.596691 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>2.596691</exchangeRate>
+		<inverseRate>0.385106</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.385106 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.036442 CNY</title>
+		<link>http://www.floatrates.com/huf/cny/</link>
+		<description>1 Hungarian Forint = 0.036442 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>0.036442</exchangeRate>
+		<inverseRate>27.441023</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 27.441023 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 9.908832 COP</title>
+		<link>http://www.floatrates.com/huf/cop/</link>
+		<description>1 Hungarian Forint = 9.908832 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>9.908832</exchangeRate>
+		<inverseRate>0.100920</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.100920 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.091211 CZK</title>
+		<link>http://www.floatrates.com/huf/czk/</link>
+		<description>1 Hungarian Forint = 0.091211 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>0.091211</exchangeRate>
+		<inverseRate>10.963566</inverseRate>
+		<inverseDescription>1 Czech Koruna = 10.963566 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.028097 DKK</title>
+		<link>http://www.floatrates.com/huf/dkk/</link>
+		<description>1 Hungarian Forint = 0.028097 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>0.028097</exchangeRate>
+		<inverseRate>35.590670</inverseRate>
+		<inverseDescription>1 Danish Krone = 35.590670 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 1.000000 HUF</title>
+		<link>http://www.floatrates.com/huf/huf/</link>
+		<description>1 Hungarian Forint = 1.000000 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 1.000000 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.624626 ISK</title>
+		<link>http://www.floatrates.com/huf/isk/</link>
+		<description>1 Hungarian Forint = 0.624626 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>0.624626</exchangeRate>
+		<inverseRate>1.600959</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 1.600959 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.249816 INR</title>
+		<link>http://www.floatrates.com/huf/inr/</link>
+		<description>1 Hungarian Forint = 0.249816 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>0.249816</exchangeRate>
+		<inverseRate>4.002941</inverseRate>
+		<inverseDescription>1 Indian Rupee = 4.002941 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 47.981953 IDR</title>
+		<link>http://www.floatrates.com/huf/idr/</link>
+		<description>1 Hungarian Forint = 47.981953 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>47.981953</exchangeRate>
+		<inverseRate>0.020841</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.020841 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.019025 ILS</title>
+		<link>http://www.floatrates.com/huf/ils/</link>
+		<description>1 Hungarian Forint = 0.019025 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.019025</exchangeRate>
+		<inverseRate>52.561706</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 52.561706 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.817526 KZT</title>
+		<link>http://www.floatrates.com/huf/kzt/</link>
+		<description>1 Hungarian Forint = 0.817526 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>0.817526</exchangeRate>
+		<inverseRate>1.223203</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 1.223203 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 6.005990 KRW</title>
+		<link>http://www.floatrates.com/huf/krw/</link>
+		<description>1 Hungarian Forint = 6.005990 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>6.005990</exchangeRate>
+		<inverseRate>0.166500</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.166500 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.001539 KWD</title>
+		<link>http://www.floatrates.com/huf/kwd/</link>
+		<description>1 Hungarian Forint = 0.001539 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.001539</exchangeRate>
+		<inverseRate>649.893634</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 649.893634 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.010836 LYD</title>
+		<link>http://www.floatrates.com/huf/lyd/</link>
+		<description>1 Hungarian Forint = 0.010836 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.010836</exchangeRate>
+		<inverseRate>92.284627</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 92.284627 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.016705 MYR</title>
+		<link>http://www.floatrates.com/huf/myr/</link>
+		<description>1 Hungarian Forint = 0.016705 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.016705</exchangeRate>
+		<inverseRate>59.862514</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 59.862514 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.152685 MUR</title>
+		<link>http://www.floatrates.com/huf/mur/</link>
+		<description>1 Hungarian Forint = 0.152685 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>0.152685</exchangeRate>
+		<inverseRate>6.549417</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 6.549417 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.398922 NPR</title>
+		<link>http://www.floatrates.com/huf/npr/</link>
+		<description>1 Hungarian Forint = 0.398922 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>0.398922</exchangeRate>
+		<inverseRate>2.506759</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 2.506759 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.007038 NZD</title>
+		<link>http://www.floatrates.com/huf/nzd/</link>
+		<description>1 Hungarian Forint = 0.007038 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.007038</exchangeRate>
+		<inverseRate>142.082325</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 142.082325 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.029658 NOK</title>
+		<link>http://www.floatrates.com/huf/nok/</link>
+		<description>1 Hungarian Forint = 0.029658 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>0.029658</exchangeRate>
+		<inverseRate>33.717856</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 33.717856 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.002156 OMR</title>
+		<link>http://www.floatrates.com/huf/omr/</link>
+		<description>1 Hungarian Forint = 0.002156 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.002156</exchangeRate>
+		<inverseRate>463.799254</inverseRate>
+		<inverseDescription>1 Omani Rial = 463.799254 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.472765 PKR</title>
+		<link>http://www.floatrates.com/huf/pkr/</link>
+		<description>1 Hungarian Forint = 0.472765 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>0.472765</exchangeRate>
+		<inverseRate>2.115217</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 2.115217 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.014851 PLN</title>
+		<link>http://www.floatrates.com/huf/pln/</link>
+		<description>1 Hungarian Forint = 0.014851 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.014851</exchangeRate>
+		<inverseRate>67.336921</inverseRate>
+		<inverseDescription>1 Polish Zloty = 67.336921 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.020412 QAR</title>
+		<link>http://www.floatrates.com/huf/qar/</link>
+		<description>1 Hungarian Forint = 0.020412 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.020412</exchangeRate>
+		<inverseRate>48.991982</inverseRate>
+		<inverseDescription>1 Qatari Rial = 48.991982 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.153216 RUB</title>
+		<link>http://www.floatrates.com/huf/rub/</link>
+		<description>1 Hungarian Forint = 0.153216 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>0.153216</exchangeRate>
+		<inverseRate>6.526746</inverseRate>
+		<inverseDescription>1 Russian Rouble = 6.526746 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.021028 SAR</title>
+		<link>http://www.floatrates.com/huf/sar/</link>
+		<description>1 Hungarian Forint = 0.021028 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.021028</exchangeRate>
+		<inverseRate>47.554883</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 47.554883 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.006893 SGD</title>
+		<link>http://www.floatrates.com/huf/sgd/</link>
+		<description>1 Hungarian Forint = 0.006893 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.006893</exchangeRate>
+		<inverseRate>145.073977</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 145.073977 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.037144 ZAR</title>
+		<link>http://www.floatrates.com/huf/zar/</link>
+		<description>1 Hungarian Forint = 0.037144 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>0.037144</exchangeRate>
+		<inverseRate>26.922281</inverseRate>
+		<inverseDescription>1 South African Rand = 26.922281 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.615606 LKR</title>
+		<link>http://www.floatrates.com/huf/lkr/</link>
+		<description>1 Hungarian Forint = 0.615606 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>0.615606</exchangeRate>
+		<inverseRate>1.624416</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 1.624416 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.033888 SEK</title>
+		<link>http://www.floatrates.com/huf/sek/</link>
+		<description>1 Hungarian Forint = 0.033888 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>0.033888</exchangeRate>
+		<inverseRate>29.509287</inverseRate>
+		<inverseDescription>1 Swedish Krona = 29.509287 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.004835 CHF</title>
+		<link>http://www.floatrates.com/huf/chf/</link>
+		<description>1 Hungarian Forint = 0.004835 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.004835</exchangeRate>
+		<inverseRate>206.828584</inverseRate>
+		<inverseDescription>1 Swiss Franc = 206.828584 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.168361 THB</title>
+		<link>http://www.floatrates.com/huf/thb/</link>
+		<description>1 Hungarian Forint = 0.168361 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>0.168361</exchangeRate>
+		<inverseRate>5.939624</inverseRate>
+		<inverseDescription>1 Thai Baht = 5.939624 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.035861 TTD</title>
+		<link>http://www.floatrates.com/huf/ttd/</link>
+		<description>1 Hungarian Forint = 0.035861 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>0.035861</exchangeRate>
+		<inverseRate>27.885539</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 27.885539 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.020594 AED</title>
+		<link>http://www.floatrates.com/huf/aed/</link>
+		<description>1 Hungarian Forint = 0.020594 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.020594</exchangeRate>
+		<inverseRate>48.558424</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 48.558424 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.024052 VEF</title>
+		<link>http://www.floatrates.com/huf/vef/</link>
+		<description>1 Hungarian Forint = 0.024052 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>0.024052</exchangeRate>
+		<inverseRate>41.575738</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 41.575738 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.454498 JPY</title>
+		<link>http://www.floatrates.com/huf/jpy/</link>
+		<description>1 Hungarian Forint = 0.454498 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>0.454498</exchangeRate>
+		<inverseRate>2.200231</inverseRate>
+		<inverseDescription>1 Japanese Yen = 2.200231 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.007369 BGN</title>
+		<link>http://www.floatrates.com/huf/bgn/</link>
+		<description>1 Hungarian Forint = 0.007369 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.007369</exchangeRate>
+		<inverseRate>135.694813</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 135.694813 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.013010 LTL</title>
+		<link>http://www.floatrates.com/huf/ltl/</link>
+		<description>1 Hungarian Forint = 0.013010 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>0.013010</exchangeRate>
+		<inverseRate>76.862812</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 76.862812 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.002673 LVL</title>
+		<link>http://www.floatrates.com/huf/lvl/</link>
+		<description>1 Hungarian Forint = 0.002673 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.002673</exchangeRate>
+		<inverseRate>374.054850</inverseRate>
+		<inverseDescription>1 Latvian Lats = 374.054850 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.015487 RON</title>
+		<link>http://www.floatrates.com/huf/ron/</link>
+		<description>1 Hungarian Forint = 0.015487 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.015487</exchangeRate>
+		<inverseRate>64.572242</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 64.572242 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.027814 HRK</title>
+		<link>http://www.floatrates.com/huf/hrk/</link>
+		<description>1 Hungarian Forint = 0.027814 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>0.027814</exchangeRate>
+		<inverseRate>35.953657</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 35.953657 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.008620 TRY</title>
+		<link>http://www.floatrates.com/huf/try/</link>
+		<description>1 Hungarian Forint = 0.008620 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.008620</exchangeRate>
+		<inverseRate>116.008181</inverseRate>
+		<inverseDescription>1 Turkish Lira = 116.008181 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.008885 BRL</title>
+		<link>http://www.floatrates.com/huf/brl/</link>
+		<description>1 Hungarian Forint = 0.008885 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.008885</exchangeRate>
+		<inverseRate>112.554356</inverseRate>
+		<inverseDescription>1 Brazilian Real = 112.554356 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.043567 HKD</title>
+		<link>http://www.floatrates.com/huf/hkd/</link>
+		<description>1 Hungarian Forint = 0.043567 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>0.043567</exchangeRate>
+		<inverseRate>22.953211</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 22.953211 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.064875 MXN</title>
+		<link>http://www.floatrates.com/huf/mxn/</link>
+		<description>1 Hungarian Forint = 0.064875 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>0.064875</exchangeRate>
+		<inverseRate>15.414169</inverseRate>
+		<inverseDescription>1 Mexican Peso = 15.414169 Hungarian Forint</inverseDescription>
+	</item>
+	<item>
+		<title>1 HUF = 0.240640 PHP</title>
+		<link>http://www.floatrates.com/huf/php/</link>
+		<description>1 Hungarian Forint = 0.240640 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>HUF</baseCurrency>
+		<baseName>Hungarian Forint</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>0.240640</exchangeRate>
+		<inverseRate>4.155579</inverseRate>
+		<inverseDescription>1 Philippine Peso = 4.155579 Hungarian Forint</inverseDescription>
+	</item>
+</channel>
+

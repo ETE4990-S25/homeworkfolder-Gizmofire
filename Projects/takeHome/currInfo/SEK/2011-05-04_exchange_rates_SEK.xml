@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Swedish Krona (SEK) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/sek/</link>
+	<xmlLink>http://www.floatrates.com/daily/sek.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Swedish Krona (SEK) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>SEK</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 SEK = 0.111191 EUR</title>
+		<link>http://www.floatrates.com/sek/eur/</link>
+		<description>1 Swedish Krona = 0.111191 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.111191</exchangeRate>
+		<inverseRate>8.993505</inverseRate>
+		<inverseDescription>1 Euro = 8.993505 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.100164 GBP</title>
+		<link>http://www.floatrates.com/sek/gbp/</link>
+		<description>1 Swedish Krona = 0.100164 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.100164</exchangeRate>
+		<inverseRate>9.983658</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 9.983658 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.165475 USD</title>
+		<link>http://www.floatrates.com/sek/usd/</link>
+		<description>1 Swedish Krona = 0.165475 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.165475</exchangeRate>
+		<inverseRate>6.043210</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 6.043210 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 11.797207 DZD</title>
+		<link>http://www.floatrates.com/sek/dzd/</link>
+		<description>1 Swedish Krona = 11.797207 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>11.797207</exchangeRate>
+		<inverseRate>0.084766</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.084766 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.152749 AUD</title>
+		<link>http://www.floatrates.com/sek/aud/</link>
+		<description>1 Swedish Krona = 0.152749 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.152749</exchangeRate>
+		<inverseRate>6.546689</inverseRate>
+		<inverseDescription>1 Australian Dollar = 6.546689 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 1.054652 BWP</title>
+		<link>http://www.floatrates.com/sek/bwp/</link>
+		<description>1 Swedish Krona = 1.054652 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>1.054652</exchangeRate>
+		<inverseRate>0.948180</inverseRate>
+		<inverseDescription>1 Botswana Pula = 0.948180 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.203567 BND</title>
+		<link>http://www.floatrates.com/sek/bnd/</link>
+		<description>1 Swedish Krona = 0.203567 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.203567</exchangeRate>
+		<inverseRate>4.912380</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 4.912380 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.158221 CAD</title>
+		<link>http://www.floatrates.com/sek/cad/</link>
+		<description>1 Swedish Krona = 0.158221 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.158221</exchangeRate>
+		<inverseRate>6.320263</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 6.320263 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 76.626496 CLP</title>
+		<link>http://www.floatrates.com/sek/clp/</link>
+		<description>1 Swedish Krona = 76.626496 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>76.626496</exchangeRate>
+		<inverseRate>0.013050</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.013050 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 1.075371 CNY</title>
+		<link>http://www.floatrates.com/sek/cny/</link>
+		<description>1 Swedish Krona = 1.075371 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>1.075371</exchangeRate>
+		<inverseRate>0.929911</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 0.929911 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 292.402552 COP</title>
+		<link>http://www.floatrates.com/sek/cop/</link>
+		<description>1 Swedish Krona = 292.402552 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>292.402552</exchangeRate>
+		<inverseRate>0.003420</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.003420 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 2.691577 CZK</title>
+		<link>http://www.floatrates.com/sek/czk/</link>
+		<description>1 Swedish Krona = 2.691577 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>2.691577</exchangeRate>
+		<inverseRate>0.371529</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.371529 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.829130 DKK</title>
+		<link>http://www.floatrates.com/sek/dkk/</link>
+		<description>1 Swedish Krona = 0.829130 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>0.829130</exchangeRate>
+		<inverseRate>1.206084</inverseRate>
+		<inverseDescription>1 Danish Krone = 1.206084 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 29.509287 HUF</title>
+		<link>http://www.floatrates.com/sek/huf/</link>
+		<description>1 Swedish Krona = 29.509287 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>29.509287</exchangeRate>
+		<inverseRate>0.033888</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.033888 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 18.432257 ISK</title>
+		<link>http://www.floatrates.com/sek/isk/</link>
+		<description>1 Swedish Krona = 18.432257 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>18.432257</exchangeRate>
+		<inverseRate>0.054253</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.054253 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 7.371901 INR</title>
+		<link>http://www.floatrates.com/sek/inr/</link>
+		<description>1 Swedish Krona = 7.371901 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>7.371901</exchangeRate>
+		<inverseRate>0.135650</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.135650 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 1,415.913210 IDR</title>
+		<link>http://www.floatrates.com/sek/idr/</link>
+		<description>1 Swedish Krona = 1,415.913210 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>1,415.913210</exchangeRate>
+		<inverseRate>0.000706</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.000706 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.561422 ILS</title>
+		<link>http://www.floatrates.com/sek/ils/</link>
+		<description>1 Swedish Krona = 0.561422 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.561422</exchangeRate>
+		<inverseRate>1.781192</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 1.781192 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 24.124596 KZT</title>
+		<link>http://www.floatrates.com/sek/kzt/</link>
+		<description>1 Swedish Krona = 24.124596 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>24.124596</exchangeRate>
+		<inverseRate>0.041451</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.041451 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 177.232469 KRW</title>
+		<link>http://www.floatrates.com/sek/krw/</link>
+		<description>1 Swedish Krona = 177.232469 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>177.232469</exchangeRate>
+		<inverseRate>0.005642</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.005642 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.045406 KWD</title>
+		<link>http://www.floatrates.com/sek/kwd/</link>
+		<description>1 Swedish Krona = 0.045406 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.045406</exchangeRate>
+		<inverseRate>22.023360</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 22.023360 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.319764 LYD</title>
+		<link>http://www.floatrates.com/sek/lyd/</link>
+		<description>1 Swedish Krona = 0.319764 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.319764</exchangeRate>
+		<inverseRate>3.127308</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 3.127308 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.492951 MYR</title>
+		<link>http://www.floatrates.com/sek/myr/</link>
+		<description>1 Swedish Krona = 0.492951 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.492951</exchangeRate>
+		<inverseRate>2.028599</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 2.028599 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 4.505635 MUR</title>
+		<link>http://www.floatrates.com/sek/mur/</link>
+		<description>1 Swedish Krona = 4.505635 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>4.505635</exchangeRate>
+		<inverseRate>0.221944</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.221944 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 11.771890 NPR</title>
+		<link>http://www.floatrates.com/sek/npr/</link>
+		<description>1 Swedish Krona = 11.771890 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>11.771890</exchangeRate>
+		<inverseRate>0.084948</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.084948 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.207691 NZD</title>
+		<link>http://www.floatrates.com/sek/nzd/</link>
+		<description>1 Swedish Krona = 0.207691 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.207691</exchangeRate>
+		<inverseRate>4.814834</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 4.814834 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.875183 NOK</title>
+		<link>http://www.floatrates.com/sek/nok/</link>
+		<description>1 Swedish Krona = 0.875183 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>0.875183</exchangeRate>
+		<inverseRate>1.142618</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 1.142618 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.063625 OMR</title>
+		<link>http://www.floatrates.com/sek/omr/</link>
+		<description>1 Swedish Krona = 0.063625 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.063625</exchangeRate>
+		<inverseRate>15.717061</inverseRate>
+		<inverseDescription>1 Omani Rial = 15.717061 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 13.950947 PKR</title>
+		<link>http://www.floatrates.com/sek/pkr/</link>
+		<description>1 Swedish Krona = 13.950947 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>13.950947</exchangeRate>
+		<inverseRate>0.071680</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.071680 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.438233 PLN</title>
+		<link>http://www.floatrates.com/sek/pln/</link>
+		<description>1 Swedish Krona = 0.438233 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.438233</exchangeRate>
+		<inverseRate>2.281889</inverseRate>
+		<inverseDescription>1 Polish Zloty = 2.281889 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.602329 QAR</title>
+		<link>http://www.floatrates.com/sek/qar/</link>
+		<description>1 Swedish Krona = 0.602329 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.602329</exchangeRate>
+		<inverseRate>1.660223</inverseRate>
+		<inverseDescription>1 Qatari Rial = 1.660223 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 4.521286 RUB</title>
+		<link>http://www.floatrates.com/sek/rub/</link>
+		<description>1 Swedish Krona = 4.521286 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>4.521286</exchangeRate>
+		<inverseRate>0.221176</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.221176 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.620531 SAR</title>
+		<link>http://www.floatrates.com/sek/sar/</link>
+		<description>1 Swedish Krona = 0.620531 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.620531</exchangeRate>
+		<inverseRate>1.611523</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 1.611523 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.203409 SGD</title>
+		<link>http://www.floatrates.com/sek/sgd/</link>
+		<description>1 Swedish Krona = 0.203409 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.203409</exchangeRate>
+		<inverseRate>4.916214</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 4.916214 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 1.096092 ZAR</title>
+		<link>http://www.floatrates.com/sek/zar/</link>
+		<description>1 Swedish Krona = 1.096092 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>1.096092</exchangeRate>
+		<inverseRate>0.912333</inverseRate>
+		<inverseDescription>1 South African Rand = 0.912333 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 18.166091 LKR</title>
+		<link>http://www.floatrates.com/sek/lkr/</link>
+		<description>1 Swedish Krona = 18.166091 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>18.166091</exchangeRate>
+		<inverseRate>0.055048</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.055048 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 1.000000 SEK</title>
+		<link>http://www.floatrates.com/sek/sek/</link>
+		<description>1 Swedish Krona = 1.000000 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Swedish Krona = 1.000000 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.142675 CHF</title>
+		<link>http://www.floatrates.com/sek/chf/</link>
+		<description>1 Swedish Krona = 0.142675 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.142675</exchangeRate>
+		<inverseRate>7.008932</inverseRate>
+		<inverseDescription>1 Swiss Franc = 7.008932 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 4.968207 THB</title>
+		<link>http://www.floatrates.com/sek/thb/</link>
+		<description>1 Swedish Krona = 4.968207 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>4.968207</exchangeRate>
+		<inverseRate>0.201280</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.201280 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 1.058229 TTD</title>
+		<link>http://www.floatrates.com/sek/ttd/</link>
+		<description>1 Swedish Krona = 1.058229 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>1.058229</exchangeRate>
+		<inverseRate>0.944975</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 0.944975 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.607707 AED</title>
+		<link>http://www.floatrates.com/sek/aed/</link>
+		<description>1 Swedish Krona = 0.607707 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.607707</exchangeRate>
+		<inverseRate>1.645530</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 1.645530 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.709772 VEF</title>
+		<link>http://www.floatrates.com/sek/vef/</link>
+		<description>1 Swedish Krona = 0.709772 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>0.709772</exchangeRate>
+		<inverseRate>1.408904</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 1.408904 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 13.411901 JPY</title>
+		<link>http://www.floatrates.com/sek/jpy/</link>
+		<description>1 Swedish Krona = 13.411901 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>13.411901</exchangeRate>
+		<inverseRate>0.074561</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.074561 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.217468 BGN</title>
+		<link>http://www.floatrates.com/sek/bgn/</link>
+		<description>1 Swedish Krona = 0.217468 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.217468</exchangeRate>
+		<inverseRate>4.598377</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 4.598377 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.383922 LTL</title>
+		<link>http://www.floatrates.com/sek/ltl/</link>
+		<description>1 Swedish Krona = 0.383922 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>0.383922</exchangeRate>
+		<inverseRate>2.604699</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 2.604699 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.078890 LVL</title>
+		<link>http://www.floatrates.com/sek/lvl/</link>
+		<description>1 Swedish Krona = 0.078890 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.078890</exchangeRate>
+		<inverseRate>12.675835</inverseRate>
+		<inverseDescription>1 Latvian Lats = 12.675835 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.456996 RON</title>
+		<link>http://www.floatrates.com/sek/ron/</link>
+		<description>1 Swedish Krona = 0.456996 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.456996</exchangeRate>
+		<inverseRate>2.188201</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 2.188201 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.820759 HRK</title>
+		<link>http://www.floatrates.com/sek/hrk/</link>
+		<description>1 Swedish Krona = 0.820759 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>0.820759</exchangeRate>
+		<inverseRate>1.218384</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 1.218384 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.254372 TRY</title>
+		<link>http://www.floatrates.com/sek/try/</link>
+		<description>1 Swedish Krona = 0.254372 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.254372</exchangeRate>
+		<inverseRate>3.931243</inverseRate>
+		<inverseDescription>1 Turkish Lira = 3.931243 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 0.262178 BRL</title>
+		<link>http://www.floatrates.com/sek/brl/</link>
+		<description>1 Swedish Krona = 0.262178 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.262178</exchangeRate>
+		<inverseRate>3.814201</inverseRate>
+		<inverseDescription>1 Brazilian Real = 3.814201 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 1.285628 HKD</title>
+		<link>http://www.floatrates.com/sek/hkd/</link>
+		<description>1 Swedish Krona = 1.285628 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>1.285628</exchangeRate>
+		<inverseRate>0.777830</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.777830 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 1.914426 MXN</title>
+		<link>http://www.floatrates.com/sek/mxn/</link>
+		<description>1 Swedish Krona = 1.914426 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>1.914426</exchangeRate>
+		<inverseRate>0.522350</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.522350 Swedish Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 SEK = 7.101125 PHP</title>
+		<link>http://www.floatrates.com/sek/php/</link>
+		<description>1 Swedish Krona = 7.101125 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>SEK</baseCurrency>
+		<baseName>Swedish Krona</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>7.101125</exchangeRate>
+		<inverseRate>0.140823</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.140823 Swedish Krona</inverseDescription>
+	</item>
+</channel>
+

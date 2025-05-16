@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Indian Rupee (INR) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/inr/</link>
+	<xmlLink>http://www.floatrates.com/daily/inr.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Indian Rupee (INR) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>INR</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 INR = 0.015083 EUR</title>
+		<link>http://www.floatrates.com/inr/eur/</link>
+		<description>1 Indian Rupee = 0.015083 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.015083</exchangeRate>
+		<inverseRate>66.299226</inverseRate>
+		<inverseDescription>1 Euro = 66.299226 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.013587 GBP</title>
+		<link>http://www.floatrates.com/inr/gbp/</link>
+		<description>1 Indian Rupee = 0.013587 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.013587</exchangeRate>
+		<inverseRate>73.598536</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 73.598536 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.022447 USD</title>
+		<link>http://www.floatrates.com/inr/usd/</link>
+		<description>1 Indian Rupee = 0.022447 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.022447</exchangeRate>
+		<inverseRate>44.549943</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 44.549943 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 1.600294 DZD</title>
+		<link>http://www.floatrates.com/inr/dzd/</link>
+		<description>1 Indian Rupee = 1.600294 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>1.600294</exchangeRate>
+		<inverseRate>0.624885</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.624885 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.020720 AUD</title>
+		<link>http://www.floatrates.com/inr/aud/</link>
+		<description>1 Indian Rupee = 0.020720 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.020720</exchangeRate>
+		<inverseRate>48.261544</inverseRate>
+		<inverseDescription>1 Australian Dollar = 48.261544 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.143064 BWP</title>
+		<link>http://www.floatrates.com/inr/bwp/</link>
+		<description>1 Indian Rupee = 0.143064 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>0.143064</exchangeRate>
+		<inverseRate>6.989886</inverseRate>
+		<inverseDescription>1 Botswana Pula = 6.989886 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.027614 BND</title>
+		<link>http://www.floatrates.com/inr/bnd/</link>
+		<description>1 Indian Rupee = 0.027614 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.027614</exchangeRate>
+		<inverseRate>36.213578</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 36.213578 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.021463 CAD</title>
+		<link>http://www.floatrates.com/inr/cad/</link>
+		<description>1 Indian Rupee = 0.021463 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.021463</exchangeRate>
+		<inverseRate>46.592351</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 46.592351 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 10.394402 CLP</title>
+		<link>http://www.floatrates.com/inr/clp/</link>
+		<description>1 Indian Rupee = 10.394402 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>10.394402</exchangeRate>
+		<inverseRate>0.096206</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.096206 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.145874 CNY</title>
+		<link>http://www.floatrates.com/inr/cny/</link>
+		<description>1 Indian Rupee = 0.145874 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>0.145874</exchangeRate>
+		<inverseRate>6.855215</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 6.855215 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 39.664473 COP</title>
+		<link>http://www.floatrates.com/inr/cop/</link>
+		<description>1 Indian Rupee = 39.664473 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>39.664473</exchangeRate>
+		<inverseRate>0.025211</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.025211 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.365113 CZK</title>
+		<link>http://www.floatrates.com/inr/czk/</link>
+		<description>1 Indian Rupee = 0.365113 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>0.365113</exchangeRate>
+		<inverseRate>2.738877</inverseRate>
+		<inverseDescription>1 Czech Koruna = 2.738877 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.112472 DKK</title>
+		<link>http://www.floatrates.com/inr/dkk/</link>
+		<description>1 Indian Rupee = 0.112472 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>0.112472</exchangeRate>
+		<inverseRate>8.891129</inverseRate>
+		<inverseDescription>1 Danish Krone = 8.891129 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 4.002941 HUF</title>
+		<link>http://www.floatrates.com/inr/huf/</link>
+		<description>1 Indian Rupee = 4.002941 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>4.002941</exchangeRate>
+		<inverseRate>0.249816</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.249816 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 2.500340 ISK</title>
+		<link>http://www.floatrates.com/inr/isk/</link>
+		<description>1 Indian Rupee = 2.500340 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>2.500340</exchangeRate>
+		<inverseRate>0.399946</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.399946 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 1.000000 INR</title>
+		<link>http://www.floatrates.com/inr/inr/</link>
+		<description>1 Indian Rupee = 1.000000 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Indian Rupee = 1.000000 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 192.068949 IDR</title>
+		<link>http://www.floatrates.com/inr/idr/</link>
+		<description>1 Indian Rupee = 192.068949 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>192.068949</exchangeRate>
+		<inverseRate>0.005206</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.005206 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.076157 ILS</title>
+		<link>http://www.floatrates.com/inr/ils/</link>
+		<description>1 Indian Rupee = 0.076157 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.076157</exchangeRate>
+		<inverseRate>13.130771</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 13.130771 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 3.272507 KZT</title>
+		<link>http://www.floatrates.com/inr/kzt/</link>
+		<description>1 Indian Rupee = 3.272507 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>3.272507</exchangeRate>
+		<inverseRate>0.305576</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.305576 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 24.041625 KRW</title>
+		<link>http://www.floatrates.com/inr/krw/</link>
+		<description>1 Indian Rupee = 24.041625 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>24.041625</exchangeRate>
+		<inverseRate>0.041595</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.041595 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.006159 KWD</title>
+		<link>http://www.floatrates.com/inr/kwd/</link>
+		<description>1 Indian Rupee = 0.006159 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.006159</exchangeRate>
+		<inverseRate>162.354020</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 162.354020 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.043376 LYD</title>
+		<link>http://www.floatrates.com/inr/lyd/</link>
+		<description>1 Indian Rupee = 0.043376 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.043376</exchangeRate>
+		<inverseRate>23.054204</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 23.054204 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.066869 MYR</title>
+		<link>http://www.floatrates.com/inr/myr/</link>
+		<description>1 Indian Rupee = 0.066869 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.066869</exchangeRate>
+		<inverseRate>14.954632</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 14.954632 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.611190 MUR</title>
+		<link>http://www.floatrates.com/inr/mur/</link>
+		<description>1 Indian Rupee = 0.611190 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>0.611190</exchangeRate>
+		<inverseRate>1.636151</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 1.636151 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 1.596860 NPR</title>
+		<link>http://www.floatrates.com/inr/npr/</link>
+		<description>1 Indian Rupee = 1.596860 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>1.596860</exchangeRate>
+		<inverseRate>0.626229</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.626229 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.028173 NZD</title>
+		<link>http://www.floatrates.com/inr/nzd/</link>
+		<description>1 Indian Rupee = 0.028173 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.028173</exchangeRate>
+		<inverseRate>35.494480</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 35.494480 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.118719 NOK</title>
+		<link>http://www.floatrates.com/inr/nok/</link>
+		<description>1 Indian Rupee = 0.118719 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>0.118719</exchangeRate>
+		<inverseRate>8.423270</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 8.423270 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.008631 OMR</title>
+		<link>http://www.floatrates.com/inr/omr/</link>
+		<description>1 Indian Rupee = 0.008631 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.008631</exchangeRate>
+		<inverseRate>115.864611</inverseRate>
+		<inverseDescription>1 Omani Rial = 115.864611 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 1.892449 PKR</title>
+		<link>http://www.floatrates.com/inr/pkr/</link>
+		<description>1 Indian Rupee = 1.892449 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>1.892449</exchangeRate>
+		<inverseRate>0.528416</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.528416 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.059446 PLN</title>
+		<link>http://www.floatrates.com/inr/pln/</link>
+		<description>1 Indian Rupee = 0.059446 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.059446</exchangeRate>
+		<inverseRate>16.821860</inverseRate>
+		<inverseDescription>1 Polish Zloty = 16.821860 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.081706 QAR</title>
+		<link>http://www.floatrates.com/inr/qar/</link>
+		<description>1 Indian Rupee = 0.081706 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.081706</exchangeRate>
+		<inverseRate>12.238995</inverseRate>
+		<inverseDescription>1 Qatari Rial = 12.238995 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.613313 RUB</title>
+		<link>http://www.floatrates.com/inr/rub/</link>
+		<description>1 Indian Rupee = 0.613313 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>0.613313</exchangeRate>
+		<inverseRate>1.630488</inverseRate>
+		<inverseDescription>1 Russian Rouble = 1.630488 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.084175 SAR</title>
+		<link>http://www.floatrates.com/inr/sar/</link>
+		<description>1 Indian Rupee = 0.084175 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.084175</exchangeRate>
+		<inverseRate>11.879985</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 11.879985 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.027592 SGD</title>
+		<link>http://www.floatrates.com/inr/sgd/</link>
+		<description>1 Indian Rupee = 0.027592 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.027592</exchangeRate>
+		<inverseRate>36.241844</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 36.241844 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.148685 ZAR</title>
+		<link>http://www.floatrates.com/inr/zar/</link>
+		<description>1 Indian Rupee = 0.148685 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>0.148685</exchangeRate>
+		<inverseRate>6.725625</inverseRate>
+		<inverseDescription>1 South African Rand = 6.725625 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 2.464234 LKR</title>
+		<link>http://www.floatrates.com/inr/lkr/</link>
+		<description>1 Indian Rupee = 2.464234 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>2.464234</exchangeRate>
+		<inverseRate>0.405806</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.405806 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.135650 SEK</title>
+		<link>http://www.floatrates.com/inr/sek/</link>
+		<description>1 Indian Rupee = 0.135650 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>0.135650</exchangeRate>
+		<inverseRate>7.371901</inverseRate>
+		<inverseDescription>1 Swedish Krona = 7.371901 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.019354 CHF</title>
+		<link>http://www.floatrates.com/inr/chf/</link>
+		<description>1 Indian Rupee = 0.019354 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.019354</exchangeRate>
+		<inverseRate>51.669151</inverseRate>
+		<inverseDescription>1 Swiss Franc = 51.669151 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.673938 THB</title>
+		<link>http://www.floatrates.com/inr/thb/</link>
+		<description>1 Indian Rupee = 0.673938 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>0.673938</exchangeRate>
+		<inverseRate>1.483815</inverseRate>
+		<inverseDescription>1 Thai Baht = 1.483815 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.143549 TTD</title>
+		<link>http://www.floatrates.com/inr/ttd/</link>
+		<description>1 Indian Rupee = 0.143549 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>0.143549</exchangeRate>
+		<inverseRate>6.966262</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 6.966262 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.082436 AED</title>
+		<link>http://www.floatrates.com/inr/aed/</link>
+		<description>1 Indian Rupee = 0.082436 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.082436</exchangeRate>
+		<inverseRate>12.130686</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 12.130686 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.096281 VEF</title>
+		<link>http://www.floatrates.com/inr/vef/</link>
+		<description>1 Indian Rupee = 0.096281 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>0.096281</exchangeRate>
+		<inverseRate>10.386297</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 10.386297 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 1.819327 JPY</title>
+		<link>http://www.floatrates.com/inr/jpy/</link>
+		<description>1 Indian Rupee = 1.819327 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>1.819327</exchangeRate>
+		<inverseRate>0.549654</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.549654 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.029500 BGN</title>
+		<link>http://www.floatrates.com/inr/bgn/</link>
+		<description>1 Indian Rupee = 0.029500 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.029500</exchangeRate>
+		<inverseRate>33.898776</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 33.898776 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.052079 LTL</title>
+		<link>http://www.floatrates.com/inr/ltl/</link>
+		<description>1 Indian Rupee = 0.052079 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>0.052079</exchangeRate>
+		<inverseRate>19.201583</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 19.201583 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.010701 LVL</title>
+		<link>http://www.floatrates.com/inr/lvl/</link>
+		<description>1 Indian Rupee = 0.010701 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.010701</exchangeRate>
+		<inverseRate>93.444997</inverseRate>
+		<inverseDescription>1 Latvian Lats = 93.444997 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.061992 RON</title>
+		<link>http://www.floatrates.com/inr/ron/</link>
+		<description>1 Indian Rupee = 0.061992 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.061992</exchangeRate>
+		<inverseRate>16.131198</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 16.131198 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.111336 HRK</title>
+		<link>http://www.floatrates.com/inr/hrk/</link>
+		<description>1 Indian Rupee = 0.111336 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>0.111336</exchangeRate>
+		<inverseRate>8.981809</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 8.981809 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.034506 TRY</title>
+		<link>http://www.floatrates.com/inr/try/</link>
+		<description>1 Indian Rupee = 0.034506 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.034506</exchangeRate>
+		<inverseRate>28.980734</inverseRate>
+		<inverseDescription>1 Turkish Lira = 28.980734 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.035565 BRL</title>
+		<link>http://www.floatrates.com/inr/brl/</link>
+		<description>1 Indian Rupee = 0.035565 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.035565</exchangeRate>
+		<inverseRate>28.117912</inverseRate>
+		<inverseDescription>1 Brazilian Real = 28.117912 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.174396 HKD</title>
+		<link>http://www.floatrates.com/inr/hkd/</link>
+		<description>1 Indian Rupee = 0.174396 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>0.174396</exchangeRate>
+		<inverseRate>5.734086</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 5.734086 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.259692 MXN</title>
+		<link>http://www.floatrates.com/inr/mxn/</link>
+		<description>1 Indian Rupee = 0.259692 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>0.259692</exchangeRate>
+		<inverseRate>3.850711</inverseRate>
+		<inverseDescription>1 Mexican Peso = 3.850711 Indian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 INR = 0.963269 PHP</title>
+		<link>http://www.floatrates.com/inr/php/</link>
+		<description>1 Indian Rupee = 0.963269 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>INR</baseCurrency>
+		<baseName>Indian Rupee</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>0.963269</exchangeRate>
+		<inverseRate>1.038131</inverseRate>
+		<inverseDescription>1 Philippine Peso = 1.038131 Indian Rupee</inverseDescription>
+	</item>
+</channel>
+

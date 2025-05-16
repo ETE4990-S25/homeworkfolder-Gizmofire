@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Thai Baht (THB) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/thb/</link>
+	<xmlLink>http://www.floatrates.com/daily/thb.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Thai Baht (THB) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>THB</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 THB = 0.022381 EUR</title>
+		<link>http://www.floatrates.com/thb/eur/</link>
+		<description>1 Thai Baht = 0.022381 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.022381</exchangeRate>
+		<inverseRate>44.681599</inverseRate>
+		<inverseDescription>1 Euro = 44.681599 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.020161 GBP</title>
+		<link>http://www.floatrates.com/thb/gbp/</link>
+		<description>1 Thai Baht = 0.020161 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.020161</exchangeRate>
+		<inverseRate>49.600885</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 49.600885 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.033307 USD</title>
+		<link>http://www.floatrates.com/thb/usd/</link>
+		<description>1 Thai Baht = 0.033307 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.033307</exchangeRate>
+		<inverseRate>30.023921</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 30.023921 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 2.374540 DZD</title>
+		<link>http://www.floatrates.com/thb/dzd/</link>
+		<description>1 Thai Baht = 2.374540 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>2.374540</exchangeRate>
+		<inverseRate>0.421134</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.421134 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.030745 AUD</title>
+		<link>http://www.floatrates.com/thb/aud/</link>
+		<description>1 Thai Baht = 0.030745 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.030745</exchangeRate>
+		<inverseRate>32.525312</inverseRate>
+		<inverseDescription>1 Australian Dollar = 32.525312 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.212280 BWP</title>
+		<link>http://www.floatrates.com/thb/bwp/</link>
+		<description>1 Thai Baht = 0.212280 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>0.212280</exchangeRate>
+		<inverseRate>4.710753</inverseRate>
+		<inverseDescription>1 Botswana Pula = 4.710753 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.040974 BND</title>
+		<link>http://www.floatrates.com/thb/bnd/</link>
+		<description>1 Thai Baht = 0.040974 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.040974</exchangeRate>
+		<inverseRate>24.405723</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 24.405723 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.031847 CAD</title>
+		<link>http://www.floatrates.com/thb/cad/</link>
+		<description>1 Thai Baht = 0.031847 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.031847</exchangeRate>
+		<inverseRate>31.400378</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 31.400378 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 15.423369 CLP</title>
+		<link>http://www.floatrates.com/thb/clp/</link>
+		<description>1 Thai Baht = 15.423369 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>15.423369</exchangeRate>
+		<inverseRate>0.064837</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.064837 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.216451 CNY</title>
+		<link>http://www.floatrates.com/thb/cny/</link>
+		<description>1 Thai Baht = 0.216451 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>0.216451</exchangeRate>
+		<inverseRate>4.619993</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 4.619993 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 58.854738 COP</title>
+		<link>http://www.floatrates.com/thb/cop/</link>
+		<description>1 Thai Baht = 58.854738 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>58.854738</exchangeRate>
+		<inverseRate>0.016991</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.016991 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.541760 CZK</title>
+		<link>http://www.floatrates.com/thb/czk/</link>
+		<description>1 Thai Baht = 0.541760 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>0.541760</exchangeRate>
+		<inverseRate>1.845835</inverseRate>
+		<inverseDescription>1 Czech Koruna = 1.845835 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.166887 DKK</title>
+		<link>http://www.floatrates.com/thb/dkk/</link>
+		<description>1 Thai Baht = 0.166887 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>0.166887</exchangeRate>
+		<inverseRate>5.992074</inverseRate>
+		<inverseDescription>1 Danish Krone = 5.992074 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 5.939624 HUF</title>
+		<link>http://www.floatrates.com/thb/huf/</link>
+		<description>1 Thai Baht = 5.939624 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>5.939624</exchangeRate>
+		<inverseRate>0.168361</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.168361 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 3.710042 ISK</title>
+		<link>http://www.floatrates.com/thb/isk/</link>
+		<description>1 Thai Baht = 3.710042 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>3.710042</exchangeRate>
+		<inverseRate>0.269539</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.269539 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 1.483815 INR</title>
+		<link>http://www.floatrates.com/thb/inr/</link>
+		<description>1 Thai Baht = 1.483815 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>1.483815</exchangeRate>
+		<inverseRate>0.673938</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.673938 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 284.994783 IDR</title>
+		<link>http://www.floatrates.com/thb/idr/</link>
+		<description>1 Thai Baht = 284.994783 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>284.994783</exchangeRate>
+		<inverseRate>0.003509</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.003509 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.113003 ILS</title>
+		<link>http://www.floatrates.com/thb/ils/</link>
+		<description>1 Thai Baht = 0.113003 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.113003</exchangeRate>
+		<inverseRate>8.849332</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 8.849332 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 4.855795 KZT</title>
+		<link>http://www.floatrates.com/thb/kzt/</link>
+		<description>1 Thai Baht = 4.855795 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>4.855795</exchangeRate>
+		<inverseRate>0.205940</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.205940 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 35.673323 KRW</title>
+		<link>http://www.floatrates.com/thb/krw/</link>
+		<description>1 Thai Baht = 35.673323 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>35.673323</exchangeRate>
+		<inverseRate>0.028032</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.028032 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.009139 KWD</title>
+		<link>http://www.floatrates.com/thb/kwd/</link>
+		<description>1 Thai Baht = 0.009139 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.009139</exchangeRate>
+		<inverseRate>109.416621</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 109.416621 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.064362 LYD</title>
+		<link>http://www.floatrates.com/thb/lyd/</link>
+		<description>1 Thai Baht = 0.064362 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.064362</exchangeRate>
+		<inverseRate>15.537115</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 15.537115 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.099221 MYR</title>
+		<link>http://www.floatrates.com/thb/myr/</link>
+		<description>1 Thai Baht = 0.099221 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.099221</exchangeRate>
+		<inverseRate>10.078502</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 10.078502 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.906894 MUR</title>
+		<link>http://www.floatrates.com/thb/mur/</link>
+		<description>1 Thai Baht = 0.906894 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>0.906894</exchangeRate>
+		<inverseRate>1.102665</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 1.102665 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 2.369444 NPR</title>
+		<link>http://www.floatrates.com/thb/npr/</link>
+		<description>1 Thai Baht = 2.369444 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>2.369444</exchangeRate>
+		<inverseRate>0.422040</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.422040 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.041804 NZD</title>
+		<link>http://www.floatrates.com/thb/nzd/</link>
+		<description>1 Thai Baht = 0.041804 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.041804</exchangeRate>
+		<inverseRate>23.921096</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 23.921096 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.176157 NOK</title>
+		<link>http://www.floatrates.com/thb/nok/</link>
+		<description>1 Thai Baht = 0.176157 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>0.176157</exchangeRate>
+		<inverseRate>5.676766</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 5.676766 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.012806 OMR</title>
+		<link>http://www.floatrates.com/thb/omr/</link>
+		<description>1 Thai Baht = 0.012806 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.012806</exchangeRate>
+		<inverseRate>78.085620</inverseRate>
+		<inverseDescription>1 Omani Rial = 78.085620 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 2.808044 PKR</title>
+		<link>http://www.floatrates.com/thb/pkr/</link>
+		<description>1 Thai Baht = 2.808044 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>2.808044</exchangeRate>
+		<inverseRate>0.356120</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.356120 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.088208 PLN</title>
+		<link>http://www.floatrates.com/thb/pln/</link>
+		<description>1 Thai Baht = 0.088208 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.088208</exchangeRate>
+		<inverseRate>11.336899</inverseRate>
+		<inverseDescription>1 Polish Zloty = 11.336899 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.121237 QAR</title>
+		<link>http://www.floatrates.com/thb/qar/</link>
+		<description>1 Thai Baht = 0.121237 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.121237</exchangeRate>
+		<inverseRate>8.248330</inverseRate>
+		<inverseDescription>1 Qatari Rial = 8.248330 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.910044 RUB</title>
+		<link>http://www.floatrates.com/thb/rub/</link>
+		<description>1 Thai Baht = 0.910044 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>0.910044</exchangeRate>
+		<inverseRate>1.098848</inverseRate>
+		<inverseDescription>1 Russian Rouble = 1.098848 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.124900 SAR</title>
+		<link>http://www.floatrates.com/thb/sar/</link>
+		<description>1 Thai Baht = 0.124900 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.124900</exchangeRate>
+		<inverseRate>8.006379</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 8.006379 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.040942 SGD</title>
+		<link>http://www.floatrates.com/thb/sgd/</link>
+		<description>1 Thai Baht = 0.040942 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.040942</exchangeRate>
+		<inverseRate>24.424773</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 24.424773 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.220621 ZAR</title>
+		<link>http://www.floatrates.com/thb/zar/</link>
+		<description>1 Thai Baht = 0.220621 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>0.220621</exchangeRate>
+		<inverseRate>4.532657</inverseRate>
+		<inverseDescription>1 South African Rand = 4.532657 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 3.656468 LKR</title>
+		<link>http://www.floatrates.com/thb/lkr/</link>
+		<description>1 Thai Baht = 3.656468 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>3.656468</exchangeRate>
+		<inverseRate>0.273488</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.273488 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.201280 SEK</title>
+		<link>http://www.floatrates.com/thb/sek/</link>
+		<description>1 Thai Baht = 0.201280 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>0.201280</exchangeRate>
+		<inverseRate>4.968207</inverseRate>
+		<inverseDescription>1 Swedish Krona = 4.968207 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.028718 CHF</title>
+		<link>http://www.floatrates.com/thb/chf/</link>
+		<description>1 Thai Baht = 0.028718 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.028718</exchangeRate>
+		<inverseRate>34.821829</inverseRate>
+		<inverseDescription>1 Swiss Franc = 34.821829 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 1.000000 THB</title>
+		<link>http://www.floatrates.com/thb/thb/</link>
+		<description>1 Thai Baht = 1.000000 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Thai Baht = 1.000000 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.213000 TTD</title>
+		<link>http://www.floatrates.com/thb/ttd/</link>
+		<description>1 Thai Baht = 0.213000 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>0.213000</exchangeRate>
+		<inverseRate>4.694832</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 4.694832 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.122319 AED</title>
+		<link>http://www.floatrates.com/thb/aed/</link>
+		<description>1 Thai Baht = 0.122319 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.122319</exchangeRate>
+		<inverseRate>8.175336</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 8.175336 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.142863 VEF</title>
+		<link>http://www.floatrates.com/thb/vef/</link>
+		<description>1 Thai Baht = 0.142863 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>0.142863</exchangeRate>
+		<inverseRate>6.999725</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 6.999725 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 2.699545 JPY</title>
+		<link>http://www.floatrates.com/thb/jpy/</link>
+		<description>1 Thai Baht = 2.699545 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>2.699545</exchangeRate>
+		<inverseRate>0.370433</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.370433 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.043772 BGN</title>
+		<link>http://www.floatrates.com/thb/bgn/</link>
+		<description>1 Thai Baht = 0.043772 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.043772</exchangeRate>
+		<inverseRate>22.845689</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 22.845689 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.077276 LTL</title>
+		<link>http://www.floatrates.com/thb/ltl/</link>
+		<description>1 Thai Baht = 0.077276 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>0.077276</exchangeRate>
+		<inverseRate>12.940685</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 12.940685 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.015879 LVL</title>
+		<link>http://www.floatrates.com/thb/lvl/</link>
+		<description>1 Thai Baht = 0.015879 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.015879</exchangeRate>
+		<inverseRate>62.976179</inverseRate>
+		<inverseDescription>1 Latvian Lats = 62.976179 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.091984 RON</title>
+		<link>http://www.floatrates.com/thb/ron/</link>
+		<description>1 Thai Baht = 0.091984 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.091984</exchangeRate>
+		<inverseRate>10.871435</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 10.871435 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.165202 HRK</title>
+		<link>http://www.floatrates.com/thb/hrk/</link>
+		<description>1 Thai Baht = 0.165202 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>0.165202</exchangeRate>
+		<inverseRate>6.053187</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 6.053187 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.051200 TRY</title>
+		<link>http://www.floatrates.com/thb/try/</link>
+		<description>1 Thai Baht = 0.051200 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.051200</exchangeRate>
+		<inverseRate>19.531232</inverseRate>
+		<inverseDescription>1 Turkish Lira = 19.531232 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.052771 BRL</title>
+		<link>http://www.floatrates.com/thb/brl/</link>
+		<description>1 Thai Baht = 0.052771 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.052771</exchangeRate>
+		<inverseRate>18.949743</inverseRate>
+		<inverseDescription>1 Brazilian Real = 18.949743 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.258771 HKD</title>
+		<link>http://www.floatrates.com/thb/hkd/</link>
+		<description>1 Thai Baht = 0.258771 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>0.258771</exchangeRate>
+		<inverseRate>3.864421</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 3.864421 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 0.385335 MXN</title>
+		<link>http://www.floatrates.com/thb/mxn/</link>
+		<description>1 Thai Baht = 0.385335 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>0.385335</exchangeRate>
+		<inverseRate>2.595142</inverseRate>
+		<inverseDescription>1 Mexican Peso = 2.595142 Thai Baht</inverseDescription>
+	</item>
+	<item>
+		<title>1 THB = 1.429313 PHP</title>
+		<link>http://www.floatrates.com/thb/php/</link>
+		<description>1 Thai Baht = 1.429313 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>THB</baseCurrency>
+		<baseName>Thai Baht</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>1.429313</exchangeRate>
+		<inverseRate>0.699637</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.699637 Thai Baht</inverseDescription>
+	</item>
+</channel>
+

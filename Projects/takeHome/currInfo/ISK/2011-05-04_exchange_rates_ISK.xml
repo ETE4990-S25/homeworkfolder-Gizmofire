@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Icelandic Krona (ISK) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/isk/</link>
+	<xmlLink>http://www.floatrates.com/daily/isk.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Icelandic Krona (ISK) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>ISK</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 ISK = 0.006032 EUR</title>
+		<link>http://www.floatrates.com/isk/eur/</link>
+		<description>1 Icelandic Krona = 0.006032 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.006032</exchangeRate>
+		<inverseRate>165.770599</inverseRate>
+		<inverseDescription>1 Euro = 165.770599 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.005434 GBP</title>
+		<link>http://www.floatrates.com/isk/gbp/</link>
+		<description>1 Icelandic Krona = 0.005434 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.005434</exchangeRate>
+		<inverseRate>184.021355</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 184.021355 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.008977 USD</title>
+		<link>http://www.floatrates.com/isk/usd/</link>
+		<description>1 Icelandic Krona = 0.008977 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.008977</exchangeRate>
+		<inverseRate>111.390000</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 111.390000 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.640031 DZD</title>
+		<link>http://www.floatrates.com/isk/dzd/</link>
+		<description>1 Icelandic Krona = 0.640031 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>0.640031</exchangeRate>
+		<inverseRate>1.562425</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 1.562425 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.008287 AUD</title>
+		<link>http://www.floatrates.com/isk/aud/</link>
+		<description>1 Icelandic Krona = 0.008287 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.008287</exchangeRate>
+		<inverseRate>120.670265</inverseRate>
+		<inverseDescription>1 Australian Dollar = 120.670265 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.057218 BWP</title>
+		<link>http://www.floatrates.com/isk/bwp/</link>
+		<description>1 Icelandic Krona = 0.057218 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>0.057218</exchangeRate>
+		<inverseRate>17.477091</inverseRate>
+		<inverseDescription>1 Botswana Pula = 17.477091 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.011044 BND</title>
+		<link>http://www.floatrates.com/isk/bnd/</link>
+		<description>1 Icelandic Krona = 0.011044 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.011044</exchangeRate>
+		<inverseRate>90.546253</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 90.546253 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.008584 CAD</title>
+		<link>http://www.floatrates.com/isk/cad/</link>
+		<description>1 Icelandic Krona = 0.008584 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.008584</exchangeRate>
+		<inverseRate>116.496713</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 116.496713 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 4.157195 CLP</title>
+		<link>http://www.floatrates.com/isk/clp/</link>
+		<description>1 Icelandic Krona = 4.157195 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>4.157195</exchangeRate>
+		<inverseRate>0.240547</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.240547 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.058342 CNY</title>
+		<link>http://www.floatrates.com/isk/cny/</link>
+		<description>1 Icelandic Krona = 0.058342 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>0.058342</exchangeRate>
+		<inverseRate>17.140367</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 17.140367 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 15.863632 COP</title>
+		<link>http://www.floatrates.com/isk/cop/</link>
+		<description>1 Icelandic Krona = 15.863632 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>15.863632</exchangeRate>
+		<inverseRate>0.063037</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.063037 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.146025 CZK</title>
+		<link>http://www.floatrates.com/isk/czk/</link>
+		<description>1 Icelandic Krona = 0.146025 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>0.146025</exchangeRate>
+		<inverseRate>6.848124</inverseRate>
+		<inverseDescription>1 Czech Koruna = 6.848124 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.044983 DKK</title>
+		<link>http://www.floatrates.com/isk/dkk/</link>
+		<description>1 Icelandic Krona = 0.044983 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>0.044983</exchangeRate>
+		<inverseRate>22.230846</inverseRate>
+		<inverseDescription>1 Danish Krone = 22.230846 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 1.600959 HUF</title>
+		<link>http://www.floatrates.com/isk/huf/</link>
+		<description>1 Icelandic Krona = 1.600959 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>1.600959</exchangeRate>
+		<inverseRate>0.624626</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.624626 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 1.000000 ISK</title>
+		<link>http://www.floatrates.com/isk/isk/</link>
+		<description>1 Icelandic Krona = 1.000000 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 1.000000 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.399946 INR</title>
+		<link>http://www.floatrates.com/isk/inr/</link>
+		<description>1 Icelandic Krona = 0.399946 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>0.399946</exchangeRate>
+		<inverseRate>2.500340</inverseRate>
+		<inverseDescription>1 Indian Rupee = 2.500340 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 76.817136 IDR</title>
+		<link>http://www.floatrates.com/isk/idr/</link>
+		<description>1 Icelandic Krona = 76.817136 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>76.817136</exchangeRate>
+		<inverseRate>0.013018</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.013018 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.030459 ILS</title>
+		<link>http://www.floatrates.com/isk/ils/</link>
+		<description>1 Icelandic Krona = 0.030459 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.030459</exchangeRate>
+		<inverseRate>32.831390</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 32.831390 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 1.308825 KZT</title>
+		<link>http://www.floatrates.com/isk/kzt/</link>
+		<description>1 Icelandic Krona = 1.308825 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>1.308825</exchangeRate>
+		<inverseRate>0.764044</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.764044 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 9.615343 KRW</title>
+		<link>http://www.floatrates.com/isk/krw/</link>
+		<description>1 Icelandic Krona = 9.615343 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>9.615343</exchangeRate>
+		<inverseRate>0.104000</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.104000 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.002463 KWD</title>
+		<link>http://www.floatrates.com/isk/kwd/</link>
+		<description>1 Icelandic Krona = 0.002463 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.002463</exchangeRate>
+		<inverseRate>405.940233</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 405.940233 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.017348 LYD</title>
+		<link>http://www.floatrates.com/isk/lyd/</link>
+		<description>1 Icelandic Krona = 0.017348 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.017348</exchangeRate>
+		<inverseRate>57.643345</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 57.643345 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.026744 MYR</title>
+		<link>http://www.floatrates.com/isk/myr/</link>
+		<description>1 Icelandic Krona = 0.026744 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.026744</exchangeRate>
+		<inverseRate>37.391662</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 37.391662 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.244443 MUR</title>
+		<link>http://www.floatrates.com/isk/mur/</link>
+		<description>1 Icelandic Krona = 0.244443 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>0.244443</exchangeRate>
+		<inverseRate>4.090934</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 4.090934 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.638657 NPR</title>
+		<link>http://www.floatrates.com/isk/npr/</link>
+		<description>1 Icelandic Krona = 0.638657 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>0.638657</exchangeRate>
+		<inverseRate>1.565786</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 1.565786 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.011268 NZD</title>
+		<link>http://www.floatrates.com/isk/nzd/</link>
+		<description>1 Icelandic Krona = 0.011268 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.011268</exchangeRate>
+		<inverseRate>88.748265</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 88.748265 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.047481 NOK</title>
+		<link>http://www.floatrates.com/isk/nok/</link>
+		<description>1 Icelandic Krona = 0.047481 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>0.047481</exchangeRate>
+		<inverseRate>21.061038</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 21.061038 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.003452 OMR</title>
+		<link>http://www.floatrates.com/isk/omr/</link>
+		<description>1 Icelandic Krona = 0.003452 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.003452</exchangeRate>
+		<inverseRate>289.700910</inverseRate>
+		<inverseDescription>1 Omani Rial = 289.700910 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.756877 PKR</title>
+		<link>http://www.floatrates.com/isk/pkr/</link>
+		<description>1 Icelandic Krona = 0.756877 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>0.756877</exchangeRate>
+		<inverseRate>1.321219</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 1.321219 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.023775 PLN</title>
+		<link>http://www.floatrates.com/isk/pln/</link>
+		<description>1 Icelandic Krona = 0.023775 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.023775</exchangeRate>
+		<inverseRate>42.060368</inverseRate>
+		<inverseDescription>1 Polish Zloty = 42.060368 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.032678 QAR</title>
+		<link>http://www.floatrates.com/isk/qar/</link>
+		<description>1 Icelandic Krona = 0.032678 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.032678</exchangeRate>
+		<inverseRate>30.601648</inverseRate>
+		<inverseDescription>1 Qatari Rial = 30.601648 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.245292 RUB</title>
+		<link>http://www.floatrates.com/isk/rub/</link>
+		<description>1 Icelandic Krona = 0.245292 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>0.245292</exchangeRate>
+		<inverseRate>4.076773</inverseRate>
+		<inverseDescription>1 Russian Rouble = 4.076773 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.033665 SAR</title>
+		<link>http://www.floatrates.com/isk/sar/</link>
+		<description>1 Icelandic Krona = 0.033665 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.033665</exchangeRate>
+		<inverseRate>29.704000</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 29.704000 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.011035 SGD</title>
+		<link>http://www.floatrates.com/isk/sgd/</link>
+		<description>1 Icelandic Krona = 0.011035 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.011035</exchangeRate>
+		<inverseRate>90.616927</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 90.616927 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.059466 ZAR</title>
+		<link>http://www.floatrates.com/isk/zar/</link>
+		<description>1 Icelandic Krona = 0.059466 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>0.059466</exchangeRate>
+		<inverseRate>16.816347</inverseRate>
+		<inverseDescription>1 South African Rand = 16.816347 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.985560 LKR</title>
+		<link>http://www.floatrates.com/isk/lkr/</link>
+		<description>1 Icelandic Krona = 0.985560 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>0.985560</exchangeRate>
+		<inverseRate>1.014652</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 1.014652 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.054253 SEK</title>
+		<link>http://www.floatrates.com/isk/sek/</link>
+		<description>1 Icelandic Krona = 0.054253 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>0.054253</exchangeRate>
+		<inverseRate>18.432257</inverseRate>
+		<inverseDescription>1 Swedish Krona = 18.432257 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.007741 CHF</title>
+		<link>http://www.floatrates.com/isk/chf/</link>
+		<description>1 Icelandic Krona = 0.007741 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.007741</exchangeRate>
+		<inverseRate>129.190439</inverseRate>
+		<inverseDescription>1 Swiss Franc = 129.190439 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.269539 THB</title>
+		<link>http://www.floatrates.com/isk/thb/</link>
+		<description>1 Icelandic Krona = 0.269539 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>0.269539</exchangeRate>
+		<inverseRate>3.710042</inverseRate>
+		<inverseDescription>1 Thai Baht = 3.710042 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.057412 TTD</title>
+		<link>http://www.floatrates.com/isk/ttd/</link>
+		<description>1 Icelandic Krona = 0.057412 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>0.057412</exchangeRate>
+		<inverseRate>17.418023</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 17.418023 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.032970 AED</title>
+		<link>http://www.floatrates.com/isk/aed/</link>
+		<description>1 Icelandic Krona = 0.032970 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.032970</exchangeRate>
+		<inverseRate>30.330837</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 30.330837 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.038507 VEF</title>
+		<link>http://www.floatrates.com/isk/vef/</link>
+		<description>1 Icelandic Krona = 0.038507 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>0.038507</exchangeRate>
+		<inverseRate>25.969272</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 25.969272 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.727632 JPY</title>
+		<link>http://www.floatrates.com/isk/jpy/</link>
+		<description>1 Icelandic Krona = 0.727632 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>0.727632</exchangeRate>
+		<inverseRate>1.374321</inverseRate>
+		<inverseDescription>1 Japanese Yen = 1.374321 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.011798 BGN</title>
+		<link>http://www.floatrates.com/isk/bgn/</link>
+		<description>1 Icelandic Krona = 0.011798 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.011798</exchangeRate>
+		<inverseRate>84.758461</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 84.758461 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.020829 LTL</title>
+		<link>http://www.floatrates.com/isk/ltl/</link>
+		<description>1 Icelandic Krona = 0.020829 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>0.020829</exchangeRate>
+		<inverseRate>48.010484</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 48.010484 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.004280 LVL</title>
+		<link>http://www.floatrates.com/isk/lvl/</link>
+		<description>1 Icelandic Krona = 0.004280 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.004280</exchangeRate>
+		<inverseRate>233.644254</inverseRate>
+		<inverseDescription>1 Latvian Lats = 233.644254 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.024793 RON</title>
+		<link>http://www.floatrates.com/isk/ron/</link>
+		<description>1 Icelandic Krona = 0.024793 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.024793</exchangeRate>
+		<inverseRate>40.333479</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 40.333479 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.044528 HRK</title>
+		<link>http://www.floatrates.com/isk/hrk/</link>
+		<description>1 Icelandic Krona = 0.044528 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>0.044528</exchangeRate>
+		<inverseRate>22.457576</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 22.457576 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.013800 TRY</title>
+		<link>http://www.floatrates.com/isk/try/</link>
+		<description>1 Icelandic Krona = 0.013800 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.013800</exchangeRate>
+		<inverseRate>72.461686</inverseRate>
+		<inverseDescription>1 Turkish Lira = 72.461686 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.014224 BRL</title>
+		<link>http://www.floatrates.com/isk/brl/</link>
+		<description>1 Icelandic Krona = 0.014224 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.014224</exchangeRate>
+		<inverseRate>70.304338</inverseRate>
+		<inverseDescription>1 Brazilian Real = 70.304338 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.069749 HKD</title>
+		<link>http://www.floatrates.com/isk/hkd/</link>
+		<description>1 Icelandic Krona = 0.069749 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>0.069749</exchangeRate>
+		<inverseRate>14.337165</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 14.337165 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.103863 MXN</title>
+		<link>http://www.floatrates.com/isk/mxn/</link>
+		<description>1 Icelandic Krona = 0.103863 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>0.103863</exchangeRate>
+		<inverseRate>9.628085</inverseRate>
+		<inverseDescription>1 Mexican Peso = 9.628085 Icelandic Krona</inverseDescription>
+	</item>
+	<item>
+		<title>1 ISK = 0.385255 PHP</title>
+		<link>http://www.floatrates.com/isk/php/</link>
+		<description>1 Icelandic Krona = 0.385255 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>ISK</baseCurrency>
+		<baseName>Icelandic Krona</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>0.385255</exchangeRate>
+		<inverseRate>2.595681</inverseRate>
+		<inverseDescription>1 Philippine Peso = 2.595681 Icelandic Krona</inverseDescription>
+	</item>
+</channel>
+

@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Malaysian Ringgit (MYR) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/myr/</link>
+	<xmlLink>http://www.floatrates.com/daily/myr.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Malaysian Ringgit (MYR) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>MYR</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 MYR = 0.225563 EUR</title>
+		<link>http://www.floatrates.com/myr/eur/</link>
+		<description>1 Malaysian Ringgit = 0.225563 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.225563</exchangeRate>
+		<inverseRate>4.433357</inverseRate>
+		<inverseDescription>1 Euro = 4.433357 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 0.203192 GBP</title>
+		<link>http://www.floatrates.com/myr/gbp/</link>
+		<description>1 Malaysian Ringgit = 0.203192 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.203192</exchangeRate>
+		<inverseRate>4.921454</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 4.921454 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 0.335682 USD</title>
+		<link>http://www.floatrates.com/myr/usd/</link>
+		<description>1 Malaysian Ringgit = 0.335682 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.335682</exchangeRate>
+		<inverseRate>2.979006</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 2.979006 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 23.931805 DZD</title>
+		<link>http://www.floatrates.com/myr/dzd/</link>
+		<description>1 Malaysian Ringgit = 23.931805 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>23.931805</exchangeRate>
+		<inverseRate>0.041785</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.041785 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 0.309866 AUD</title>
+		<link>http://www.floatrates.com/myr/aud/</link>
+		<description>1 Malaysian Ringgit = 0.309866 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.309866</exchangeRate>
+		<inverseRate>3.227197</inverseRate>
+		<inverseDescription>1 Australian Dollar = 3.227197 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 2.139467 BWP</title>
+		<link>http://www.floatrates.com/myr/bwp/</link>
+		<description>1 Malaysian Ringgit = 2.139467 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>2.139467</exchangeRate>
+		<inverseRate>0.467406</inverseRate>
+		<inverseDescription>1 Botswana Pula = 0.467406 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 0.412956 BND</title>
+		<link>http://www.floatrates.com/myr/bnd/</link>
+		<description>1 Malaysian Ringgit = 0.412956 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.412956</exchangeRate>
+		<inverseRate>2.421563</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 2.421563 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 0.320968 CAD</title>
+		<link>http://www.floatrates.com/myr/cad/</link>
+		<description>1 Malaysian Ringgit = 0.320968 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.320968</exchangeRate>
+		<inverseRate>3.115580</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 3.115580 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 155.444446 CLP</title>
+		<link>http://www.floatrates.com/myr/clp/</link>
+		<description>1 Malaysian Ringgit = 155.444446 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>155.444446</exchangeRate>
+		<inverseRate>0.006433</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.006433 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 2.181497 CNY</title>
+		<link>http://www.floatrates.com/myr/cny/</link>
+		<description>1 Malaysian Ringgit = 2.181497 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>2.181497</exchangeRate>
+		<inverseRate>0.458401</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 0.458401 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 593.167573 COP</title>
+		<link>http://www.floatrates.com/myr/cop/</link>
+		<description>1 Malaysian Ringgit = 593.167573 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>593.167573</exchangeRate>
+		<inverseRate>0.001686</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.001686 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 5.460132 CZK</title>
+		<link>http://www.floatrates.com/myr/czk/</link>
+		<description>1 Malaysian Ringgit = 5.460132 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>5.460132</exchangeRate>
+		<inverseRate>0.183146</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.183146 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 1.681972 DKK</title>
+		<link>http://www.floatrates.com/myr/dkk/</link>
+		<description>1 Malaysian Ringgit = 1.681972 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>1.681972</exchangeRate>
+		<inverseRate>0.594540</inverseRate>
+		<inverseDescription>1 Danish Krone = 0.594540 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 59.862514 HUF</title>
+		<link>http://www.floatrates.com/myr/huf/</link>
+		<description>1 Malaysian Ringgit = 59.862514 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>59.862514</exchangeRate>
+		<inverseRate>0.016705</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.016705 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 37.391662 ISK</title>
+		<link>http://www.floatrates.com/myr/isk/</link>
+		<description>1 Malaysian Ringgit = 37.391662 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>37.391662</exchangeRate>
+		<inverseRate>0.026744</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.026744 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 14.954632 INR</title>
+		<link>http://www.floatrates.com/myr/inr/</link>
+		<description>1 Malaysian Ringgit = 14.954632 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>14.954632</exchangeRate>
+		<inverseRate>0.066869</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.066869 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 2,872.320360 IDR</title>
+		<link>http://www.floatrates.com/myr/idr/</link>
+		<description>1 Malaysian Ringgit = 2,872.320360 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>2,872.320360</exchangeRate>
+		<inverseRate>0.000348</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.000348 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 1.138900 ILS</title>
+		<link>http://www.floatrates.com/myr/ils/</link>
+		<description>1 Malaysian Ringgit = 1.138900 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>1.138900</exchangeRate>
+		<inverseRate>0.878040</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 0.878040 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 48.939136 KZT</title>
+		<link>http://www.floatrates.com/myr/kzt/</link>
+		<description>1 Malaysian Ringgit = 48.939136 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>48.939136</exchangeRate>
+		<inverseRate>0.020434</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.020434 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 359.533639 KRW</title>
+		<link>http://www.floatrates.com/myr/krw/</link>
+		<description>1 Malaysian Ringgit = 359.533639 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>359.533639</exchangeRate>
+		<inverseRate>0.002781</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.002781 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 0.092111 KWD</title>
+		<link>http://www.floatrates.com/myr/kwd/</link>
+		<description>1 Malaysian Ringgit = 0.092111 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.092111</exchangeRate>
+		<inverseRate>10.856437</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 10.856437 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 0.648673 LYD</title>
+		<link>http://www.floatrates.com/myr/lyd/</link>
+		<description>1 Malaysian Ringgit = 0.648673 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.648673</exchangeRate>
+		<inverseRate>1.541610</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 1.541610 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 1.000000 MYR</title>
+		<link>http://www.floatrates.com/myr/myr/</link>
+		<description>1 Malaysian Ringgit = 1.000000 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 1.000000 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 9.140128 MUR</title>
+		<link>http://www.floatrates.com/myr/mur/</link>
+		<description>1 Malaysian Ringgit = 9.140128 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>9.140128</exchangeRate>
+		<inverseRate>0.109408</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.109408 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 23.880445 NPR</title>
+		<link>http://www.floatrates.com/myr/npr/</link>
+		<description>1 Malaysian Ringgit = 23.880445 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>23.880445</exchangeRate>
+		<inverseRate>0.041875</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.041875 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 0.421323 NZD</title>
+		<link>http://www.floatrates.com/myr/nzd/</link>
+		<description>1 Malaysian Ringgit = 0.421323 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.421323</exchangeRate>
+		<inverseRate>2.373477</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 2.373477 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 1.775395 NOK</title>
+		<link>http://www.floatrates.com/myr/nok/</link>
+		<description>1 Malaysian Ringgit = 1.775395 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>1.775395</exchangeRate>
+		<inverseRate>0.563255</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 0.563255 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 0.129070 OMR</title>
+		<link>http://www.floatrates.com/myr/omr/</link>
+		<description>1 Malaysian Ringgit = 0.129070 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.129070</exchangeRate>
+		<inverseRate>7.747741</inverseRate>
+		<inverseDescription>1 Omani Rial = 7.747741 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 28.300879 PKR</title>
+		<link>http://www.floatrates.com/myr/pkr/</link>
+		<description>1 Malaysian Ringgit = 28.300879 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>28.300879</exchangeRate>
+		<inverseRate>0.035335</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.035335 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 0.889000 PLN</title>
+		<link>http://www.floatrates.com/myr/pln/</link>
+		<description>1 Malaysian Ringgit = 0.889000 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.889000</exchangeRate>
+		<inverseRate>1.124860</inverseRate>
+		<inverseDescription>1 Polish Zloty = 1.124860 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 1.221884 QAR</title>
+		<link>http://www.floatrates.com/myr/qar/</link>
+		<description>1 Malaysian Ringgit = 1.221884 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>1.221884</exchangeRate>
+		<inverseRate>0.818408</inverseRate>
+		<inverseDescription>1 Qatari Rial = 0.818408 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 9.171877 RUB</title>
+		<link>http://www.floatrates.com/myr/rub/</link>
+		<description>1 Malaysian Ringgit = 9.171877 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>9.171877</exchangeRate>
+		<inverseRate>0.109029</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.109029 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 1.258809 SAR</title>
+		<link>http://www.floatrates.com/myr/sar/</link>
+		<description>1 Malaysian Ringgit = 1.258809 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>1.258809</exchangeRate>
+		<inverseRate>0.794402</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 0.794402 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 0.412634 SGD</title>
+		<link>http://www.floatrates.com/myr/sgd/</link>
+		<description>1 Malaysian Ringgit = 0.412634 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.412634</exchangeRate>
+		<inverseRate>2.423453</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 2.423453 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 2.223531 ZAR</title>
+		<link>http://www.floatrates.com/myr/zar/</link>
+		<description>1 Malaysian Ringgit = 2.223531 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>2.223531</exchangeRate>
+		<inverseRate>0.449735</inverseRate>
+		<inverseDescription>1 South African Rand = 0.449735 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 36.851717 LKR</title>
+		<link>http://www.floatrates.com/myr/lkr/</link>
+		<description>1 Malaysian Ringgit = 36.851717 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>36.851717</exchangeRate>
+		<inverseRate>0.027136</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.027136 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 2.028599 SEK</title>
+		<link>http://www.floatrates.com/myr/sek/</link>
+		<description>1 Malaysian Ringgit = 2.028599 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>2.028599</exchangeRate>
+		<inverseRate>0.492951</inverseRate>
+		<inverseDescription>1 Swedish Krona = 0.492951 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 0.289431 CHF</title>
+		<link>http://www.floatrates.com/myr/chf/</link>
+		<description>1 Malaysian Ringgit = 0.289431 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.289431</exchangeRate>
+		<inverseRate>3.455060</inverseRate>
+		<inverseDescription>1 Swiss Franc = 3.455060 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 10.078502 THB</title>
+		<link>http://www.floatrates.com/myr/thb/</link>
+		<description>1 Malaysian Ringgit = 10.078502 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>10.078502</exchangeRate>
+		<inverseRate>0.099221</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.099221 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 2.146722 TTD</title>
+		<link>http://www.floatrates.com/myr/ttd/</link>
+		<description>1 Malaysian Ringgit = 2.146722 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>2.146722</exchangeRate>
+		<inverseRate>0.465826</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 0.465826 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 1.232794 AED</title>
+		<link>http://www.floatrates.com/myr/aed/</link>
+		<description>1 Malaysian Ringgit = 1.232794 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>1.232794</exchangeRate>
+		<inverseRate>0.811166</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 0.811166 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 1.439842 VEF</title>
+		<link>http://www.floatrates.com/myr/vef/</link>
+		<description>1 Malaysian Ringgit = 1.439842 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>1.439842</exchangeRate>
+		<inverseRate>0.694520</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 0.694520 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 27.207372 JPY</title>
+		<link>http://www.floatrates.com/myr/jpy/</link>
+		<description>1 Malaysian Ringgit = 27.207372 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>27.207372</exchangeRate>
+		<inverseRate>0.036755</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.036755 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 0.441156 BGN</title>
+		<link>http://www.floatrates.com/myr/bgn/</link>
+		<description>1 Malaysian Ringgit = 0.441156 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.441156</exchangeRate>
+		<inverseRate>2.266774</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 2.266774 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 0.778823 LTL</title>
+		<link>http://www.floatrates.com/myr/ltl/</link>
+		<description>1 Malaysian Ringgit = 0.778823 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>0.778823</exchangeRate>
+		<inverseRate>1.283989</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 1.283989 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 0.160037 LVL</title>
+		<link>http://www.floatrates.com/myr/lvl/</link>
+		<description>1 Malaysian Ringgit = 0.160037 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.160037</exchangeRate>
+		<inverseRate>6.248566</inverseRate>
+		<inverseDescription>1 Latvian Lats = 6.248566 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 0.927063 RON</title>
+		<link>http://www.floatrates.com/myr/ron/</link>
+		<description>1 Malaysian Ringgit = 0.927063 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.927063</exchangeRate>
+		<inverseRate>1.078676</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 1.078676 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 1.664991 HRK</title>
+		<link>http://www.floatrates.com/myr/hrk/</link>
+		<description>1 Malaysian Ringgit = 1.664991 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>1.664991</exchangeRate>
+		<inverseRate>0.600604</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 0.600604 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 0.516020 TRY</title>
+		<link>http://www.floatrates.com/myr/try/</link>
+		<description>1 Malaysian Ringgit = 0.516020 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.516020</exchangeRate>
+		<inverseRate>1.937910</inverseRate>
+		<inverseDescription>1 Turkish Lira = 1.937910 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 0.531854 BRL</title>
+		<link>http://www.floatrates.com/myr/brl/</link>
+		<description>1 Malaysian Ringgit = 0.531854 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.531854</exchangeRate>
+		<inverseRate>1.880214</inverseRate>
+		<inverseDescription>1 Brazilian Real = 1.880214 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 2.608023 HKD</title>
+		<link>http://www.floatrates.com/myr/hkd/</link>
+		<description>1 Malaysian Ringgit = 2.608023 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>2.608023</exchangeRate>
+		<inverseRate>0.383432</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.383432 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 3.883603 MXN</title>
+		<link>http://www.floatrates.com/myr/mxn/</link>
+		<description>1 Malaysian Ringgit = 3.883603 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>3.883603</exchangeRate>
+		<inverseRate>0.257493</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.257493 Malaysian Ringgit</inverseDescription>
+	</item>
+	<item>
+		<title>1 MYR = 14.405336 PHP</title>
+		<link>http://www.floatrates.com/myr/php/</link>
+		<description>1 Malaysian Ringgit = 14.405336 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>MYR</baseCurrency>
+		<baseName>Malaysian Ringgit</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>14.405336</exchangeRate>
+		<inverseRate>0.069419</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.069419 Malaysian Ringgit</inverseDescription>
+	</item>
+</channel>
+

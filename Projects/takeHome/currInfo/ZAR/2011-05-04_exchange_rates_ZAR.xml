@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for South African Rand (ZAR) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/zar/</link>
+	<xmlLink>http://www.floatrates.com/daily/zar.xml</xmlLink>
+	<description>XML historical foreign exchange rates for South African Rand (ZAR) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>ZAR</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 ZAR = 0.101443 EUR</title>
+		<link>http://www.floatrates.com/zar/eur/</link>
+		<description>1 South African Rand = 0.101443 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.101443</exchangeRate>
+		<inverseRate>9.857705</inverseRate>
+		<inverseDescription>1 Euro = 9.857705 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.091383 GBP</title>
+		<link>http://www.floatrates.com/zar/gbp/</link>
+		<description>1 South African Rand = 0.091383 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.091383</exchangeRate>
+		<inverseRate>10.943004</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 10.943004 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.150968 USD</title>
+		<link>http://www.floatrates.com/zar/usd/</link>
+		<description>1 South African Rand = 0.150968 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.150968</exchangeRate>
+		<inverseRate>6.623912</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 6.623912 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 10.762976 DZD</title>
+		<link>http://www.floatrates.com/zar/dzd/</link>
+		<description>1 South African Rand = 10.762976 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>10.762976</exchangeRate>
+		<inverseRate>0.092911</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.092911 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.139358 AUD</title>
+		<link>http://www.floatrates.com/zar/aud/</link>
+		<description>1 South African Rand = 0.139358 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.139358</exchangeRate>
+		<inverseRate>7.175771</inverseRate>
+		<inverseDescription>1 Australian Dollar = 7.175771 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.962194 BWP</title>
+		<link>http://www.floatrates.com/zar/bwp/</link>
+		<description>1 South African Rand = 0.962194 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>0.962194</exchangeRate>
+		<inverseRate>1.039292</inverseRate>
+		<inverseDescription>1 Botswana Pula = 1.039292 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.185721 BND</title>
+		<link>http://www.floatrates.com/zar/bnd/</link>
+		<description>1 South African Rand = 0.185721 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.185721</exchangeRate>
+		<inverseRate>5.384419</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 5.384419 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.144350 CAD</title>
+		<link>http://www.floatrates.com/zar/cad/</link>
+		<description>1 South African Rand = 0.144350 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.144350</exchangeRate>
+		<inverseRate>6.927587</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 6.927587 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 69.908843 CLP</title>
+		<link>http://www.floatrates.com/zar/clp/</link>
+		<description>1 South African Rand = 69.908843 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>69.908843</exchangeRate>
+		<inverseRate>0.014304</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.014304 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.981096 CNY</title>
+		<link>http://www.floatrates.com/zar/cny/</link>
+		<description>1 South African Rand = 0.981096 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>0.981096</exchangeRate>
+		<inverseRate>1.019268</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 1.019268 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 266.768353 COP</title>
+		<link>http://www.floatrates.com/zar/cop/</link>
+		<description>1 South African Rand = 266.768353 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>266.768353</exchangeRate>
+		<inverseRate>0.003749</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.003749 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 2.455614 CZK</title>
+		<link>http://www.floatrates.com/zar/czk/</link>
+		<description>1 South African Rand = 2.455614 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>2.455614</exchangeRate>
+		<inverseRate>0.407230</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.407230 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.756442 DKK</title>
+		<link>http://www.floatrates.com/zar/dkk/</link>
+		<description>1 South African Rand = 0.756442 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>0.756442</exchangeRate>
+		<inverseRate>1.321978</inverseRate>
+		<inverseDescription>1 Danish Krone = 1.321978 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 26.922281 HUF</title>
+		<link>http://www.floatrates.com/zar/huf/</link>
+		<description>1 South African Rand = 26.922281 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>26.922281</exchangeRate>
+		<inverseRate>0.037144</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.037144 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 16.816347 ISK</title>
+		<link>http://www.floatrates.com/zar/isk/</link>
+		<description>1 South African Rand = 16.816347 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>16.816347</exchangeRate>
+		<inverseRate>0.059466</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.059466 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 6.725625 INR</title>
+		<link>http://www.floatrates.com/zar/inr/</link>
+		<description>1 South African Rand = 6.725625 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>6.725625</exchangeRate>
+		<inverseRate>0.148685</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.148685 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 1,291.783648 IDR</title>
+		<link>http://www.floatrates.com/zar/idr/</link>
+		<description>1 South African Rand = 1,291.783648 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>1,291.783648</exchangeRate>
+		<inverseRate>0.000774</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.000774 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.512203 ILS</title>
+		<link>http://www.floatrates.com/zar/ils/</link>
+		<description>1 South African Rand = 0.512203 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.512203</exchangeRate>
+		<inverseRate>1.952350</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 1.952350 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 22.009653 KZT</title>
+		<link>http://www.floatrates.com/zar/kzt/</link>
+		<description>1 South African Rand = 22.009653 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>22.009653</exchangeRate>
+		<inverseRate>0.045435</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.045435 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 161.694942 KRW</title>
+		<link>http://www.floatrates.com/zar/krw/</link>
+		<description>1 South African Rand = 161.694942 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>161.694942</exchangeRate>
+		<inverseRate>0.006184</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.006184 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.041426 KWD</title>
+		<link>http://www.floatrates.com/zar/kwd/</link>
+		<description>1 South African Rand = 0.041426 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.041426</exchangeRate>
+		<inverseRate>24.139620</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 24.139620 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.291731 LYD</title>
+		<link>http://www.floatrates.com/zar/lyd/</link>
+		<description>1 South African Rand = 0.291731 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.291731</exchangeRate>
+		<inverseRate>3.427816</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 3.427816 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.449735 MYR</title>
+		<link>http://www.floatrates.com/zar/myr/</link>
+		<description>1 South African Rand = 0.449735 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.449735</exchangeRate>
+		<inverseRate>2.223531</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 2.223531 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 4.110638 MUR</title>
+		<link>http://www.floatrates.com/zar/mur/</link>
+		<description>1 South African Rand = 4.110638 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>4.110638</exchangeRate>
+		<inverseRate>0.243271</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.243271 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 10.739878 NPR</title>
+		<link>http://www.floatrates.com/zar/npr/</link>
+		<description>1 South African Rand = 10.739878 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>10.739878</exchangeRate>
+		<inverseRate>0.093111</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.093111 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.189484 NZD</title>
+		<link>http://www.floatrates.com/zar/nzd/</link>
+		<description>1 South African Rand = 0.189484 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.189484</exchangeRate>
+		<inverseRate>5.277499</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 5.277499 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.798458 NOK</title>
+		<link>http://www.floatrates.com/zar/nok/</link>
+		<description>1 South African Rand = 0.798458 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>0.798458</exchangeRate>
+		<inverseRate>1.252415</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 1.252415 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.058047 OMR</title>
+		<link>http://www.floatrates.com/zar/omr/</link>
+		<description>1 South African Rand = 0.058047 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.058047</exchangeRate>
+		<inverseRate>17.227338</inverseRate>
+		<inverseDescription>1 Omani Rial = 17.227338 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 12.727902 PKR</title>
+		<link>http://www.floatrates.com/zar/pkr/</link>
+		<description>1 South African Rand = 12.727902 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>12.727902</exchangeRate>
+		<inverseRate>0.078568</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.078568 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.399815 PLN</title>
+		<link>http://www.floatrates.com/zar/pln/</link>
+		<description>1 South African Rand = 0.399815 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.399815</exchangeRate>
+		<inverseRate>2.501160</inverseRate>
+		<inverseDescription>1 Polish Zloty = 2.501160 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.549524 QAR</title>
+		<link>http://www.floatrates.com/zar/qar/</link>
+		<description>1 South African Rand = 0.549524 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.549524</exchangeRate>
+		<inverseRate>1.819756</inverseRate>
+		<inverseDescription>1 Qatari Rial = 1.819756 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 4.124916 RUB</title>
+		<link>http://www.floatrates.com/zar/rub/</link>
+		<description>1 South African Rand = 4.124916 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>4.124916</exchangeRate>
+		<inverseRate>0.242429</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.242429 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.566131 SAR</title>
+		<link>http://www.floatrates.com/zar/sar/</link>
+		<description>1 South African Rand = 0.566131 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.566131</exchangeRate>
+		<inverseRate>1.766376</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 1.766376 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.185576 SGD</title>
+		<link>http://www.floatrates.com/zar/sgd/</link>
+		<description>1 South African Rand = 0.185576 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.185576</exchangeRate>
+		<inverseRate>5.388621</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 5.388621 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 1.000000 ZAR</title>
+		<link>http://www.floatrates.com/zar/zar/</link>
+		<description>1 South African Rand = 1.000000 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 South African Rand = 1.000000 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 16.573515 LKR</title>
+		<link>http://www.floatrates.com/zar/lkr/</link>
+		<description>1 South African Rand = 16.573515 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>16.573515</exchangeRate>
+		<inverseRate>0.060337</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.060337 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.912333 SEK</title>
+		<link>http://www.floatrates.com/zar/sek/</link>
+		<description>1 South African Rand = 0.912333 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>0.912333</exchangeRate>
+		<inverseRate>1.096092</inverseRate>
+		<inverseDescription>1 Swedish Krona = 1.096092 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.130167 CHF</title>
+		<link>http://www.floatrates.com/zar/chf/</link>
+		<description>1 South African Rand = 0.130167 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.130167</exchangeRate>
+		<inverseRate>7.682432</inverseRate>
+		<inverseDescription>1 Swiss Franc = 7.682432 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 4.532657 THB</title>
+		<link>http://www.floatrates.com/zar/thb/</link>
+		<description>1 South African Rand = 4.532657 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>4.532657</exchangeRate>
+		<inverseRate>0.220621</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.220621 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.965457 TTD</title>
+		<link>http://www.floatrates.com/zar/ttd/</link>
+		<description>1 South African Rand = 0.965457 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>0.965457</exchangeRate>
+		<inverseRate>1.035779</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 1.035779 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.554431 AED</title>
+		<link>http://www.floatrates.com/zar/aed/</link>
+		<description>1 South African Rand = 0.554431 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.554431</exchangeRate>
+		<inverseRate>1.803652</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 1.803652 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.647548 VEF</title>
+		<link>http://www.floatrates.com/zar/vef/</link>
+		<description>1 South African Rand = 0.647548 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>0.647548</exchangeRate>
+		<inverseRate>1.544287</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 1.544287 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 12.236113 JPY</title>
+		<link>http://www.floatrates.com/zar/jpy/</link>
+		<description>1 South African Rand = 12.236113 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>12.236113</exchangeRate>
+		<inverseRate>0.081725</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.081725 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.198403 BGN</title>
+		<link>http://www.floatrates.com/zar/bgn/</link>
+		<description>1 South African Rand = 0.198403 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.198403</exchangeRate>
+		<inverseRate>5.040242</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 5.040242 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.350264 LTL</title>
+		<link>http://www.floatrates.com/zar/ltl/</link>
+		<description>1 South African Rand = 0.350264 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>0.350264</exchangeRate>
+		<inverseRate>2.854989</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 2.854989 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.071974 LVL</title>
+		<link>http://www.floatrates.com/zar/lvl/</link>
+		<description>1 South African Rand = 0.071974 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.071974</exchangeRate>
+		<inverseRate>13.893876</inverseRate>
+		<inverseDescription>1 Latvian Lats = 13.893876 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.416933 RON</title>
+		<link>http://www.floatrates.com/zar/ron/</link>
+		<description>1 South African Rand = 0.416933 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.416933</exchangeRate>
+		<inverseRate>2.398468</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 2.398468 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.748805 HRK</title>
+		<link>http://www.floatrates.com/zar/hrk/</link>
+		<description>1 South African Rand = 0.748805 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>0.748805</exchangeRate>
+		<inverseRate>1.335461</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 1.335461 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.232072 TRY</title>
+		<link>http://www.floatrates.com/zar/try/</link>
+		<description>1 South African Rand = 0.232072 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.232072</exchangeRate>
+		<inverseRate>4.309003</inverseRate>
+		<inverseDescription>1 Turkish Lira = 4.309003 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 0.239194 BRL</title>
+		<link>http://www.floatrates.com/zar/brl/</link>
+		<description>1 South African Rand = 0.239194 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.239194</exchangeRate>
+		<inverseRate>4.180714</inverseRate>
+		<inverseDescription>1 Brazilian Real = 4.180714 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 1.172920 HKD</title>
+		<link>http://www.floatrates.com/zar/hkd/</link>
+		<description>1 South African Rand = 1.172920 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>1.172920</exchangeRate>
+		<inverseRate>0.852573</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.852573 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 1.746593 MXN</title>
+		<link>http://www.floatrates.com/zar/mxn/</link>
+		<description>1 South African Rand = 1.746593 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>1.746593</exchangeRate>
+		<inverseRate>0.572543</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.572543 South African Rand</inverseDescription>
+	</item>
+	<item>
+		<title>1 ZAR = 6.478587 PHP</title>
+		<link>http://www.floatrates.com/zar/php/</link>
+		<description>1 South African Rand = 6.478587 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>ZAR</baseCurrency>
+		<baseName>South African Rand</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>6.478587</exchangeRate>
+		<inverseRate>0.154355</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.154355 South African Rand</inverseDescription>
+	</item>
+</channel>
+

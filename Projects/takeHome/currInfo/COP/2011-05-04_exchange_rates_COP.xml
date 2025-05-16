@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Colombian Peso (COP) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/cop/</link>
+	<xmlLink>http://www.floatrates.com/daily/cop.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Colombian Peso (COP) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>COP</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 COP = 0.000380 EUR</title>
+		<link>http://www.floatrates.com/cop/eur/</link>
+		<description>1 Colombian Peso = 0.000380 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.000380</exchangeRate>
+		<inverseRate>2,629.723822</inverseRate>
+		<inverseDescription>1 Euro = 2,629.723822 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.000343 GBP</title>
+		<link>http://www.floatrates.com/cop/gbp/</link>
+		<description>1 Colombian Peso = 0.000343 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.000343</exchangeRate>
+		<inverseRate>2,919.247105</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 2,919.247105 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.000566 USD</title>
+		<link>http://www.floatrates.com/cop/usd/</link>
+		<description>1 Colombian Peso = 0.000566 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.000566</exchangeRate>
+		<inverseRate>1,767.050000</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 1,767.050000 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.040346 DZD</title>
+		<link>http://www.floatrates.com/cop/dzd/</link>
+		<description>1 Colombian Peso = 0.040346 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>0.040346</exchangeRate>
+		<inverseRate>24.785743</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 24.785743 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.000522 AUD</title>
+		<link>http://www.floatrates.com/cop/aud/</link>
+		<description>1 Colombian Peso = 0.000522 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.000522</exchangeRate>
+		<inverseRate>1,914.268709</inverseRate>
+		<inverseDescription>1 Australian Dollar = 1,914.268709 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.003607 BWP</title>
+		<link>http://www.floatrates.com/cop/bwp/</link>
+		<description>1 Colombian Peso = 0.003607 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>0.003607</exchangeRate>
+		<inverseRate>277.250145</inverseRate>
+		<inverseDescription>1 Botswana Pula = 277.250145 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.000696 BND</title>
+		<link>http://www.floatrates.com/cop/bnd/</link>
+		<description>1 Colombian Peso = 0.000696 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.000696</exchangeRate>
+		<inverseRate>1,436.392457</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 1,436.392457 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.000541 CAD</title>
+		<link>http://www.floatrates.com/cop/cad/</link>
+		<description>1 Colombian Peso = 0.000541 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.000541</exchangeRate>
+		<inverseRate>1,848.061021</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 1,848.061021 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.262058 CLP</title>
+		<link>http://www.floatrates.com/cop/clp/</link>
+		<description>1 Colombian Peso = 0.262058 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>0.262058</exchangeRate>
+		<inverseRate>3.815946</inverseRate>
+		<inverseDescription>1 Chilean Peso = 3.815946 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.003678 CNY</title>
+		<link>http://www.floatrates.com/cop/cny/</link>
+		<description>1 Colombian Peso = 0.003678 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>0.003678</exchangeRate>
+		<inverseRate>271.908478</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 271.908478 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 1.000000 COP</title>
+		<link>http://www.floatrates.com/cop/cop/</link>
+		<description>1 Colombian Peso = 1.000000 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Colombian Peso = 1.000000 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.009205 CZK</title>
+		<link>http://www.floatrates.com/cop/czk/</link>
+		<description>1 Colombian Peso = 0.009205 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>0.009205</exchangeRate>
+		<inverseRate>108.636127</inverseRate>
+		<inverseDescription>1 Czech Koruna = 108.636127 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.002836 DKK</title>
+		<link>http://www.floatrates.com/cop/dkk/</link>
+		<description>1 Colombian Peso = 0.002836 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>0.002836</exchangeRate>
+		<inverseRate>352.661960</inverseRate>
+		<inverseDescription>1 Danish Krone = 352.661960 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.100920 HUF</title>
+		<link>http://www.floatrates.com/cop/huf/</link>
+		<description>1 Colombian Peso = 0.100920 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>0.100920</exchangeRate>
+		<inverseRate>9.908832</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 9.908832 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.063037 ISK</title>
+		<link>http://www.floatrates.com/cop/isk/</link>
+		<description>1 Colombian Peso = 0.063037 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>0.063037</exchangeRate>
+		<inverseRate>15.863632</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 15.863632 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.025211 INR</title>
+		<link>http://www.floatrates.com/cop/inr/</link>
+		<description>1 Colombian Peso = 0.025211 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>0.025211</exchangeRate>
+		<inverseRate>39.664473</inverseRate>
+		<inverseDescription>1 Indian Rupee = 39.664473 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 4.842342 IDR</title>
+		<link>http://www.floatrates.com/cop/idr/</link>
+		<description>1 Colombian Peso = 4.842342 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>4.842342</exchangeRate>
+		<inverseRate>0.206512</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.206512 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.001920 ILS</title>
+		<link>http://www.floatrates.com/cop/ils/</link>
+		<description>1 Colombian Peso = 0.001920 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.001920</exchangeRate>
+		<inverseRate>520.825093</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 520.825093 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.082505 KZT</title>
+		<link>http://www.floatrates.com/cop/kzt/</link>
+		<description>1 Colombian Peso = 0.082505 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>0.082505</exchangeRate>
+		<inverseRate>12.120516</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 12.120516 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.606125 KRW</title>
+		<link>http://www.floatrates.com/cop/krw/</link>
+		<description>1 Colombian Peso = 0.606125 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>0.606125</exchangeRate>
+		<inverseRate>1.649825</inverseRate>
+		<inverseDescription>1 South Korean Won = 1.649825 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.000155 KWD</title>
+		<link>http://www.floatrates.com/cop/kwd/</link>
+		<description>1 Colombian Peso = 0.000155 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.000155</exchangeRate>
+		<inverseRate>6,439.686589</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 6,439.686589 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.001094 LYD</title>
+		<link>http://www.floatrates.com/cop/lyd/</link>
+		<description>1 Colombian Peso = 0.001094 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.001094</exchangeRate>
+		<inverseRate>914.432830</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 914.432830 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.001686 MYR</title>
+		<link>http://www.floatrates.com/cop/myr/</link>
+		<description>1 Colombian Peso = 0.001686 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.001686</exchangeRate>
+		<inverseRate>593.167573</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 593.167573 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.015409 MUR</title>
+		<link>http://www.floatrates.com/cop/mur/</link>
+		<description>1 Colombian Peso = 0.015409 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>0.015409</exchangeRate>
+		<inverseRate>64.897075</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 64.897075 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.040259 NPR</title>
+		<link>http://www.floatrates.com/cop/npr/</link>
+		<description>1 Colombian Peso = 0.040259 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>0.040259</exchangeRate>
+		<inverseRate>24.839050</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 24.839050 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.000710 NZD</title>
+		<link>http://www.floatrates.com/cop/nzd/</link>
+		<description>1 Colombian Peso = 0.000710 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.000710</exchangeRate>
+		<inverseRate>1,407.869836</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 1,407.869836 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.002993 NOK</title>
+		<link>http://www.floatrates.com/cop/nok/</link>
+		<description>1 Colombian Peso = 0.002993 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>0.002993</exchangeRate>
+		<inverseRate>334.104555</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 334.104555 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.000218 OMR</title>
+		<link>http://www.floatrates.com/cop/omr/</link>
+		<description>1 Colombian Peso = 0.000218 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.000218</exchangeRate>
+		<inverseRate>4,595.708713</inverseRate>
+		<inverseDescription>1 Omani Rial = 4,595.708713 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.047711 PKR</title>
+		<link>http://www.floatrates.com/cop/pkr/</link>
+		<description>1 Colombian Peso = 0.047711 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>0.047711</exchangeRate>
+		<inverseRate>20.959334</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 20.959334 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.001499 PLN</title>
+		<link>http://www.floatrates.com/cop/pln/</link>
+		<description>1 Colombian Peso = 0.001499 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.001499</exchangeRate>
+		<inverseRate>667.230209</inverseRate>
+		<inverseDescription>1 Polish Zloty = 667.230209 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.002060 QAR</title>
+		<link>http://www.floatrates.com/cop/qar/</link>
+		<description>1 Colombian Peso = 0.002060 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.002060</exchangeRate>
+		<inverseRate>485.453297</inverseRate>
+		<inverseDescription>1 Qatari Rial = 485.453297 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.015463 RUB</title>
+		<link>http://www.floatrates.com/cop/rub/</link>
+		<description>1 Colombian Peso = 0.015463 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>0.015463</exchangeRate>
+		<inverseRate>64.672429</inverseRate>
+		<inverseDescription>1 Russian Rouble = 64.672429 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.002122 SAR</title>
+		<link>http://www.floatrates.com/cop/sar/</link>
+		<description>1 Colombian Peso = 0.002122 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.002122</exchangeRate>
+		<inverseRate>471.213333</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 471.213333 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.000696 SGD</title>
+		<link>http://www.floatrates.com/cop/sgd/</link>
+		<description>1 Colombian Peso = 0.000696 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.000696</exchangeRate>
+		<inverseRate>1,437.513614</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 1,437.513614 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.003749 ZAR</title>
+		<link>http://www.floatrates.com/cop/zar/</link>
+		<description>1 Colombian Peso = 0.003749 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>0.003749</exchangeRate>
+		<inverseRate>266.768353</inverseRate>
+		<inverseDescription>1 South African Rand = 266.768353 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.062127 LKR</title>
+		<link>http://www.floatrates.com/cop/lkr/</link>
+		<description>1 Colombian Peso = 0.062127 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>0.062127</exchangeRate>
+		<inverseRate>16.096064</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 16.096064 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.003420 SEK</title>
+		<link>http://www.floatrates.com/cop/sek/</link>
+		<description>1 Colombian Peso = 0.003420 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>0.003420</exchangeRate>
+		<inverseRate>292.402552</inverseRate>
+		<inverseDescription>1 Swedish Krona = 292.402552 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.000488 CHF</title>
+		<link>http://www.floatrates.com/cop/chf/</link>
+		<description>1 Colombian Peso = 0.000488 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.000488</exchangeRate>
+		<inverseRate>2,049.429617</inverseRate>
+		<inverseDescription>1 Swiss Franc = 2,049.429617 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.016991 THB</title>
+		<link>http://www.floatrates.com/cop/thb/</link>
+		<description>1 Colombian Peso = 0.016991 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>0.016991</exchangeRate>
+		<inverseRate>58.854738</inverseRate>
+		<inverseDescription>1 Thai Baht = 58.854738 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.003619 TTD</title>
+		<link>http://www.floatrates.com/cop/ttd/</link>
+		<description>1 Colombian Peso = 0.003619 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>0.003619</exchangeRate>
+		<inverseRate>276.313115</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 276.313115 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.002078 AED</title>
+		<link>http://www.floatrates.com/cop/aed/</link>
+		<description>1 Colombian Peso = 0.002078 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.002078</exchangeRate>
+		<inverseRate>481.157250</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 481.157250 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.002427 VEF</title>
+		<link>http://www.floatrates.com/cop/vef/</link>
+		<description>1 Colombian Peso = 0.002427 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>0.002427</exchangeRate>
+		<inverseRate>411.966988</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 411.966988 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.045868 JPY</title>
+		<link>http://www.floatrates.com/cop/jpy/</link>
+		<description>1 Colombian Peso = 0.045868 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>0.045868</exchangeRate>
+		<inverseRate>21.801723</inverseRate>
+		<inverseDescription>1 Japanese Yen = 21.801723 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.000744 BGN</title>
+		<link>http://www.floatrates.com/cop/bgn/</link>
+		<description>1 Colombian Peso = 0.000744 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.000744</exchangeRate>
+		<inverseRate>1,344.577058</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 1,344.577058 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.001313 LTL</title>
+		<link>http://www.floatrates.com/cop/ltl/</link>
+		<description>1 Colombian Peso = 0.001313 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>0.001313</exchangeRate>
+		<inverseRate>761.620659</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 761.620659 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.000270 LVL</title>
+		<link>http://www.floatrates.com/cop/lvl/</link>
+		<description>1 Colombian Peso = 0.000270 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.000270</exchangeRate>
+		<inverseRate>3,706.446526</inverseRate>
+		<inverseDescription>1 Latvian Lats = 3,706.446526 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.001563 RON</title>
+		<link>http://www.floatrates.com/cop/ron/</link>
+		<description>1 Colombian Peso = 0.001563 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.001563</exchangeRate>
+		<inverseRate>639.835477</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 639.835477 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.002807 HRK</title>
+		<link>http://www.floatrates.com/cop/hrk/</link>
+		<description>1 Colombian Peso = 0.002807 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>0.002807</exchangeRate>
+		<inverseRate>356.258729</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 356.258729 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.000870 TRY</title>
+		<link>http://www.floatrates.com/cop/try/</link>
+		<description>1 Colombian Peso = 0.000870 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.000870</exchangeRate>
+		<inverseRate>1,149.505534</inverseRate>
+		<inverseDescription>1 Turkish Lira = 1,149.505534 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.000897 BRL</title>
+		<link>http://www.floatrates.com/cop/brl/</link>
+		<description>1 Colombian Peso = 0.000897 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.000897</exchangeRate>
+		<inverseRate>1,115.282162</inverseRate>
+		<inverseDescription>1 Brazilian Real = 1,115.282162 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.004397 HKD</title>
+		<link>http://www.floatrates.com/cop/hkd/</link>
+		<description>1 Colombian Peso = 0.004397 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>0.004397</exchangeRate>
+		<inverseRate>227.439507</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 227.439507 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.006547 MXN</title>
+		<link>http://www.floatrates.com/cop/mxn/</link>
+		<description>1 Colombian Peso = 0.006547 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>0.006547</exchangeRate>
+		<inverseRate>152.736407</inverseRate>
+		<inverseDescription>1 Mexican Peso = 152.736407 Colombian Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 COP = 0.024285 PHP</title>
+		<link>http://www.floatrates.com/cop/php/</link>
+		<description>1 Colombian Peso = 0.024285 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>COP</baseCurrency>
+		<baseName>Colombian Peso</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>0.024285</exchangeRate>
+		<inverseRate>41.176936</inverseRate>
+		<inverseDescription>1 Philippine Peso = 41.176936 Colombian Peso</inverseDescription>
+	</item>
+</channel>
+

@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Chilean Peso (CLP) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/clp/</link>
+	<xmlLink>http://www.floatrates.com/daily/clp.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Chilean Peso (CLP) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>CLP</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 CLP = 0.001451 EUR</title>
+		<link>http://www.floatrates.com/clp/eur/</link>
+		<description>1 Chilean Peso = 0.001451 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.001451</exchangeRate>
+		<inverseRate>689.140777</inverseRate>
+		<inverseDescription>1 Euro = 689.140777 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.001307 GBP</title>
+		<link>http://www.floatrates.com/clp/gbp/</link>
+		<description>1 Chilean Peso = 0.001307 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.001307</exchangeRate>
+		<inverseRate>765.012737</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 765.012737 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.002160 USD</title>
+		<link>http://www.floatrates.com/clp/usd/</link>
+		<description>1 Chilean Peso = 0.002160 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.002160</exchangeRate>
+		<inverseRate>463.070000</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 463.070000 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.153957 DZD</title>
+		<link>http://www.floatrates.com/clp/dzd/</link>
+		<description>1 Chilean Peso = 0.153957 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>0.153957</exchangeRate>
+		<inverseRate>6.495308</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 6.495308 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.001993 AUD</title>
+		<link>http://www.floatrates.com/clp/aud/</link>
+		<description>1 Chilean Peso = 0.001993 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.001993</exchangeRate>
+		<inverseRate>501.649875</inverseRate>
+		<inverseDescription>1 Australian Dollar = 501.649875 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.013764 BWP</title>
+		<link>http://www.floatrates.com/clp/bwp/</link>
+		<description>1 Chilean Peso = 0.013764 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>0.013764</exchangeRate>
+		<inverseRate>72.655683</inverseRate>
+		<inverseDescription>1 Botswana Pula = 72.655683 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.002657 BND</title>
+		<link>http://www.floatrates.com/clp/bnd/</link>
+		<description>1 Chilean Peso = 0.002657 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.002657</exchangeRate>
+		<inverseRate>376.418469</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 376.418469 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.002065 CAD</title>
+		<link>http://www.floatrates.com/clp/cad/</link>
+		<description>1 Chilean Peso = 0.002065 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.002065</exchangeRate>
+		<inverseRate>484.299605</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 484.299605 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 1.000000 CLP</title>
+		<link>http://www.floatrates.com/clp/clp/</link>
+		<description>1 Chilean Peso = 1.000000 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Chilean Peso = 1.000000 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.014034 CNY</title>
+		<link>http://www.floatrates.com/clp/cny/</link>
+		<description>1 Chilean Peso = 0.014034 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>0.014034</exchangeRate>
+		<inverseRate>71.255855</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 71.255855 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 3.815946 COP</title>
+		<link>http://www.floatrates.com/clp/cop/</link>
+		<description>1 Chilean Peso = 3.815946 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>3.815946</exchangeRate>
+		<inverseRate>0.262058</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.262058 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.035126 CZK</title>
+		<link>http://www.floatrates.com/clp/czk/</link>
+		<description>1 Chilean Peso = 0.035126 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>0.035126</exchangeRate>
+		<inverseRate>28.468992</inverseRate>
+		<inverseDescription>1 Czech Koruna = 28.468992 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.010820 DKK</title>
+		<link>http://www.floatrates.com/clp/dkk/</link>
+		<description>1 Chilean Peso = 0.010820 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>0.010820</exchangeRate>
+		<inverseRate>92.417970</inverseRate>
+		<inverseDescription>1 Danish Krone = 92.417970 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.385106 HUF</title>
+		<link>http://www.floatrates.com/clp/huf/</link>
+		<description>1 Chilean Peso = 0.385106 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>0.385106</exchangeRate>
+		<inverseRate>2.596691</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 2.596691 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.240547 ISK</title>
+		<link>http://www.floatrates.com/clp/isk/</link>
+		<description>1 Chilean Peso = 0.240547 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>0.240547</exchangeRate>
+		<inverseRate>4.157195</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 4.157195 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.096206 INR</title>
+		<link>http://www.floatrates.com/clp/inr/</link>
+		<description>1 Chilean Peso = 0.096206 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>0.096206</exchangeRate>
+		<inverseRate>10.394402</inverseRate>
+		<inverseDescription>1 Indian Rupee = 10.394402 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 18.478115 IDR</title>
+		<link>http://www.floatrates.com/clp/idr/</link>
+		<description>1 Chilean Peso = 18.478115 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>18.478115</exchangeRate>
+		<inverseRate>0.054118</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.054118 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.007327 ILS</title>
+		<link>http://www.floatrates.com/clp/ils/</link>
+		<description>1 Chilean Peso = 0.007327 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.007327</exchangeRate>
+		<inverseRate>136.486503</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 136.486503 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.314834 KZT</title>
+		<link>http://www.floatrates.com/clp/kzt/</link>
+		<description>1 Chilean Peso = 0.314834 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>0.314834</exchangeRate>
+		<inverseRate>3.176281</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 3.176281 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 2.312940 KRW</title>
+		<link>http://www.floatrates.com/clp/krw/</link>
+		<description>1 Chilean Peso = 2.312940 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>2.312940</exchangeRate>
+		<inverseRate>0.432350</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.432350 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.000593 KWD</title>
+		<link>http://www.floatrates.com/clp/kwd/</link>
+		<description>1 Chilean Peso = 0.000593 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.000593</exchangeRate>
+		<inverseRate>1,687.572886</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 1,687.572886 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.004173 LYD</title>
+		<link>http://www.floatrates.com/clp/lyd/</link>
+		<description>1 Chilean Peso = 0.004173 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.004173</exchangeRate>
+		<inverseRate>239.634651</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 239.634651 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.006433 MYR</title>
+		<link>http://www.floatrates.com/clp/myr/</link>
+		<description>1 Chilean Peso = 0.006433 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.006433</exchangeRate>
+		<inverseRate>155.444446</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 155.444446 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.058800 MUR</title>
+		<link>http://www.floatrates.com/clp/mur/</link>
+		<description>1 Chilean Peso = 0.058800 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>0.058800</exchangeRate>
+		<inverseRate>17.006813</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 17.006813 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.153627 NPR</title>
+		<link>http://www.floatrates.com/clp/npr/</link>
+		<description>1 Chilean Peso = 0.153627 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>0.153627</exchangeRate>
+		<inverseRate>6.509277</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 6.509277 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.002710 NZD</title>
+		<link>http://www.floatrates.com/clp/nzd/</link>
+		<description>1 Chilean Peso = 0.002710 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.002710</exchangeRate>
+		<inverseRate>368.943881</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 368.943881 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.011421 NOK</title>
+		<link>http://www.floatrates.com/clp/nok/</link>
+		<description>1 Chilean Peso = 0.011421 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>0.011421</exchangeRate>
+		<inverseRate>87.554849</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 87.554849 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.000830 OMR</title>
+		<link>http://www.floatrates.com/clp/omr/</link>
+		<description>1 Chilean Peso = 0.000830 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.000830</exchangeRate>
+		<inverseRate>1,204.343303</inverseRate>
+		<inverseDescription>1 Omani Rial = 1,204.343303 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.182064 PKR</title>
+		<link>http://www.floatrates.com/clp/pkr/</link>
+		<description>1 Chilean Peso = 0.182064 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>0.182064</exchangeRate>
+		<inverseRate>5.492566</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 5.492566 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.005719 PLN</title>
+		<link>http://www.floatrates.com/clp/pln/</link>
+		<description>1 Chilean Peso = 0.005719 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.005719</exchangeRate>
+		<inverseRate>174.853169</inverseRate>
+		<inverseDescription>1 Polish Zloty = 174.853169 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.007861 QAR</title>
+		<link>http://www.floatrates.com/clp/qar/</link>
+		<description>1 Chilean Peso = 0.007861 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.007861</exchangeRate>
+		<inverseRate>127.217033</inverseRate>
+		<inverseDescription>1 Qatari Rial = 127.217033 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.059004 RUB</title>
+		<link>http://www.floatrates.com/clp/rub/</link>
+		<description>1 Chilean Peso = 0.059004 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>0.059004</exchangeRate>
+		<inverseRate>16.947942</inverseRate>
+		<inverseDescription>1 Russian Rouble = 16.947942 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.008098 SAR</title>
+		<link>http://www.floatrates.com/clp/sar/</link>
+		<description>1 Chilean Peso = 0.008098 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.008098</exchangeRate>
+		<inverseRate>123.485333</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 123.485333 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.002655 SGD</title>
+		<link>http://www.floatrates.com/clp/sgd/</link>
+		<description>1 Chilean Peso = 0.002655 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.002655</exchangeRate>
+		<inverseRate>376.712277</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 376.712277 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.014304 ZAR</title>
+		<link>http://www.floatrates.com/clp/zar/</link>
+		<description>1 Chilean Peso = 0.014304 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>0.014304</exchangeRate>
+		<inverseRate>69.908843</inverseRate>
+		<inverseDescription>1 South African Rand = 69.908843 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.237073 LKR</title>
+		<link>http://www.floatrates.com/clp/lkr/</link>
+		<description>1 Chilean Peso = 0.237073 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>0.237073</exchangeRate>
+		<inverseRate>4.218106</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 4.218106 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.013050 SEK</title>
+		<link>http://www.floatrates.com/clp/sek/</link>
+		<description>1 Chilean Peso = 0.013050 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>0.013050</exchangeRate>
+		<inverseRate>76.626496</inverseRate>
+		<inverseDescription>1 Swedish Krona = 76.626496 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.001862 CHF</title>
+		<link>http://www.floatrates.com/clp/chf/</link>
+		<description>1 Chilean Peso = 0.001862 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.001862</exchangeRate>
+		<inverseRate>537.069903</inverseRate>
+		<inverseDescription>1 Swiss Franc = 537.069903 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.064837 THB</title>
+		<link>http://www.floatrates.com/clp/thb/</link>
+		<description>1 Chilean Peso = 0.064837 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>0.064837</exchangeRate>
+		<inverseRate>15.423369</inverseRate>
+		<inverseDescription>1 Thai Baht = 15.423369 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.013810 TTD</title>
+		<link>http://www.floatrates.com/clp/ttd/</link>
+		<description>1 Chilean Peso = 0.013810 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>0.013810</exchangeRate>
+		<inverseRate>72.410127</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 72.410127 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.007931 AED</title>
+		<link>http://www.floatrates.com/clp/aed/</link>
+		<description>1 Chilean Peso = 0.007931 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.007931</exchangeRate>
+		<inverseRate>126.091219</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 126.091219 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.009263 VEF</title>
+		<link>http://www.floatrates.com/clp/vef/</link>
+		<description>1 Chilean Peso = 0.009263 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>0.009263</exchangeRate>
+		<inverseRate>107.959341</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 107.959341 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.175030 JPY</title>
+		<link>http://www.floatrates.com/clp/jpy/</link>
+		<description>1 Chilean Peso = 0.175030 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>0.175030</exchangeRate>
+		<inverseRate>5.713321</inverseRate>
+		<inverseDescription>1 Japanese Yen = 5.713321 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.002838 BGN</title>
+		<link>http://www.floatrates.com/clp/bgn/</link>
+		<description>1 Chilean Peso = 0.002838 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.002838</exchangeRate>
+		<inverseRate>352.357487</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 352.357487 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.005010 LTL</title>
+		<link>http://www.floatrates.com/clp/ltl/</link>
+		<description>1 Chilean Peso = 0.005010 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>0.005010</exchangeRate>
+		<inverseRate>199.588964</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 199.588964 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.001030 LVL</title>
+		<link>http://www.floatrates.com/clp/lvl/</link>
+		<description>1 Chilean Peso = 0.001030 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.001030</exchangeRate>
+		<inverseRate>971.304826</inverseRate>
+		<inverseDescription>1 Latvian Lats = 971.304826 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.005964 RON</title>
+		<link>http://www.floatrates.com/clp/ron/</link>
+		<description>1 Chilean Peso = 0.005964 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.005964</exchangeRate>
+		<inverseRate>167.674154</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 167.674154 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.010711 HRK</title>
+		<link>http://www.floatrates.com/clp/hrk/</link>
+		<description>1 Chilean Peso = 0.010711 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>0.010711</exchangeRate>
+		<inverseRate>93.360533</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 93.360533 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.003320 TRY</title>
+		<link>http://www.floatrates.com/clp/try/</link>
+		<description>1 Chilean Peso = 0.003320 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.003320</exchangeRate>
+		<inverseRate>301.237389</inverseRate>
+		<inverseDescription>1 Turkish Lira = 301.237389 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.003422 BRL</title>
+		<link>http://www.floatrates.com/clp/brl/</link>
+		<description>1 Chilean Peso = 0.003422 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.003422</exchangeRate>
+		<inverseRate>292.268872</inverseRate>
+		<inverseDescription>1 Brazilian Real = 292.268872 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.016778 HKD</title>
+		<link>http://www.floatrates.com/clp/hkd/</link>
+		<description>1 Chilean Peso = 0.016778 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>0.016778</exchangeRate>
+		<inverseRate>59.602395</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 59.602395 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.024984 MXN</title>
+		<link>http://www.floatrates.com/clp/mxn/</link>
+		<description>1 Chilean Peso = 0.024984 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>0.024984</exchangeRate>
+		<inverseRate>40.025833</inverseRate>
+		<inverseDescription>1 Mexican Peso = 40.025833 Chilean Peso</inverseDescription>
+	</item>
+	<item>
+		<title>1 CLP = 0.092672 PHP</title>
+		<link>http://www.floatrates.com/clp/php/</link>
+		<description>1 Chilean Peso = 0.092672 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CLP</baseCurrency>
+		<baseName>Chilean Peso</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>0.092672</exchangeRate>
+		<inverseRate>10.790755</inverseRate>
+		<inverseDescription>1 Philippine Peso = 10.790755 Chilean Peso</inverseDescription>
+	</item>
+</channel>
+

@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Mauritian Rupee (MUR) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/mur/</link>
+	<xmlLink>http://www.floatrates.com/daily/mur.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Mauritian Rupee (MUR) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>MUR</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 MUR = 0.024678 EUR</title>
+		<link>http://www.floatrates.com/mur/eur/</link>
+		<description>1 Mauritian Rupee = 0.024678 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.024678</exchangeRate>
+		<inverseRate>40.521454</inverseRate>
+		<inverseDescription>1 Euro = 40.521454 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.022231 GBP</title>
+		<link>http://www.floatrates.com/mur/gbp/</link>
+		<description>1 Mauritian Rupee = 0.022231 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.022231</exchangeRate>
+		<inverseRate>44.982722</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 44.982722 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.036726 USD</title>
+		<link>http://www.floatrates.com/mur/usd/</link>
+		<description>1 Mauritian Rupee = 0.036726 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.036726</exchangeRate>
+		<inverseRate>27.228500</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 27.228500 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 2.618323 DZD</title>
+		<link>http://www.floatrates.com/mur/dzd/</link>
+		<description>1 Mauritian Rupee = 2.618323 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>2.618323</exchangeRate>
+		<inverseRate>0.381924</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.381924 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.033902 AUD</title>
+		<link>http://www.floatrates.com/mur/aud/</link>
+		<description>1 Mauritian Rupee = 0.033902 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.033902</exchangeRate>
+		<inverseRate>29.496995</inverseRate>
+		<inverseDescription>1 Australian Dollar = 29.496995 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.234074 BWP</title>
+		<link>http://www.floatrates.com/mur/bwp/</link>
+		<description>1 Mauritian Rupee = 0.234074 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>0.234074</exchangeRate>
+		<inverseRate>4.272152</inverseRate>
+		<inverseDescription>1 Botswana Pula = 4.272152 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.045181 BND</title>
+		<link>http://www.floatrates.com/mur/bnd/</link>
+		<description>1 Mauritian Rupee = 0.045181 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.045181</exchangeRate>
+		<inverseRate>22.133393</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 22.133393 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.035116 CAD</title>
+		<link>http://www.floatrates.com/mur/cad/</link>
+		<description>1 Mauritian Rupee = 0.035116 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.035116</exchangeRate>
+		<inverseRate>28.476800</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 28.476800 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 17.006813 CLP</title>
+		<link>http://www.floatrates.com/mur/clp/</link>
+		<description>1 Mauritian Rupee = 17.006813 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>17.006813</exchangeRate>
+		<inverseRate>0.058800</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.058800 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.238672 CNY</title>
+		<link>http://www.floatrates.com/mur/cny/</link>
+		<description>1 Mauritian Rupee = 0.238672 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>0.238672</exchangeRate>
+		<inverseRate>4.189842</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 4.189842 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 64.897075 COP</title>
+		<link>http://www.floatrates.com/mur/cop/</link>
+		<description>1 Mauritian Rupee = 64.897075 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>64.897075</exchangeRate>
+		<inverseRate>0.015409</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.015409 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.597380 CZK</title>
+		<link>http://www.floatrates.com/mur/czk/</link>
+		<description>1 Mauritian Rupee = 0.597380 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>0.597380</exchangeRate>
+		<inverseRate>1.673976</inverseRate>
+		<inverseDescription>1 Czech Koruna = 1.673976 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.184021 DKK</title>
+		<link>http://www.floatrates.com/mur/dkk/</link>
+		<description>1 Mauritian Rupee = 0.184021 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>0.184021</exchangeRate>
+		<inverseRate>5.434173</inverseRate>
+		<inverseDescription>1 Danish Krone = 5.434173 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 6.549417 HUF</title>
+		<link>http://www.floatrates.com/mur/huf/</link>
+		<description>1 Mauritian Rupee = 6.549417 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>6.549417</exchangeRate>
+		<inverseRate>0.152685</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.152685 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 4.090934 ISK</title>
+		<link>http://www.floatrates.com/mur/isk/</link>
+		<description>1 Mauritian Rupee = 4.090934 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>4.090934</exchangeRate>
+		<inverseRate>0.244443</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.244443 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 1.636151 INR</title>
+		<link>http://www.floatrates.com/mur/inr/</link>
+		<description>1 Mauritian Rupee = 1.636151 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>1.636151</exchangeRate>
+		<inverseRate>0.611190</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.611190 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 314.253843 IDR</title>
+		<link>http://www.floatrates.com/mur/idr/</link>
+		<description>1 Mauritian Rupee = 314.253843 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>314.253843</exchangeRate>
+		<inverseRate>0.003182</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.003182 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.124604 ILS</title>
+		<link>http://www.floatrates.com/mur/ils/</link>
+		<description>1 Mauritian Rupee = 0.124604 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.124604</exchangeRate>
+		<inverseRate>8.025402</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 8.025402 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 5.354316 KZT</title>
+		<link>http://www.floatrates.com/mur/kzt/</link>
+		<description>1 Mauritian Rupee = 5.354316 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>5.354316</exchangeRate>
+		<inverseRate>0.186765</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.186765 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 39.335733 KRW</title>
+		<link>http://www.floatrates.com/mur/krw/</link>
+		<description>1 Mauritian Rupee = 39.335733 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>39.335733</exchangeRate>
+		<inverseRate>0.025422</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.025422 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.010078 KWD</title>
+		<link>http://www.floatrates.com/mur/kwd/</link>
+		<description>1 Mauritian Rupee = 0.010078 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.010078</exchangeRate>
+		<inverseRate>99.229227</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 99.229227 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.070970 LYD</title>
+		<link>http://www.floatrates.com/mur/lyd/</link>
+		<description>1 Mauritian Rupee = 0.070970 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.070970</exchangeRate>
+		<inverseRate>14.090509</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 14.090509 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.109408 MYR</title>
+		<link>http://www.floatrates.com/mur/myr/</link>
+		<description>1 Mauritian Rupee = 0.109408 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.109408</exchangeRate>
+		<inverseRate>9.140128</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 9.140128 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 1.000000 MUR</title>
+		<link>http://www.floatrates.com/mur/mur/</link>
+		<description>1 Mauritian Rupee = 1.000000 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 1.000000 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 2.612704 NPR</title>
+		<link>http://www.floatrates.com/mur/npr/</link>
+		<description>1 Mauritian Rupee = 2.612704 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>2.612704</exchangeRate>
+		<inverseRate>0.382745</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.382745 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.046096 NZD</title>
+		<link>http://www.floatrates.com/mur/nzd/</link>
+		<description>1 Mauritian Rupee = 0.046096 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.046096</exchangeRate>
+		<inverseRate>21.693887</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 21.693887 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.194242 NOK</title>
+		<link>http://www.floatrates.com/mur/nok/</link>
+		<description>1 Mauritian Rupee = 0.194242 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>0.194242</exchangeRate>
+		<inverseRate>5.148222</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 5.148222 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.014121 OMR</title>
+		<link>http://www.floatrates.com/mur/omr/</link>
+		<description>1 Mauritian Rupee = 0.014121 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.014121</exchangeRate>
+		<inverseRate>70.815345</inverseRate>
+		<inverseDescription>1 Omani Rial = 70.815345 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 3.096333 PKR</title>
+		<link>http://www.floatrates.com/mur/pkr/</link>
+		<description>1 Mauritian Rupee = 3.096333 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>3.096333</exchangeRate>
+		<inverseRate>0.322963</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.322963 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.097263 PLN</title>
+		<link>http://www.floatrates.com/mur/pln/</link>
+		<description>1 Mauritian Rupee = 0.097263 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.097263</exchangeRate>
+		<inverseRate>10.281360</inverseRate>
+		<inverseDescription>1 Polish Zloty = 10.281360 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.133683 QAR</title>
+		<link>http://www.floatrates.com/mur/qar/</link>
+		<description>1 Mauritian Rupee = 0.133683 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.133683</exchangeRate>
+		<inverseRate>7.480357</inverseRate>
+		<inverseDescription>1 Qatari Rial = 7.480357 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 1.003474 RUB</title>
+		<link>http://www.floatrates.com/mur/rub/</link>
+		<description>1 Mauritian Rupee = 1.003474 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>1.003474</exchangeRate>
+		<inverseRate>0.996538</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.996538 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.137723 SAR</title>
+		<link>http://www.floatrates.com/mur/sar/</link>
+		<description>1 Mauritian Rupee = 0.137723 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.137723</exchangeRate>
+		<inverseRate>7.260933</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 7.260933 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.045145 SGD</title>
+		<link>http://www.floatrates.com/mur/sgd/</link>
+		<description>1 Mauritian Rupee = 0.045145 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.045145</exchangeRate>
+		<inverseRate>22.150669</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 22.150669 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.243271 ZAR</title>
+		<link>http://www.floatrates.com/mur/zar/</link>
+		<description>1 Mauritian Rupee = 0.243271 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>0.243271</exchangeRate>
+		<inverseRate>4.110638</inverseRate>
+		<inverseDescription>1 South African Rand = 4.110638 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 4.031860 LKR</title>
+		<link>http://www.floatrates.com/mur/lkr/</link>
+		<description>1 Mauritian Rupee = 4.031860 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>4.031860</exchangeRate>
+		<inverseRate>0.248024</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.248024 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.221944 SEK</title>
+		<link>http://www.floatrates.com/mur/sek/</link>
+		<description>1 Mauritian Rupee = 0.221944 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>0.221944</exchangeRate>
+		<inverseRate>4.505635</inverseRate>
+		<inverseDescription>1 Swedish Krona = 4.505635 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.031666 CHF</title>
+		<link>http://www.floatrates.com/mur/chf/</link>
+		<description>1 Mauritian Rupee = 0.031666 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.031666</exchangeRate>
+		<inverseRate>31.579692</inverseRate>
+		<inverseDescription>1 Swiss Franc = 31.579692 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 1.102665 THB</title>
+		<link>http://www.floatrates.com/mur/thb/</link>
+		<description>1 Mauritian Rupee = 1.102665 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>1.102665</exchangeRate>
+		<inverseRate>0.906894</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.906894 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.234868 TTD</title>
+		<link>http://www.floatrates.com/mur/ttd/</link>
+		<description>1 Mauritian Rupee = 0.234868 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>0.234868</exchangeRate>
+		<inverseRate>4.257713</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 4.257713 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.134877 AED</title>
+		<link>http://www.floatrates.com/mur/aed/</link>
+		<description>1 Mauritian Rupee = 0.134877 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.134877</exchangeRate>
+		<inverseRate>7.414159</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 7.414159 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.157530 VEF</title>
+		<link>http://www.floatrates.com/mur/vef/</link>
+		<description>1 Mauritian Rupee = 0.157530 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>0.157530</exchangeRate>
+		<inverseRate>6.348006</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 6.348006 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 2.976695 JPY</title>
+		<link>http://www.floatrates.com/mur/jpy/</link>
+		<description>1 Mauritian Rupee = 2.976695 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>2.976695</exchangeRate>
+		<inverseRate>0.335943</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.335943 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.048266 BGN</title>
+		<link>http://www.floatrates.com/mur/bgn/</link>
+		<description>1 Mauritian Rupee = 0.048266 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.048266</exchangeRate>
+		<inverseRate>20.718608</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 20.718608 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.085209 LTL</title>
+		<link>http://www.floatrates.com/mur/ltl/</link>
+		<description>1 Mauritian Rupee = 0.085209 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>0.085209</exchangeRate>
+		<inverseRate>11.735824</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 11.735824 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.017509 LVL</title>
+		<link>http://www.floatrates.com/mur/lvl/</link>
+		<description>1 Mauritian Rupee = 0.017509 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.017509</exchangeRate>
+		<inverseRate>57.112690</inverseRate>
+		<inverseDescription>1 Latvian Lats = 57.112690 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.101428 RON</title>
+		<link>http://www.floatrates.com/mur/ron/</link>
+		<description>1 Mauritian Rupee = 0.101428 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.101428</exchangeRate>
+		<inverseRate>9.859234</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 9.859234 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.182163 HRK</title>
+		<link>http://www.floatrates.com/mur/hrk/</link>
+		<description>1 Mauritian Rupee = 0.182163 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>0.182163</exchangeRate>
+		<inverseRate>5.489596</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 5.489596 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.056457 TRY</title>
+		<link>http://www.floatrates.com/mur/try/</link>
+		<description>1 Mauritian Rupee = 0.056457 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.056457</exchangeRate>
+		<inverseRate>17.712748</inverseRate>
+		<inverseDescription>1 Turkish Lira = 17.712748 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.058189 BRL</title>
+		<link>http://www.floatrates.com/mur/brl/</link>
+		<description>1 Mauritian Rupee = 0.058189 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.058189</exchangeRate>
+		<inverseRate>17.185400</inverseRate>
+		<inverseDescription>1 Brazilian Real = 17.185400 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.285338 HKD</title>
+		<link>http://www.floatrates.com/mur/hkd/</link>
+		<description>1 Mauritian Rupee = 0.285338 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>0.285338</exchangeRate>
+		<inverseRate>3.504619</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 3.504619 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 0.424896 MXN</title>
+		<link>http://www.floatrates.com/mur/mxn/</link>
+		<description>1 Mauritian Rupee = 0.424896 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>0.424896</exchangeRate>
+		<inverseRate>2.353518</inverseRate>
+		<inverseDescription>1 Mexican Peso = 2.353518 Mauritian Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 MUR = 1.576054 PHP</title>
+		<link>http://www.floatrates.com/mur/php/</link>
+		<description>1 Mauritian Rupee = 1.576054 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>MUR</baseCurrency>
+		<baseName>Mauritian Rupee</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>1.576054</exchangeRate>
+		<inverseRate>0.634496</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.634496 Mauritian Rupee</inverseDescription>
+	</item>
+</channel>
+

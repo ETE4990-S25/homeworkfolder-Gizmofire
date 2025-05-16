@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Algerian Dinar (DZD) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/dzd/</link>
+	<xmlLink>http://www.floatrates.com/daily/dzd.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Algerian Dinar (DZD) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>DZD</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 DZD = 0.009425 EUR</title>
+		<link>http://www.floatrates.com/dzd/eur/</link>
+		<description>1 Algerian Dinar = 0.009425 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.009425</exchangeRate>
+		<inverseRate>106.098243</inverseRate>
+		<inverseDescription>1 Euro = 106.098243 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.008490 GBP</title>
+		<link>http://www.floatrates.com/dzd/gbp/</link>
+		<description>1 Algerian Dinar = 0.008490 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.008490</exchangeRate>
+		<inverseRate>117.779284</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 117.779284 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.014027 USD</title>
+		<link>http://www.floatrates.com/dzd/usd/</link>
+		<description>1 Algerian Dinar = 0.014027 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.014027</exchangeRate>
+		<inverseRate>71.293000</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 71.293000 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 1.000000 DZD</title>
+		<link>http://www.floatrates.com/dzd/dzd/</link>
+		<description>1 Algerian Dinar = 1.000000 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 1.000000 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.012948 AUD</title>
+		<link>http://www.floatrates.com/dzd/aud/</link>
+		<description>1 Algerian Dinar = 0.012948 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.012948</exchangeRate>
+		<inverseRate>77.232653</inverseRate>
+		<inverseDescription>1 Australian Dollar = 77.232653 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.089398 BWP</title>
+		<link>http://www.floatrates.com/dzd/bwp/</link>
+		<description>1 Algerian Dinar = 0.089398 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>0.089398</exchangeRate>
+		<inverseRate>11.185872</inverseRate>
+		<inverseDescription>1 Botswana Pula = 11.185872 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.017256 BND</title>
+		<link>http://www.floatrates.com/dzd/bnd/</link>
+		<description>1 Algerian Dinar = 0.017256 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.017256</exchangeRate>
+		<inverseRate>57.952365</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 57.952365 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.013412 CAD</title>
+		<link>http://www.floatrates.com/dzd/cad/</link>
+		<description>1 Algerian Dinar = 0.013412 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.013412</exchangeRate>
+		<inverseRate>74.561452</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 74.561452 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 6.495308 CLP</title>
+		<link>http://www.floatrates.com/dzd/clp/</link>
+		<description>1 Algerian Dinar = 6.495308 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>6.495308</exchangeRate>
+		<inverseRate>0.153957</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.153957 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.091155 CNY</title>
+		<link>http://www.floatrates.com/dzd/cny/</link>
+		<description>1 Algerian Dinar = 0.091155 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>0.091155</exchangeRate>
+		<inverseRate>10.970358</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 10.970358 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 24.785743 COP</title>
+		<link>http://www.floatrates.com/dzd/cop/</link>
+		<description>1 Algerian Dinar = 24.785743 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>24.785743</exchangeRate>
+		<inverseRate>0.040346</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.040346 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.228154 CZK</title>
+		<link>http://www.floatrates.com/dzd/czk/</link>
+		<description>1 Algerian Dinar = 0.228154 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>0.228154</exchangeRate>
+		<inverseRate>4.383009</inverseRate>
+		<inverseDescription>1 Czech Koruna = 4.383009 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.070282 DKK</title>
+		<link>http://www.floatrates.com/dzd/dkk/</link>
+		<description>1 Algerian Dinar = 0.070282 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>0.070282</exchangeRate>
+		<inverseRate>14.228420</inverseRate>
+		<inverseDescription>1 Danish Krone = 14.228420 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 2.501379 HUF</title>
+		<link>http://www.floatrates.com/dzd/huf/</link>
+		<description>1 Algerian Dinar = 2.501379 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>2.501379</exchangeRate>
+		<inverseRate>0.399779</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.399779 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 1.562425 ISK</title>
+		<link>http://www.floatrates.com/dzd/isk/</link>
+		<description>1 Algerian Dinar = 1.562425 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>1.562425</exchangeRate>
+		<inverseRate>0.640031</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.640031 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.624885 INR</title>
+		<link>http://www.floatrates.com/dzd/inr/</link>
+		<description>1 Algerian Dinar = 0.624885 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>0.624885</exchangeRate>
+		<inverseRate>1.600294</inverseRate>
+		<inverseDescription>1 Indian Rupee = 1.600294 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 120.021051 IDR</title>
+		<link>http://www.floatrates.com/dzd/idr/</link>
+		<description>1 Algerian Dinar = 120.021051 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>120.021051</exchangeRate>
+		<inverseRate>0.008332</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.008332 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.047589 ILS</title>
+		<link>http://www.floatrates.com/dzd/ils/</link>
+		<description>1 Algerian Dinar = 0.047589 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.047589</exchangeRate>
+		<inverseRate>21.013092</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 21.013092 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 2.044941 KZT</title>
+		<link>http://www.floatrates.com/dzd/kzt/</link>
+		<description>1 Algerian Dinar = 2.044941 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>2.044941</exchangeRate>
+		<inverseRate>0.489012</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.489012 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 15.023256 KRW</title>
+		<link>http://www.floatrates.com/dzd/krw/</link>
+		<description>1 Algerian Dinar = 15.023256 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>15.023256</exchangeRate>
+		<inverseRate>0.066563</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.066563 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.003849 KWD</title>
+		<link>http://www.floatrates.com/dzd/kwd/</link>
+		<description>1 Algerian Dinar = 0.003849 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.003849</exchangeRate>
+		<inverseRate>259.814140</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 259.814140 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.027105 LYD</title>
+		<link>http://www.floatrates.com/dzd/lyd/</link>
+		<description>1 Algerian Dinar = 0.027105 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.027105</exchangeRate>
+		<inverseRate>36.893500</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 36.893500 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.041785 MYR</title>
+		<link>http://www.floatrates.com/dzd/myr/</link>
+		<description>1 Algerian Dinar = 0.041785 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.041785</exchangeRate>
+		<inverseRate>23.931805</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 23.931805 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.381924 MUR</title>
+		<link>http://www.floatrates.com/dzd/mur/</link>
+		<description>1 Algerian Dinar = 0.381924 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>0.381924</exchangeRate>
+		<inverseRate>2.618323</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 2.618323 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.997854 NPR</title>
+		<link>http://www.floatrates.com/dzd/npr/</link>
+		<description>1 Algerian Dinar = 0.997854 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>0.997854</exchangeRate>
+		<inverseRate>1.002151</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 1.002151 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.017605 NZD</title>
+		<link>http://www.floatrates.com/dzd/nzd/</link>
+		<description>1 Algerian Dinar = 0.017605 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.017605</exchangeRate>
+		<inverseRate>56.801598</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 56.801598 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.074186 NOK</title>
+		<link>http://www.floatrates.com/dzd/nok/</link>
+		<description>1 Algerian Dinar = 0.074186 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>0.074186</exchangeRate>
+		<inverseRate>13.479707</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 13.479707 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.005393 OMR</title>
+		<link>http://www.floatrates.com/dzd/omr/</link>
+		<description>1 Algerian Dinar = 0.005393 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.005393</exchangeRate>
+		<inverseRate>185.417425</inverseRate>
+		<inverseDescription>1 Omani Rial = 185.417425 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 1.182564 PKR</title>
+		<link>http://www.floatrates.com/dzd/pkr/</link>
+		<description>1 Algerian Dinar = 1.182564 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>1.182564</exchangeRate>
+		<inverseRate>0.845621</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.845621 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.037147 PLN</title>
+		<link>http://www.floatrates.com/dzd/pln/</link>
+		<description>1 Algerian Dinar = 0.037147 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.037147</exchangeRate>
+		<inverseRate>26.919919</inverseRate>
+		<inverseDescription>1 Polish Zloty = 26.919919 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.051057 QAR</title>
+		<link>http://www.floatrates.com/dzd/qar/</link>
+		<description>1 Algerian Dinar = 0.051057 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.051057</exchangeRate>
+		<inverseRate>19.585989</inverseRate>
+		<inverseDescription>1 Qatari Rial = 19.585989 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.383251 RUB</title>
+		<link>http://www.floatrates.com/dzd/rub/</link>
+		<description>1 Algerian Dinar = 0.383251 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>0.383251</exchangeRate>
+		<inverseRate>2.609259</inverseRate>
+		<inverseDescription>1 Russian Rouble = 2.609259 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.052600 SAR</title>
+		<link>http://www.floatrates.com/dzd/sar/</link>
+		<description>1 Algerian Dinar = 0.052600 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.052600</exchangeRate>
+		<inverseRate>19.011467</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 19.011467 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.017242 SGD</title>
+		<link>http://www.floatrates.com/dzd/sgd/</link>
+		<description>1 Algerian Dinar = 0.017242 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.017242</exchangeRate>
+		<inverseRate>57.997599</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 57.997599 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.092911 ZAR</title>
+		<link>http://www.floatrates.com/dzd/zar/</link>
+		<description>1 Algerian Dinar = 0.092911 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>0.092911</exchangeRate>
+		<inverseRate>10.762976</inverseRate>
+		<inverseDescription>1 South African Rand = 10.762976 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 1.539864 LKR</title>
+		<link>http://www.floatrates.com/dzd/lkr/</link>
+		<description>1 Algerian Dinar = 1.539864 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>1.539864</exchangeRate>
+		<inverseRate>0.649408</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.649408 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.084766 SEK</title>
+		<link>http://www.floatrates.com/dzd/sek/</link>
+		<description>1 Algerian Dinar = 0.084766 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>0.084766</exchangeRate>
+		<inverseRate>11.797207</inverseRate>
+		<inverseDescription>1 Swedish Krona = 11.797207 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.012094 CHF</title>
+		<link>http://www.floatrates.com/dzd/chf/</link>
+		<description>1 Algerian Dinar = 0.012094 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.012094</exchangeRate>
+		<inverseRate>82.685824</inverseRate>
+		<inverseDescription>1 Swiss Franc = 82.685824 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.421134 THB</title>
+		<link>http://www.floatrates.com/dzd/thb/</link>
+		<description>1 Algerian Dinar = 0.421134 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>0.421134</exchangeRate>
+		<inverseRate>2.374540</inverseRate>
+		<inverseDescription>1 Thai Baht = 2.374540 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.089702 TTD</title>
+		<link>http://www.floatrates.com/dzd/ttd/</link>
+		<description>1 Algerian Dinar = 0.089702 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>0.089702</exchangeRate>
+		<inverseRate>11.148066</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 11.148066 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.051513 AED</title>
+		<link>http://www.floatrates.com/dzd/aed/</link>
+		<description>1 Algerian Dinar = 0.051513 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.051513</exchangeRate>
+		<inverseRate>19.412662</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 19.412662 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.060164 VEF</title>
+		<link>http://www.floatrates.com/dzd/vef/</link>
+		<description>1 Algerian Dinar = 0.060164 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>0.060164</exchangeRate>
+		<inverseRate>16.621127</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 16.621127 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 1.136871 JPY</title>
+		<link>http://www.floatrates.com/dzd/jpy/</link>
+		<description>1 Algerian Dinar = 1.136871 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>1.136871</exchangeRate>
+		<inverseRate>0.879607</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.879607 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.018434 BGN</title>
+		<link>http://www.floatrates.com/dzd/bgn/</link>
+		<description>1 Algerian Dinar = 0.018434 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.018434</exchangeRate>
+		<inverseRate>54.248002</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 54.248002 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.032543 LTL</title>
+		<link>http://www.floatrates.com/dzd/ltl/</link>
+		<description>1 Algerian Dinar = 0.032543 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>0.032543</exchangeRate>
+		<inverseRate>30.728175</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 30.728175 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.006687 LVL</title>
+		<link>http://www.floatrates.com/dzd/lvl/</link>
+		<description>1 Algerian Dinar = 0.006687 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.006687</exchangeRate>
+		<inverseRate>149.539454</inverseRate>
+		<inverseDescription>1 Latvian Lats = 149.539454 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.038738 RON</title>
+		<link>http://www.floatrates.com/dzd/ron/</link>
+		<description>1 Algerian Dinar = 0.038738 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.038738</exchangeRate>
+		<inverseRate>25.814658</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 25.814658 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.069572 HRK</title>
+		<link>http://www.floatrates.com/dzd/hrk/</link>
+		<description>1 Algerian Dinar = 0.069572 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>0.069572</exchangeRate>
+		<inverseRate>14.373534</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 14.373534 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.021562 TRY</title>
+		<link>http://www.floatrates.com/dzd/try/</link>
+		<description>1 Algerian Dinar = 0.021562 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.021562</exchangeRate>
+		<inverseRate>46.377691</inverseRate>
+		<inverseDescription>1 Turkish Lira = 46.377691 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.022224 BRL</title>
+		<link>http://www.floatrates.com/dzd/brl/</link>
+		<description>1 Algerian Dinar = 0.022224 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.022224</exchangeRate>
+		<inverseRate>44.996922</inverseRate>
+		<inverseDescription>1 Brazilian Real = 44.996922 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.108977 HKD</title>
+		<link>http://www.floatrates.com/dzd/hkd/</link>
+		<description>1 Algerian Dinar = 0.108977 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>0.108977</exchangeRate>
+		<inverseRate>9.176223</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 9.176223 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.162278 MXN</title>
+		<link>http://www.floatrates.com/dzd/mxn/</link>
+		<description>1 Algerian Dinar = 0.162278 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>0.162278</exchangeRate>
+		<inverseRate>6.162269</inverseRate>
+		<inverseDescription>1 Mexican Peso = 6.162269 Algerian Dinar</inverseDescription>
+	</item>
+	<item>
+		<title>1 DZD = 0.601933 PHP</title>
+		<link>http://www.floatrates.com/dzd/php/</link>
+		<description>1 Algerian Dinar = 0.601933 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>DZD</baseCurrency>
+		<baseName>Algerian Dinar</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>0.601933</exchangeRate>
+		<inverseRate>1.661315</inverseRate>
+		<inverseDescription>1 Philippine Peso = 1.661315 Algerian Dinar</inverseDescription>
+	</item>
+</channel>
+

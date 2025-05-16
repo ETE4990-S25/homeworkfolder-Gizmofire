@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Sri Lanka Rupee (LKR) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/lkr/</link>
+	<xmlLink>http://www.floatrates.com/daily/lkr.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Sri Lanka Rupee (LKR) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>LKR</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 LKR = 0.006121 EUR</title>
+		<link>http://www.floatrates.com/lkr/eur/</link>
+		<description>1 Sri Lanka Rupee = 0.006121 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.006121</exchangeRate>
+		<inverseRate>163.376829</inverseRate>
+		<inverseDescription>1 Euro = 163.376829 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.005514 GBP</title>
+		<link>http://www.floatrates.com/lkr/gbp/</link>
+		<description>1 Sri Lanka Rupee = 0.005514 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.005514</exchangeRate>
+		<inverseRate>181.364040</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 181.364040 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.009109 USD</title>
+		<link>http://www.floatrates.com/lkr/usd/</link>
+		<description>1 Sri Lanka Rupee = 0.009109 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.009109</exchangeRate>
+		<inverseRate>109.781500</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 109.781500 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.649408 DZD</title>
+		<link>http://www.floatrates.com/lkr/dzd/</link>
+		<description>1 Sri Lanka Rupee = 0.649408 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>0.649408</exchangeRate>
+		<inverseRate>1.539864</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 1.539864 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.008408 AUD</title>
+		<link>http://www.floatrates.com/lkr/aud/</link>
+		<description>1 Sri Lanka Rupee = 0.008408 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.008408</exchangeRate>
+		<inverseRate>118.927755</inverseRate>
+		<inverseDescription>1 Australian Dollar = 118.927755 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.058056 BWP</title>
+		<link>http://www.floatrates.com/lkr/bwp/</link>
+		<description>1 Sri Lanka Rupee = 0.058056 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>0.058056</exchangeRate>
+		<inverseRate>17.224717</inverseRate>
+		<inverseDescription>1 Botswana Pula = 17.224717 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.011206 BND</title>
+		<link>http://www.floatrates.com/lkr/bnd/</link>
+		<description>1 Sri Lanka Rupee = 0.011206 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.011206</exchangeRate>
+		<inverseRate>89.238742</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 89.238742 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.008710 CAD</title>
+		<link>http://www.floatrates.com/lkr/cad/</link>
+		<description>1 Sri Lanka Rupee = 0.008710 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.008710</exchangeRate>
+		<inverseRate>114.814471</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 114.814471 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 4.218106 CLP</title>
+		<link>http://www.floatrates.com/lkr/clp/</link>
+		<description>1 Sri Lanka Rupee = 4.218106 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>4.218106</exchangeRate>
+		<inverseRate>0.237073</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.237073 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.059197 CNY</title>
+		<link>http://www.floatrates.com/lkr/cny/</link>
+		<description>1 Sri Lanka Rupee = 0.059197 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>0.059197</exchangeRate>
+		<inverseRate>16.892856</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 16.892856 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 16.096064 COP</title>
+		<link>http://www.floatrates.com/lkr/cop/</link>
+		<description>1 Sri Lanka Rupee = 16.096064 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>16.096064</exchangeRate>
+		<inverseRate>0.062127</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.062127 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.148165 CZK</title>
+		<link>http://www.floatrates.com/lkr/czk/</link>
+		<description>1 Sri Lanka Rupee = 0.148165 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>0.148165</exchangeRate>
+		<inverseRate>6.749236</inverseRate>
+		<inverseDescription>1 Czech Koruna = 6.749236 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.045642 DKK</title>
+		<link>http://www.floatrates.com/lkr/dkk/</link>
+		<description>1 Sri Lanka Rupee = 0.045642 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>0.045642</exchangeRate>
+		<inverseRate>21.909827</inverseRate>
+		<inverseDescription>1 Danish Krone = 21.909827 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 1.624416 HUF</title>
+		<link>http://www.floatrates.com/lkr/huf/</link>
+		<description>1 Sri Lanka Rupee = 1.624416 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>1.624416</exchangeRate>
+		<inverseRate>0.615606</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.615606 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 1.014652 ISK</title>
+		<link>http://www.floatrates.com/lkr/isk/</link>
+		<description>1 Sri Lanka Rupee = 1.014652 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>1.014652</exchangeRate>
+		<inverseRate>0.985560</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.985560 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.405806 INR</title>
+		<link>http://www.floatrates.com/lkr/inr/</link>
+		<description>1 Sri Lanka Rupee = 0.405806 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>0.405806</exchangeRate>
+		<inverseRate>2.464234</inverseRate>
+		<inverseDescription>1 Indian Rupee = 2.464234 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 77.942647 IDR</title>
+		<link>http://www.floatrates.com/lkr/idr/</link>
+		<description>1 Sri Lanka Rupee = 77.942647 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>77.942647</exchangeRate>
+		<inverseRate>0.012830</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.012830 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.030905 ILS</title>
+		<link>http://www.floatrates.com/lkr/ils/</link>
+		<description>1 Sri Lanka Rupee = 0.030905 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.030905</exchangeRate>
+		<inverseRate>32.357296</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 32.357296 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 1.328002 KZT</title>
+		<link>http://www.floatrates.com/lkr/kzt/</link>
+		<description>1 Sri Lanka Rupee = 1.328002 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>1.328002</exchangeRate>
+		<inverseRate>0.753011</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.753011 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 9.756225 KRW</title>
+		<link>http://www.floatrates.com/lkr/krw/</link>
+		<description>1 Sri Lanka Rupee = 9.756225 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>9.756225</exchangeRate>
+		<inverseRate>0.102499</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.102499 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.002500 KWD</title>
+		<link>http://www.floatrates.com/lkr/kwd/</link>
+		<description>1 Sri Lanka Rupee = 0.002500 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.002500</exchangeRate>
+		<inverseRate>400.078353</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 400.078353 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.017602 LYD</title>
+		<link>http://www.floatrates.com/lkr/lyd/</link>
+		<description>1 Sri Lanka Rupee = 0.017602 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.017602</exchangeRate>
+		<inverseRate>56.810960</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 56.810960 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.027136 MYR</title>
+		<link>http://www.floatrates.com/lkr/myr/</link>
+		<description>1 Sri Lanka Rupee = 0.027136 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.027136</exchangeRate>
+		<inverseRate>36.851717</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 36.851717 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.248024 MUR</title>
+		<link>http://www.floatrates.com/lkr/mur/</link>
+		<description>1 Sri Lanka Rupee = 0.248024 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>0.248024</exchangeRate>
+		<inverseRate>4.031860</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 4.031860 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.648014 NPR</title>
+		<link>http://www.floatrates.com/lkr/npr/</link>
+		<description>1 Sri Lanka Rupee = 0.648014 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>0.648014</exchangeRate>
+		<inverseRate>1.543175</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 1.543175 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.011433 NZD</title>
+		<link>http://www.floatrates.com/lkr/nzd/</link>
+		<description>1 Sri Lanka Rupee = 0.011433 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.011433</exchangeRate>
+		<inverseRate>87.466717</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 87.466717 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.048177 NOK</title>
+		<link>http://www.floatrates.com/lkr/nok/</link>
+		<description>1 Sri Lanka Rupee = 0.048177 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>0.048177</exchangeRate>
+		<inverseRate>20.756911</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 20.756911 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.003502 OMR</title>
+		<link>http://www.floatrates.com/lkr/omr/</link>
+		<description>1 Sri Lanka Rupee = 0.003502 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.003502</exchangeRate>
+		<inverseRate>285.517555</inverseRate>
+		<inverseDescription>1 Omani Rial = 285.517555 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.767966 PKR</title>
+		<link>http://www.floatrates.com/lkr/pkr/</link>
+		<description>1 Sri Lanka Rupee = 0.767966 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>0.767966</exchangeRate>
+		<inverseRate>1.302140</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 1.302140 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.024124 PLN</title>
+		<link>http://www.floatrates.com/lkr/pln/</link>
+		<description>1 Sri Lanka Rupee = 0.024124 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.024124</exchangeRate>
+		<inverseRate>41.453005</inverseRate>
+		<inverseDescription>1 Polish Zloty = 41.453005 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.033157 QAR</title>
+		<link>http://www.floatrates.com/lkr/qar/</link>
+		<description>1 Sri Lanka Rupee = 0.033157 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.033157</exchangeRate>
+		<inverseRate>30.159753</inverseRate>
+		<inverseDescription>1 Qatari Rial = 30.159753 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.248886 RUB</title>
+		<link>http://www.floatrates.com/lkr/rub/</link>
+		<description>1 Sri Lanka Rupee = 0.248886 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>0.248886</exchangeRate>
+		<inverseRate>4.017903</inverseRate>
+		<inverseDescription>1 Russian Rouble = 4.017903 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.034159 SAR</title>
+		<link>http://www.floatrates.com/lkr/sar/</link>
+		<description>1 Sri Lanka Rupee = 0.034159 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.034159</exchangeRate>
+		<inverseRate>29.275067</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 29.275067 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.011197 SGD</title>
+		<link>http://www.floatrates.com/lkr/sgd/</link>
+		<description>1 Sri Lanka Rupee = 0.011197 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.011197</exchangeRate>
+		<inverseRate>89.308396</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 89.308396 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.060337 ZAR</title>
+		<link>http://www.floatrates.com/lkr/zar/</link>
+		<description>1 Sri Lanka Rupee = 0.060337 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>0.060337</exchangeRate>
+		<inverseRate>16.573515</inverseRate>
+		<inverseDescription>1 South African Rand = 16.573515 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 1.000000 LKR</title>
+		<link>http://www.floatrates.com/lkr/lkr/</link>
+		<description>1 Sri Lanka Rupee = 1.000000 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 1.000000 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.055048 SEK</title>
+		<link>http://www.floatrates.com/lkr/sek/</link>
+		<description>1 Sri Lanka Rupee = 0.055048 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>0.055048</exchangeRate>
+		<inverseRate>18.166091</inverseRate>
+		<inverseDescription>1 Swedish Krona = 18.166091 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.007854 CHF</title>
+		<link>http://www.floatrates.com/lkr/chf/</link>
+		<description>1 Sri Lanka Rupee = 0.007854 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.007854</exchangeRate>
+		<inverseRate>127.324896</inverseRate>
+		<inverseDescription>1 Swiss Franc = 127.324896 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.273488 THB</title>
+		<link>http://www.floatrates.com/lkr/thb/</link>
+		<description>1 Sri Lanka Rupee = 0.273488 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>0.273488</exchangeRate>
+		<inverseRate>3.656468</inverseRate>
+		<inverseDescription>1 Thai Baht = 3.656468 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.058253 TTD</title>
+		<link>http://www.floatrates.com/lkr/ttd/</link>
+		<description>1 Sri Lanka Rupee = 0.058253 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>0.058253</exchangeRate>
+		<inverseRate>17.166502</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 17.166502 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.033453 AED</title>
+		<link>http://www.floatrates.com/lkr/aed/</link>
+		<description>1 Sri Lanka Rupee = 0.033453 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.033453</exchangeRate>
+		<inverseRate>29.892852</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 29.892852 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.039071 VEF</title>
+		<link>http://www.floatrates.com/lkr/vef/</link>
+		<description>1 Sri Lanka Rupee = 0.039071 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>0.039071</exchangeRate>
+		<inverseRate>25.594269</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 25.594269 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.738293 JPY</title>
+		<link>http://www.floatrates.com/lkr/jpy/</link>
+		<description>1 Sri Lanka Rupee = 0.738293 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>0.738293</exchangeRate>
+		<inverseRate>1.354475</inverseRate>
+		<inverseDescription>1 Japanese Yen = 1.354475 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.011971 BGN</title>
+		<link>http://www.floatrates.com/lkr/bgn/</link>
+		<description>1 Sri Lanka Rupee = 0.011971 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.011971</exchangeRate>
+		<inverseRate>83.534527</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 83.534527 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.021134 LTL</title>
+		<link>http://www.floatrates.com/lkr/ltl/</link>
+		<description>1 Sri Lanka Rupee = 0.021134 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>0.021134</exchangeRate>
+		<inverseRate>47.317200</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 47.317200 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.004343 LVL</title>
+		<link>http://www.floatrates.com/lkr/lvl/</link>
+		<description>1 Sri Lanka Rupee = 0.004343 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.004343</exchangeRate>
+		<inverseRate>230.270371</inverseRate>
+		<inverseDescription>1 Latvian Lats = 230.270371 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.025157 RON</title>
+		<link>http://www.floatrates.com/lkr/ron/</link>
+		<description>1 Sri Lanka Rupee = 0.025157 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.025157</exchangeRate>
+		<inverseRate>39.751053</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 39.751053 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.045181 HRK</title>
+		<link>http://www.floatrates.com/lkr/hrk/</link>
+		<description>1 Sri Lanka Rupee = 0.045181 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>0.045181</exchangeRate>
+		<inverseRate>22.133283</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 22.133283 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.014003 TRY</title>
+		<link>http://www.floatrates.com/lkr/try/</link>
+		<description>1 Sri Lanka Rupee = 0.014003 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.014003</exchangeRate>
+		<inverseRate>71.415320</inverseRate>
+		<inverseDescription>1 Turkish Lira = 71.415320 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.014432 BRL</title>
+		<link>http://www.floatrates.com/lkr/brl/</link>
+		<description>1 Sri Lanka Rupee = 0.014432 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.014432</exchangeRate>
+		<inverseRate>69.289125</inverseRate>
+		<inverseDescription>1 Brazilian Real = 69.289125 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.070771 HKD</title>
+		<link>http://www.floatrates.com/lkr/hkd/</link>
+		<description>1 Sri Lanka Rupee = 0.070771 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>0.070771</exchangeRate>
+		<inverseRate>14.130132</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 14.130132 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.105385 MXN</title>
+		<link>http://www.floatrates.com/lkr/mxn/</link>
+		<description>1 Sri Lanka Rupee = 0.105385 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>0.105385</exchangeRate>
+		<inverseRate>9.489053</inverseRate>
+		<inverseDescription>1 Mexican Peso = 9.489053 Sri Lanka Rupee</inverseDescription>
+	</item>
+	<item>
+		<title>1 LKR = 0.390900 PHP</title>
+		<link>http://www.floatrates.com/lkr/php/</link>
+		<description>1 Sri Lanka Rupee = 0.390900 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>LKR</baseCurrency>
+		<baseName>Sri Lanka Rupee</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>0.390900</exchangeRate>
+		<inverseRate>2.558199</inverseRate>
+		<inverseDescription>1 Philippine Peso = 2.558199 Sri Lanka Rupee</inverseDescription>
+	</item>
+</channel>
+

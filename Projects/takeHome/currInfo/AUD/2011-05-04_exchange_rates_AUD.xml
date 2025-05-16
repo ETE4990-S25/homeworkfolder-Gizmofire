@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Australian Dollar (AUD) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/aud/</link>
+	<xmlLink>http://www.floatrates.com/daily/aud.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Australian Dollar (AUD) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>AUD</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 AUD = 0.727935 EUR</title>
+		<link>http://www.floatrates.com/aud/eur/</link>
+		<description>1 Australian Dollar = 0.727935 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.727935</exchangeRate>
+		<inverseRate>1.373749</inverseRate>
+		<inverseDescription>1 Euro = 1.373749 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 0.655741 GBP</title>
+		<link>http://www.floatrates.com/aud/gbp/</link>
+		<description>1 Australian Dollar = 0.655741 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.655741</exchangeRate>
+		<inverseRate>1.524993</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 1.524993 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 1.083313 USD</title>
+		<link>http://www.floatrates.com/aud/usd/</link>
+		<description>1 Australian Dollar = 1.083313 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>1.083313</exchangeRate>
+		<inverseRate>0.923094</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 0.923094 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 77.232653 DZD</title>
+		<link>http://www.floatrates.com/aud/dzd/</link>
+		<description>1 Australian Dollar = 77.232653 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>77.232653</exchangeRate>
+		<inverseRate>0.012948</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.012948 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 1.000000 AUD</title>
+		<link>http://www.floatrates.com/aud/aud/</link>
+		<description>1 Australian Dollar = 1.000000 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Australian Dollar = 1.000000 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 6.904482 BWP</title>
+		<link>http://www.floatrates.com/aud/bwp/</link>
+		<description>1 Australian Dollar = 6.904482 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>6.904482</exchangeRate>
+		<inverseRate>0.144833</inverseRate>
+		<inverseDescription>1 Botswana Pula = 0.144833 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 1.332692 BND</title>
+		<link>http://www.floatrates.com/aud/bnd/</link>
+		<description>1 Australian Dollar = 1.332692 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>1.332692</exchangeRate>
+		<inverseRate>0.750361</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 0.750361 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 1.035825 CAD</title>
+		<link>http://www.floatrates.com/aud/cad/</link>
+		<description>1 Australian Dollar = 1.035825 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>1.035825</exchangeRate>
+		<inverseRate>0.965414</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 0.965414 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 501.649875 CLP</title>
+		<link>http://www.floatrates.com/aud/clp/</link>
+		<description>1 Australian Dollar = 501.649875 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>501.649875</exchangeRate>
+		<inverseRate>0.001993</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.001993 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 7.040121 CNY</title>
+		<link>http://www.floatrates.com/aud/cny/</link>
+		<description>1 Australian Dollar = 7.040121 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>7.040121</exchangeRate>
+		<inverseRate>0.142043</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 0.142043 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 1,914.268709 COP</title>
+		<link>http://www.floatrates.com/aud/cop/</link>
+		<description>1 Australian Dollar = 1,914.268709 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>1,914.268709</exchangeRate>
+		<inverseRate>0.000522</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.000522 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 17.620922 CZK</title>
+		<link>http://www.floatrates.com/aud/czk/</link>
+		<description>1 Australian Dollar = 17.620922 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>17.620922</exchangeRate>
+		<inverseRate>0.056751</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.056751 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 5.428056 DKK</title>
+		<link>http://www.floatrates.com/aud/dkk/</link>
+		<description>1 Australian Dollar = 5.428056 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>5.428056</exchangeRate>
+		<inverseRate>0.184228</inverseRate>
+		<inverseDescription>1 Danish Krone = 0.184228 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 193.188136 HUF</title>
+		<link>http://www.floatrates.com/aud/huf/</link>
+		<description>1 Australian Dollar = 193.188136 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>193.188136</exchangeRate>
+		<inverseRate>0.005176</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.005176 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 120.670265 ISK</title>
+		<link>http://www.floatrates.com/aud/isk/</link>
+		<description>1 Australian Dollar = 120.670265 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>120.670265</exchangeRate>
+		<inverseRate>0.008287</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.008287 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 48.261544 INR</title>
+		<link>http://www.floatrates.com/aud/inr/</link>
+		<description>1 Australian Dollar = 48.261544 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>48.261544</exchangeRate>
+		<inverseRate>0.020720</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.020720 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 9,269.544116 IDR</title>
+		<link>http://www.floatrates.com/aud/idr/</link>
+		<description>1 Australian Dollar = 9,269.544116 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>9,269.544116</exchangeRate>
+		<inverseRate>0.000108</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.000108 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 3.675454 ILS</title>
+		<link>http://www.floatrates.com/aud/ils/</link>
+		<description>1 Australian Dollar = 3.675454 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>3.675454</exchangeRate>
+		<inverseRate>0.272075</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 0.272075 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 157.936241 KZT</title>
+		<link>http://www.floatrates.com/aud/kzt/</link>
+		<description>1 Australian Dollar = 157.936241 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>157.936241</exchangeRate>
+		<inverseRate>0.006332</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.006332 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 1,160.285938 KRW</title>
+		<link>http://www.floatrates.com/aud/krw/</link>
+		<description>1 Australian Dollar = 1,160.285938 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>1,160.285938</exchangeRate>
+		<inverseRate>0.000862</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.000862 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 0.297261 KWD</title>
+		<link>http://www.floatrates.com/aud/kwd/</link>
+		<description>1 Australian Dollar = 0.297261 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.297261</exchangeRate>
+		<inverseRate>3.364045</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 3.364045 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 2.093395 LYD</title>
+		<link>http://www.floatrates.com/aud/lyd/</link>
+		<description>1 Australian Dollar = 2.093395 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>2.093395</exchangeRate>
+		<inverseRate>0.477693</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 0.477693 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 3.227197 MYR</title>
+		<link>http://www.floatrates.com/aud/myr/</link>
+		<description>1 Australian Dollar = 3.227197 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>3.227197</exchangeRate>
+		<inverseRate>0.309866</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 0.309866 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 29.496995 MUR</title>
+		<link>http://www.floatrates.com/aud/mur/</link>
+		<description>1 Australian Dollar = 29.496995 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>29.496995</exchangeRate>
+		<inverseRate>0.033902</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.033902 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 77.066906 NPR</title>
+		<link>http://www.floatrates.com/aud/npr/</link>
+		<description>1 Australian Dollar = 77.066906 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>77.066906</exchangeRate>
+		<inverseRate>0.012976</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.012976 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 1.359692 NZD</title>
+		<link>http://www.floatrates.com/aud/nzd/</link>
+		<description>1 Australian Dollar = 1.359692 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>1.359692</exchangeRate>
+		<inverseRate>0.735461</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 0.735461 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 5.729550 NOK</title>
+		<link>http://www.floatrates.com/aud/nok/</link>
+		<description>1 Australian Dollar = 5.729550 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>5.729550</exchangeRate>
+		<inverseRate>0.174534</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 0.174534 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 0.416534 OMR</title>
+		<link>http://www.floatrates.com/aud/omr/</link>
+		<description>1 Australian Dollar = 0.416534 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.416534</exchangeRate>
+		<inverseRate>2.400765</inverseRate>
+		<inverseDescription>1 Omani Rial = 2.400765 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 91.332517 PKR</title>
+		<link>http://www.floatrates.com/aud/pkr/</link>
+		<description>1 Australian Dollar = 91.332517 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>91.332517</exchangeRate>
+		<inverseRate>0.010949</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.010949 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 2.868978 PLN</title>
+		<link>http://www.floatrates.com/aud/pln/</link>
+		<description>1 Australian Dollar = 2.868978 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>2.868978</exchangeRate>
+		<inverseRate>0.348556</inverseRate>
+		<inverseDescription>1 Polish Zloty = 0.348556 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 3.943260 QAR</title>
+		<link>http://www.floatrates.com/aud/qar/</link>
+		<description>1 Australian Dollar = 3.943260 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>3.943260</exchangeRate>
+		<inverseRate>0.253597</inverseRate>
+		<inverseDescription>1 Qatari Rial = 0.253597 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 29.599456 RUB</title>
+		<link>http://www.floatrates.com/aud/rub/</link>
+		<description>1 Australian Dollar = 29.599456 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>29.599456</exchangeRate>
+		<inverseRate>0.033784</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.033784 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 4.062425 SAR</title>
+		<link>http://www.floatrates.com/aud/sar/</link>
+		<description>1 Australian Dollar = 4.062425 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>4.062425</exchangeRate>
+		<inverseRate>0.246158</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 0.246158 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 1.331653 SGD</title>
+		<link>http://www.floatrates.com/aud/sgd/</link>
+		<description>1 Australian Dollar = 1.331653 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>1.331653</exchangeRate>
+		<inverseRate>0.750947</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 0.750947 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 7.175771 ZAR</title>
+		<link>http://www.floatrates.com/aud/zar/</link>
+		<description>1 Australian Dollar = 7.175771 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>7.175771</exchangeRate>
+		<inverseRate>0.139358</inverseRate>
+		<inverseDescription>1 South African Rand = 0.139358 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 118.927755 LKR</title>
+		<link>http://www.floatrates.com/aud/lkr/</link>
+		<description>1 Australian Dollar = 118.927755 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>118.927755</exchangeRate>
+		<inverseRate>0.008408</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.008408 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 6.546689 SEK</title>
+		<link>http://www.floatrates.com/aud/sek/</link>
+		<description>1 Australian Dollar = 6.546689 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>6.546689</exchangeRate>
+		<inverseRate>0.152749</inverseRate>
+		<inverseDescription>1 Swedish Krona = 0.152749 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 0.934049 CHF</title>
+		<link>http://www.floatrates.com/aud/chf/</link>
+		<description>1 Australian Dollar = 0.934049 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.934049</exchangeRate>
+		<inverseRate>1.070607</inverseRate>
+		<inverseDescription>1 Swiss Franc = 1.070607 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 32.525312 THB</title>
+		<link>http://www.floatrates.com/aud/thb/</link>
+		<description>1 Australian Dollar = 32.525312 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>32.525312</exchangeRate>
+		<inverseRate>0.030745</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.030745 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 6.927897 TTD</title>
+		<link>http://www.floatrates.com/aud/ttd/</link>
+		<description>1 Australian Dollar = 6.927897 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>6.927897</exchangeRate>
+		<inverseRate>0.144344</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 0.144344 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 3.978468 AED</title>
+		<link>http://www.floatrates.com/aud/aed/</link>
+		<description>1 Australian Dollar = 3.978468 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>3.978468</exchangeRate>
+		<inverseRate>0.251353</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 0.251353 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 4.646656 VEF</title>
+		<link>http://www.floatrates.com/aud/vef/</link>
+		<description>1 Australian Dollar = 4.646656 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>4.646656</exchangeRate>
+		<inverseRate>0.215209</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 0.215209 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 87.803552 JPY</title>
+		<link>http://www.floatrates.com/aud/jpy/</link>
+		<description>1 Australian Dollar = 87.803552 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>87.803552</exchangeRate>
+		<inverseRate>0.011389</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.011389 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 1.423696 BGN</title>
+		<link>http://www.floatrates.com/aud/bgn/</link>
+		<description>1 Australian Dollar = 1.423696 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>1.423696</exchangeRate>
+		<inverseRate>0.702397</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 0.702397 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 2.513415 LTL</title>
+		<link>http://www.floatrates.com/aud/ltl/</link>
+		<description>1 Australian Dollar = 2.513415 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>2.513415</exchangeRate>
+		<inverseRate>0.397865</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 0.397865 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 0.516470 LVL</title>
+		<link>http://www.floatrates.com/aud/lvl/</link>
+		<description>1 Australian Dollar = 0.516470 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.516470</exchangeRate>
+		<inverseRate>1.936221</inverseRate>
+		<inverseDescription>1 Latvian Lats = 1.936221 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 2.991814 RON</title>
+		<link>http://www.floatrates.com/aud/ron/</link>
+		<description>1 Australian Dollar = 2.991814 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>2.991814</exchangeRate>
+		<inverseRate>0.334245</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 0.334245 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 5.373254 HRK</title>
+		<link>http://www.floatrates.com/aud/hrk/</link>
+		<description>1 Australian Dollar = 5.373254 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>5.373254</exchangeRate>
+		<inverseRate>0.186107</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 0.186107 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 1.665298 TRY</title>
+		<link>http://www.floatrates.com/aud/try/</link>
+		<description>1 Australian Dollar = 1.665298 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>1.665298</exchangeRate>
+		<inverseRate>0.600493</inverseRate>
+		<inverseDescription>1 Turkish Lira = 0.600493 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 1.716399 BRL</title>
+		<link>http://www.floatrates.com/aud/brl/</link>
+		<description>1 Australian Dollar = 1.716399 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>1.716399</exchangeRate>
+		<inverseRate>0.582615</inverseRate>
+		<inverseDescription>1 Brazilian Real = 0.582615 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 8.416606 HKD</title>
+		<link>http://www.floatrates.com/aud/hkd/</link>
+		<description>1 Australian Dollar = 8.416606 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>8.416606</exchangeRate>
+		<inverseRate>0.118813</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.118813 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 12.533153 MXN</title>
+		<link>http://www.floatrates.com/aud/mxn/</link>
+		<description>1 Australian Dollar = 12.533153 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>12.533153</exchangeRate>
+		<inverseRate>0.079788</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.079788 Australian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 AUD = 46.488858 PHP</title>
+		<link>http://www.floatrates.com/aud/php/</link>
+		<description>1 Australian Dollar = 46.488858 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>AUD</baseCurrency>
+		<baseName>Australian Dollar</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>46.488858</exchangeRate>
+		<inverseRate>0.021511</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.021511 Australian Dollar</inverseDescription>
+	</item>
+</channel>
+

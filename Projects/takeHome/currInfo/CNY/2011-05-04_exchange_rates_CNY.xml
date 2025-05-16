@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Chinese Yuan (CNY) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/cny/</link>
+	<xmlLink>http://www.floatrates.com/daily/cny.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Chinese Yuan (CNY) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>CNY</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 CNY = 0.103398 EUR</title>
+		<link>http://www.floatrates.com/cny/eur/</link>
+		<description>1 Chinese Yuan = 0.103398 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.103398</exchangeRate>
+		<inverseRate>9.671356</inverseRate>
+		<inverseDescription>1 Euro = 9.671356 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.093143 GBP</title>
+		<link>http://www.floatrates.com/cny/gbp/</link>
+		<description>1 Chinese Yuan = 0.093143 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.093143</exchangeRate>
+		<inverseRate>10.736139</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 10.736139 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.153877 USD</title>
+		<link>http://www.floatrates.com/cny/usd/</link>
+		<description>1 Chinese Yuan = 0.153877 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.153877</exchangeRate>
+		<inverseRate>6.498694</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 6.498694 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 10.970358 DZD</title>
+		<link>http://www.floatrates.com/cny/dzd/</link>
+		<description>1 Chinese Yuan = 10.970358 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>10.970358</exchangeRate>
+		<inverseRate>0.091155</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.091155 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.142043 AUD</title>
+		<link>http://www.floatrates.com/cny/aud/</link>
+		<description>1 Chinese Yuan = 0.142043 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.142043</exchangeRate>
+		<inverseRate>7.040121</inverseRate>
+		<inverseDescription>1 Australian Dollar = 7.040121 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.980733 BWP</title>
+		<link>http://www.floatrates.com/cny/bwp/</link>
+		<description>1 Chinese Yuan = 0.980733 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>0.980733</exchangeRate>
+		<inverseRate>1.019645</inverseRate>
+		<inverseDescription>1 Botswana Pula = 1.019645 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.189300 BND</title>
+		<link>http://www.floatrates.com/cny/bnd/</link>
+		<description>1 Chinese Yuan = 0.189300 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.189300</exchangeRate>
+		<inverseRate>5.282632</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 5.282632 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.147132 CAD</title>
+		<link>http://www.floatrates.com/cny/cad/</link>
+		<description>1 Chinese Yuan = 0.147132 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.147132</exchangeRate>
+		<inverseRate>6.796629</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 6.796629 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 71.255855 CLP</title>
+		<link>http://www.floatrates.com/cny/clp/</link>
+		<description>1 Chinese Yuan = 71.255855 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>71.255855</exchangeRate>
+		<inverseRate>0.014034</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.014034 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 1.000000 CNY</title>
+		<link>http://www.floatrates.com/cny/cny/</link>
+		<description>1 Chinese Yuan = 1.000000 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 1.000000 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 271.908478 COP</title>
+		<link>http://www.floatrates.com/cny/cop/</link>
+		<description>1 Chinese Yuan = 271.908478 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>271.908478</exchangeRate>
+		<inverseRate>0.003678</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.003678 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 2.502929 CZK</title>
+		<link>http://www.floatrates.com/cny/czk/</link>
+		<description>1 Chinese Yuan = 2.502929 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>2.502929</exchangeRate>
+		<inverseRate>0.399532</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.399532 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.771017 DKK</title>
+		<link>http://www.floatrates.com/cny/dkk/</link>
+		<description>1 Chinese Yuan = 0.771017 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>0.771017</exchangeRate>
+		<inverseRate>1.296988</inverseRate>
+		<inverseDescription>1 Danish Krone = 1.296988 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 27.441023 HUF</title>
+		<link>http://www.floatrates.com/cny/huf/</link>
+		<description>1 Chinese Yuan = 27.441023 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>27.441023</exchangeRate>
+		<inverseRate>0.036442</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.036442 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 17.140367 ISK</title>
+		<link>http://www.floatrates.com/cny/isk/</link>
+		<description>1 Chinese Yuan = 17.140367 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>17.140367</exchangeRate>
+		<inverseRate>0.058342</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.058342 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 6.855215 INR</title>
+		<link>http://www.floatrates.com/cny/inr/</link>
+		<description>1 Chinese Yuan = 6.855215 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>6.855215</exchangeRate>
+		<inverseRate>0.145874</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.145874 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 1,316.673893 IDR</title>
+		<link>http://www.floatrates.com/cny/idr/</link>
+		<description>1 Chinese Yuan = 1,316.673893 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>1,316.673893</exchangeRate>
+		<inverseRate>0.000759</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.000759 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.522073 ILS</title>
+		<link>http://www.floatrates.com/cny/ils/</link>
+		<description>1 Chinese Yuan = 0.522073 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.522073</exchangeRate>
+		<inverseRate>1.915443</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 1.915443 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 22.433738 KZT</title>
+		<link>http://www.floatrates.com/cny/kzt/</link>
+		<description>1 Chinese Yuan = 22.433738 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>22.433738</exchangeRate>
+		<inverseRate>0.044576</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.044576 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 164.810500 KRW</title>
+		<link>http://www.floatrates.com/cny/krw/</link>
+		<description>1 Chinese Yuan = 164.810500 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>164.810500</exchangeRate>
+		<inverseRate>0.006068</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.006068 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.042224 KWD</title>
+		<link>http://www.floatrates.com/cny/kwd/</link>
+		<description>1 Chinese Yuan = 0.042224 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.042224</exchangeRate>
+		<inverseRate>23.683287</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 23.683287 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.297352 LYD</title>
+		<link>http://www.floatrates.com/cny/lyd/</link>
+		<description>1 Chinese Yuan = 0.297352 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.297352</exchangeRate>
+		<inverseRate>3.363017</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 3.363017 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.458401 MYR</title>
+		<link>http://www.floatrates.com/cny/myr/</link>
+		<description>1 Chinese Yuan = 0.458401 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.458401</exchangeRate>
+		<inverseRate>2.181497</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 2.181497 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 4.189842 MUR</title>
+		<link>http://www.floatrates.com/cny/mur/</link>
+		<description>1 Chinese Yuan = 4.189842 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>4.189842</exchangeRate>
+		<inverseRate>0.238672</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.238672 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 10.946815 NPR</title>
+		<link>http://www.floatrates.com/cny/npr/</link>
+		<description>1 Chinese Yuan = 10.946815 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>10.946815</exchangeRate>
+		<inverseRate>0.091351</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.091351 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.193135 NZD</title>
+		<link>http://www.floatrates.com/cny/nzd/</link>
+		<description>1 Chinese Yuan = 0.193135 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.193135</exchangeRate>
+		<inverseRate>5.177734</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 5.177734 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.813842 NOK</title>
+		<link>http://www.floatrates.com/cny/nok/</link>
+		<description>1 Chinese Yuan = 0.813842 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>0.813842</exchangeRate>
+		<inverseRate>1.228739</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 1.228739 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.059166 OMR</title>
+		<link>http://www.floatrates.com/cny/omr/</link>
+		<description>1 Chinese Yuan = 0.059166 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.059166</exchangeRate>
+		<inverseRate>16.901675</inverseRate>
+		<inverseDescription>1 Omani Rial = 16.901675 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 12.973145 PKR</title>
+		<link>http://www.floatrates.com/cny/pkr/</link>
+		<description>1 Chinese Yuan = 12.973145 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>12.973145</exchangeRate>
+		<inverseRate>0.077082</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.077082 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.407518 PLN</title>
+		<link>http://www.floatrates.com/cny/pln/</link>
+		<description>1 Chinese Yuan = 0.407518 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.407518</exchangeRate>
+		<inverseRate>2.453878</inverseRate>
+		<inverseDescription>1 Polish Zloty = 2.453878 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.560113 QAR</title>
+		<link>http://www.floatrates.com/cny/qar/</link>
+		<description>1 Chinese Yuan = 0.560113 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.560113</exchangeRate>
+		<inverseRate>1.785355</inverseRate>
+		<inverseDescription>1 Qatari Rial = 1.785355 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 4.204396 RUB</title>
+		<link>http://www.floatrates.com/cny/rub/</link>
+		<description>1 Chinese Yuan = 4.204396 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>4.204396</exchangeRate>
+		<inverseRate>0.237846</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.237846 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.577039 SAR</title>
+		<link>http://www.floatrates.com/cny/sar/</link>
+		<description>1 Chinese Yuan = 0.577039 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.577039</exchangeRate>
+		<inverseRate>1.732985</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 1.732985 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.189152 SGD</title>
+		<link>http://www.floatrates.com/cny/sgd/</link>
+		<description>1 Chinese Yuan = 0.189152 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.189152</exchangeRate>
+		<inverseRate>5.286755</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 5.286755 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 1.019268 ZAR</title>
+		<link>http://www.floatrates.com/cny/zar/</link>
+		<description>1 Chinese Yuan = 1.019268 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>1.019268</exchangeRate>
+		<inverseRate>0.981096</inverseRate>
+		<inverseDescription>1 South African Rand = 0.981096 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 16.892856 LKR</title>
+		<link>http://www.floatrates.com/cny/lkr/</link>
+		<description>1 Chinese Yuan = 16.892856 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>16.892856</exchangeRate>
+		<inverseRate>0.059197</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.059197 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.929911 SEK</title>
+		<link>http://www.floatrates.com/cny/sek/</link>
+		<description>1 Chinese Yuan = 0.929911 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>0.929911</exchangeRate>
+		<inverseRate>1.075371</inverseRate>
+		<inverseDescription>1 Swedish Krona = 1.075371 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.132675 CHF</title>
+		<link>http://www.floatrates.com/cny/chf/</link>
+		<description>1 Chinese Yuan = 0.132675 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.132675</exchangeRate>
+		<inverseRate>7.537204</inverseRate>
+		<inverseDescription>1 Swiss Franc = 7.537204 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 4.619993 THB</title>
+		<link>http://www.floatrates.com/cny/thb/</link>
+		<description>1 Chinese Yuan = 4.619993 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>4.619993</exchangeRate>
+		<inverseRate>0.216451</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.216451 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.984059 TTD</title>
+		<link>http://www.floatrates.com/cny/ttd/</link>
+		<description>1 Chinese Yuan = 0.984059 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>0.984059</exchangeRate>
+		<inverseRate>1.016199</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 1.016199 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.565114 AED</title>
+		<link>http://www.floatrates.com/cny/aed/</link>
+		<description>1 Chinese Yuan = 0.565114 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.565114</exchangeRate>
+		<inverseRate>1.769556</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 1.769556 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.660025 VEF</title>
+		<link>http://www.floatrates.com/cny/vef/</link>
+		<description>1 Chinese Yuan = 0.660025 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>0.660025</exchangeRate>
+		<inverseRate>1.515094</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 1.515094 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 12.471880 JPY</title>
+		<link>http://www.floatrates.com/cny/jpy/</link>
+		<description>1 Chinese Yuan = 12.471880 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>12.471880</exchangeRate>
+		<inverseRate>0.080180</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.080180 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.202226 BGN</title>
+		<link>http://www.floatrates.com/cny/bgn/</link>
+		<description>1 Chinese Yuan = 0.202226 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.202226</exchangeRate>
+		<inverseRate>4.944962</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 4.944962 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.357013 LTL</title>
+		<link>http://www.floatrates.com/cny/ltl/</link>
+		<description>1 Chinese Yuan = 0.357013 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>0.357013</exchangeRate>
+		<inverseRate>2.801018</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 2.801018 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.073361 LVL</title>
+		<link>http://www.floatrates.com/cny/lvl/</link>
+		<description>1 Chinese Yuan = 0.073361 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.073361</exchangeRate>
+		<inverseRate>13.631228</inverseRate>
+		<inverseDescription>1 Latvian Lats = 13.631228 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.424966 RON</title>
+		<link>http://www.floatrates.com/cny/ron/</link>
+		<description>1 Chinese Yuan = 0.424966 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.424966</exchangeRate>
+		<inverseRate>2.353128</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 2.353128 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.763233 HRK</title>
+		<link>http://www.floatrates.com/cny/hrk/</link>
+		<description>1 Chinese Yuan = 0.763233 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>0.763233</exchangeRate>
+		<inverseRate>1.310216</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 1.310216 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.236544 TRY</title>
+		<link>http://www.floatrates.com/cny/try/</link>
+		<description>1 Chinese Yuan = 0.236544 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.236544</exchangeRate>
+		<inverseRate>4.227546</inverseRate>
+		<inverseDescription>1 Turkish Lira = 4.227546 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 0.243802 BRL</title>
+		<link>http://www.floatrates.com/cny/brl/</link>
+		<description>1 Chinese Yuan = 0.243802 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.243802</exchangeRate>
+		<inverseRate>4.101682</inverseRate>
+		<inverseDescription>1 Brazilian Real = 4.101682 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 1.195520 HKD</title>
+		<link>http://www.floatrates.com/cny/hkd/</link>
+		<description>1 Chinese Yuan = 1.195520 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>1.195520</exchangeRate>
+		<inverseRate>0.836456</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.836456 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 1.780247 MXN</title>
+		<link>http://www.floatrates.com/cny/mxn/</link>
+		<description>1 Chinese Yuan = 1.780247 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>1.780247</exchangeRate>
+		<inverseRate>0.561720</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.561720 Chinese Yuan</inverseDescription>
+	</item>
+	<item>
+		<title>1 CNY = 6.603417 PHP</title>
+		<link>http://www.floatrates.com/cny/php/</link>
+		<description>1 Chinese Yuan = 6.603417 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CNY</baseCurrency>
+		<baseName>Chinese Yuan</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>6.603417</exchangeRate>
+		<inverseRate>0.151437</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.151437 Chinese Yuan</inverseDescription>
+	</item>
+</channel>
+

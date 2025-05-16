@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Brunei Dollar (BND) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/bnd/</link>
+	<xmlLink>http://www.floatrates.com/daily/bnd.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Brunei Dollar (BND) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>BND</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 BND = 0.546214 EUR</title>
+		<link>http://www.floatrates.com/bnd/eur/</link>
+		<description>1 Brunei Dollar = 0.546214 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.546214</exchangeRate>
+		<inverseRate>1.830784</inverseRate>
+		<inverseDescription>1 Euro = 1.830784 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 0.492042 GBP</title>
+		<link>http://www.floatrates.com/bnd/gbp/</link>
+		<description>1 Brunei Dollar = 0.492042 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.492042</exchangeRate>
+		<inverseRate>2.032346</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 2.032346 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 0.812876 USD</title>
+		<link>http://www.floatrates.com/bnd/usd/</link>
+		<description>1 Brunei Dollar = 0.812876 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.812876</exchangeRate>
+		<inverseRate>1.230200</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 1.230200 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 57.952365 DZD</title>
+		<link>http://www.floatrates.com/bnd/dzd/</link>
+		<description>1 Brunei Dollar = 57.952365 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>57.952365</exchangeRate>
+		<inverseRate>0.017256</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.017256 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 0.750361 AUD</title>
+		<link>http://www.floatrates.com/bnd/aud/</link>
+		<description>1 Brunei Dollar = 0.750361 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.750361</exchangeRate>
+		<inverseRate>1.332692</inverseRate>
+		<inverseDescription>1 Australian Dollar = 1.332692 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 5.180854 BWP</title>
+		<link>http://www.floatrates.com/bnd/bwp/</link>
+		<description>1 Brunei Dollar = 5.180854 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>5.180854</exchangeRate>
+		<inverseRate>0.193018</inverseRate>
+		<inverseDescription>1 Botswana Pula = 0.193018 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 1.000000 BND</title>
+		<link>http://www.floatrates.com/bnd/bnd/</link>
+		<description>1 Brunei Dollar = 1.000000 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 1.000000 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 0.777243 CAD</title>
+		<link>http://www.floatrates.com/bnd/cad/</link>
+		<description>1 Brunei Dollar = 0.777243 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.777243</exchangeRate>
+		<inverseRate>1.286599</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 1.286599 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 376.418469 CLP</title>
+		<link>http://www.floatrates.com/bnd/clp/</link>
+		<description>1 Brunei Dollar = 376.418469 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>376.418469</exchangeRate>
+		<inverseRate>0.002657</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.002657 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 5.282632 CNY</title>
+		<link>http://www.floatrates.com/bnd/cny/</link>
+		<description>1 Brunei Dollar = 5.282632 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>5.282632</exchangeRate>
+		<inverseRate>0.189300</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 0.189300 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 1,436.392457 COP</title>
+		<link>http://www.floatrates.com/bnd/cop/</link>
+		<description>1 Brunei Dollar = 1,436.392457 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>1,436.392457</exchangeRate>
+		<inverseRate>0.000696</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.000696 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 13.222051 CZK</title>
+		<link>http://www.floatrates.com/bnd/czk/</link>
+		<description>1 Brunei Dollar = 13.222051 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>13.222051</exchangeRate>
+		<inverseRate>0.075631</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.075631 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 4.073001 DKK</title>
+		<link>http://www.floatrates.com/bnd/dkk/</link>
+		<description>1 Brunei Dollar = 4.073001 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>4.073001</exchangeRate>
+		<inverseRate>0.245519</inverseRate>
+		<inverseDescription>1 Danish Krone = 0.245519 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 144.960830 HUF</title>
+		<link>http://www.floatrates.com/bnd/huf/</link>
+		<description>1 Brunei Dollar = 144.960830 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>144.960830</exchangeRate>
+		<inverseRate>0.006898</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.006898 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 90.546253 ISK</title>
+		<link>http://www.floatrates.com/bnd/isk/</link>
+		<description>1 Brunei Dollar = 90.546253 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>90.546253</exchangeRate>
+		<inverseRate>0.011044</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.011044 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 36.213578 INR</title>
+		<link>http://www.floatrates.com/bnd/inr/</link>
+		<description>1 Brunei Dollar = 36.213578 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>36.213578</exchangeRate>
+		<inverseRate>0.027614</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.027614 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 6,955.503783 IDR</title>
+		<link>http://www.floatrates.com/bnd/idr/</link>
+		<description>1 Brunei Dollar = 6,955.503783 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>6,955.503783</exchangeRate>
+		<inverseRate>0.000144</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.000144 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 2.757917 ILS</title>
+		<link>http://www.floatrates.com/bnd/ils/</link>
+		<description>1 Brunei Dollar = 2.757917 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>2.757917</exchangeRate>
+		<inverseRate>0.362592</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 0.362592 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 118.509185 KZT</title>
+		<link>http://www.floatrates.com/bnd/kzt/</link>
+		<description>1 Brunei Dollar = 118.509185 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>118.509185</exchangeRate>
+		<inverseRate>0.008438</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.008438 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 870.633241 KRW</title>
+		<link>http://www.floatrates.com/bnd/krw/</link>
+		<description>1 Brunei Dollar = 870.633241 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>870.633241</exchangeRate>
+		<inverseRate>0.001149</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.001149 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 0.223053 KWD</title>
+		<link>http://www.floatrates.com/bnd/kwd/</link>
+		<description>1 Brunei Dollar = 0.223053 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.223053</exchangeRate>
+		<inverseRate>4.483236</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 4.483236 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 1.570801 LYD</title>
+		<link>http://www.floatrates.com/bnd/lyd/</link>
+		<description>1 Brunei Dollar = 1.570801 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>1.570801</exchangeRate>
+		<inverseRate>0.636618</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 0.636618 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 2.421563 MYR</title>
+		<link>http://www.floatrates.com/bnd/myr/</link>
+		<description>1 Brunei Dollar = 2.421563 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>2.421563</exchangeRate>
+		<inverseRate>0.412956</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 0.412956 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 22.133393 MUR</title>
+		<link>http://www.floatrates.com/bnd/mur/</link>
+		<description>1 Brunei Dollar = 22.133393 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>22.133393</exchangeRate>
+		<inverseRate>0.045181</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.045181 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 57.827995 NPR</title>
+		<link>http://www.floatrates.com/bnd/npr/</link>
+		<description>1 Brunei Dollar = 57.827995 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>57.827995</exchangeRate>
+		<inverseRate>0.017293</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.017293 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 1.020259 NZD</title>
+		<link>http://www.floatrates.com/bnd/nzd/</link>
+		<description>1 Brunei Dollar = 1.020259 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>1.020259</exchangeRate>
+		<inverseRate>0.980143</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 0.980143 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 4.299230 NOK</title>
+		<link>http://www.floatrates.com/bnd/nok/</link>
+		<description>1 Brunei Dollar = 4.299230 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>4.299230</exchangeRate>
+		<inverseRate>0.232600</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 0.232600 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 0.312551 OMR</title>
+		<link>http://www.floatrates.com/bnd/omr/</link>
+		<description>1 Brunei Dollar = 0.312551 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.312551</exchangeRate>
+		<inverseRate>3.199480</inverseRate>
+		<inverseDescription>1 Omani Rial = 3.199480 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 68.532352 PKR</title>
+		<link>http://www.floatrates.com/bnd/pkr/</link>
+		<description>1 Brunei Dollar = 68.532352 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>68.532352</exchangeRate>
+		<inverseRate>0.014592</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.014592 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 2.152769 PLN</title>
+		<link>http://www.floatrates.com/bnd/pln/</link>
+		<description>1 Brunei Dollar = 2.152769 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>2.152769</exchangeRate>
+		<inverseRate>0.464518</inverseRate>
+		<inverseDescription>1 Polish Zloty = 0.464518 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 2.958868 QAR</title>
+		<link>http://www.floatrates.com/bnd/qar/</link>
+		<description>1 Brunei Dollar = 2.958868 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>2.958868</exchangeRate>
+		<inverseRate>0.337967</inverseRate>
+		<inverseDescription>1 Qatari Rial = 0.337967 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 22.210275 RUB</title>
+		<link>http://www.floatrates.com/bnd/rub/</link>
+		<description>1 Brunei Dollar = 22.210275 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>22.210275</exchangeRate>
+		<inverseRate>0.045024</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.045024 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 3.048285 SAR</title>
+		<link>http://www.floatrates.com/bnd/sar/</link>
+		<description>1 Brunei Dollar = 3.048285 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>3.048285</exchangeRate>
+		<inverseRate>0.328053</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 0.328053 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 0.999220 SGD</title>
+		<link>http://www.floatrates.com/bnd/sgd/</link>
+		<description>1 Brunei Dollar = 0.999220 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.999220</exchangeRate>
+		<inverseRate>1.000781</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 1.000781 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 5.384419 ZAR</title>
+		<link>http://www.floatrates.com/bnd/zar/</link>
+		<description>1 Brunei Dollar = 5.384419 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>5.384419</exchangeRate>
+		<inverseRate>0.185721</inverseRate>
+		<inverseDescription>1 South African Rand = 0.185721 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 89.238742 LKR</title>
+		<link>http://www.floatrates.com/bnd/lkr/</link>
+		<description>1 Brunei Dollar = 89.238742 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>89.238742</exchangeRate>
+		<inverseRate>0.011206</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.011206 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 4.912380 SEK</title>
+		<link>http://www.floatrates.com/bnd/sek/</link>
+		<description>1 Brunei Dollar = 4.912380 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>4.912380</exchangeRate>
+		<inverseRate>0.203567</inverseRate>
+		<inverseDescription>1 Swedish Krona = 0.203567 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 0.700874 CHF</title>
+		<link>http://www.floatrates.com/bnd/chf/</link>
+		<description>1 Brunei Dollar = 0.700874 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.700874</exchangeRate>
+		<inverseRate>1.426789</inverseRate>
+		<inverseDescription>1 Swiss Franc = 1.426789 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 24.405723 THB</title>
+		<link>http://www.floatrates.com/bnd/thb/</link>
+		<description>1 Brunei Dollar = 24.405723 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>24.405723</exchangeRate>
+		<inverseRate>0.040974</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.040974 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 5.198423 TTD</title>
+		<link>http://www.floatrates.com/bnd/ttd/</link>
+		<description>1 Brunei Dollar = 5.198423 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>5.198423</exchangeRate>
+		<inverseRate>0.192366</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 0.192366 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 2.985287 AED</title>
+		<link>http://www.floatrates.com/bnd/aed/</link>
+		<description>1 Brunei Dollar = 2.985287 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>2.985287</exchangeRate>
+		<inverseRate>0.334976</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 0.334976 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 3.486669 VEF</title>
+		<link>http://www.floatrates.com/bnd/vef/</link>
+		<description>1 Brunei Dollar = 3.486669 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>3.486669</exchangeRate>
+		<inverseRate>0.286807</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 0.286807 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 65.884355 JPY</title>
+		<link>http://www.floatrates.com/bnd/jpy/</link>
+		<description>1 Brunei Dollar = 65.884355 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>65.884355</exchangeRate>
+		<inverseRate>0.015178</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.015178 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 1.068286 BGN</title>
+		<link>http://www.floatrates.com/bnd/bgn/</link>
+		<description>1 Brunei Dollar = 1.068286 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>1.068286</exchangeRate>
+		<inverseRate>0.936079</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 0.936079 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 1.885968 LTL</title>
+		<link>http://www.floatrates.com/bnd/ltl/</link>
+		<description>1 Brunei Dollar = 1.885968 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>1.885968</exchangeRate>
+		<inverseRate>0.530232</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 0.530232 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 0.387539 LVL</title>
+		<link>http://www.floatrates.com/bnd/lvl/</link>
+		<description>1 Brunei Dollar = 0.387539 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.387539</exchangeRate>
+		<inverseRate>2.580386</inverseRate>
+		<inverseDescription>1 Latvian Lats = 2.580386 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 2.244940 RON</title>
+		<link>http://www.floatrates.com/bnd/ron/</link>
+		<description>1 Brunei Dollar = 2.244940 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>2.244940</exchangeRate>
+		<inverseRate>0.445446</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 0.445446 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 4.031880 HRK</title>
+		<link>http://www.floatrates.com/bnd/hrk/</link>
+		<description>1 Brunei Dollar = 4.031880 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>4.031880</exchangeRate>
+		<inverseRate>0.248023</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 0.248023 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 1.249574 TRY</title>
+		<link>http://www.floatrates.com/bnd/try/</link>
+		<description>1 Brunei Dollar = 1.249574 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>1.249574</exchangeRate>
+		<inverseRate>0.800273</inverseRate>
+		<inverseDescription>1 Turkish Lira = 0.800273 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 1.287918 BRL</title>
+		<link>http://www.floatrates.com/bnd/brl/</link>
+		<description>1 Brunei Dollar = 1.287918 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>1.287918</exchangeRate>
+		<inverseRate>0.776447</inverseRate>
+		<inverseDescription>1 Brazilian Real = 0.776447 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 6.315492 HKD</title>
+		<link>http://www.floatrates.com/bnd/hkd/</link>
+		<description>1 Brunei Dollar = 6.315492 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>6.315492</exchangeRate>
+		<inverseRate>0.158341</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.158341 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 9.404388 MXN</title>
+		<link>http://www.floatrates.com/bnd/mxn/</link>
+		<description>1 Brunei Dollar = 9.404388 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>9.404388</exchangeRate>
+		<inverseRate>0.106333</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.106333 Brunei Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 BND = 34.883423 PHP</title>
+		<link>http://www.floatrates.com/bnd/php/</link>
+		<description>1 Brunei Dollar = 34.883423 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>BND</baseCurrency>
+		<baseName>Brunei Dollar</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>34.883423</exchangeRate>
+		<inverseRate>0.028667</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.028667 Brunei Dollar</inverseDescription>
+	</item>
+</channel>
+

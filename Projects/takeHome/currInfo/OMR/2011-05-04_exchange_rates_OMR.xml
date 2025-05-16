@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Omani Rial (OMR) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/omr/</link>
+	<xmlLink>http://www.floatrates.com/daily/omr.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Omani Rial (OMR) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>OMR</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 OMR = 1.747601 EUR</title>
+		<link>http://www.floatrates.com/omr/eur/</link>
+		<description>1 Omani Rial = 1.747601 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>1.747601</exchangeRate>
+		<inverseRate>0.572213</inverseRate>
+		<inverseDescription>1 Euro = 0.572213 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 1.574279 GBP</title>
+		<link>http://www.floatrates.com/omr/gbp/</link>
+		<description>1 Omani Rial = 1.574279 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>1.574279</exchangeRate>
+		<inverseRate>0.635212</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 0.635212 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 2.600780 USD</title>
+		<link>http://www.floatrates.com/omr/usd/</link>
+		<description>1 Omani Rial = 2.600780 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>2.600780</exchangeRate>
+		<inverseRate>0.384500</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 0.384500 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 185.417425 DZD</title>
+		<link>http://www.floatrates.com/omr/dzd/</link>
+		<description>1 Omani Rial = 185.417425 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>185.417425</exchangeRate>
+		<inverseRate>0.005393</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.005393 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 2.400765 AUD</title>
+		<link>http://www.floatrates.com/omr/aud/</link>
+		<description>1 Omani Rial = 2.400765 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>2.400765</exchangeRate>
+		<inverseRate>0.416534</inverseRate>
+		<inverseDescription>1 Australian Dollar = 0.416534 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 16.576037 BWP</title>
+		<link>http://www.floatrates.com/omr/bwp/</link>
+		<description>1 Omani Rial = 16.576037 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>16.576037</exchangeRate>
+		<inverseRate>0.060328</inverseRate>
+		<inverseDescription>1 Botswana Pula = 0.060328 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 3.199480 BND</title>
+		<link>http://www.floatrates.com/omr/bnd/</link>
+		<description>1 Omani Rial = 3.199480 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>3.199480</exchangeRate>
+		<inverseRate>0.312551</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 0.312551 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 2.486773 CAD</title>
+		<link>http://www.floatrates.com/omr/cad/</link>
+		<description>1 Omani Rial = 2.486773 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>2.486773</exchangeRate>
+		<inverseRate>0.402128</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 0.402128 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 1,204.343303 CLP</title>
+		<link>http://www.floatrates.com/omr/clp/</link>
+		<description>1 Omani Rial = 1,204.343303 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>1,204.343303</exchangeRate>
+		<inverseRate>0.000830</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.000830 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 16.901675 CNY</title>
+		<link>http://www.floatrates.com/omr/cny/</link>
+		<description>1 Omani Rial = 16.901675 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>16.901675</exchangeRate>
+		<inverseRate>0.059166</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 0.059166 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 4,595.708713 COP</title>
+		<link>http://www.floatrates.com/omr/cop/</link>
+		<description>1 Omani Rial = 4,595.708713 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>4,595.708713</exchangeRate>
+		<inverseRate>0.000218</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.000218 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 42.303687 CZK</title>
+		<link>http://www.floatrates.com/omr/czk/</link>
+		<description>1 Omani Rial = 42.303687 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>42.303687</exchangeRate>
+		<inverseRate>0.023639</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.023639 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 13.031484 DKK</title>
+		<link>http://www.floatrates.com/omr/dkk/</link>
+		<description>1 Omani Rial = 13.031484 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>13.031484</exchangeRate>
+		<inverseRate>0.076737</inverseRate>
+		<inverseDescription>1 Danish Krone = 0.076737 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 463.799254 HUF</title>
+		<link>http://www.floatrates.com/omr/huf/</link>
+		<description>1 Omani Rial = 463.799254 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>463.799254</exchangeRate>
+		<inverseRate>0.002156</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.002156 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 289.700910 ISK</title>
+		<link>http://www.floatrates.com/omr/isk/</link>
+		<description>1 Omani Rial = 289.700910 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>289.700910</exchangeRate>
+		<inverseRate>0.003452</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.003452 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 115.864611 INR</title>
+		<link>http://www.floatrates.com/omr/inr/</link>
+		<description>1 Omani Rial = 115.864611 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>115.864611</exchangeRate>
+		<inverseRate>0.008631</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.008631 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 22,253.994157 IDR</title>
+		<link>http://www.floatrates.com/omr/idr/</link>
+		<description>1 Omani Rial = 22,253.994157 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>22,253.994157</exchangeRate>
+		<inverseRate>0.000045</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.000045 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 8.823900 ILS</title>
+		<link>http://www.floatrates.com/omr/ils/</link>
+		<description>1 Omani Rial = 8.823900 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>8.823900</exchangeRate>
+		<inverseRate>0.113329</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 0.113329 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 379.167750 KZT</title>
+		<link>http://www.floatrates.com/omr/kzt/</link>
+		<description>1 Omani Rial = 379.167750 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>379.167750</exchangeRate>
+		<inverseRate>0.002637</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.002637 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 2,785.573505 KRW</title>
+		<link>http://www.floatrates.com/omr/krw/</link>
+		<description>1 Omani Rial = 2,785.573505 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>2,785.573505</exchangeRate>
+		<inverseRate>0.000359</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.000359 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 0.713654 KWD</title>
+		<link>http://www.floatrates.com/omr/kwd/</link>
+		<description>1 Omani Rial = 0.713654 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.713654</exchangeRate>
+		<inverseRate>1.401239</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 1.401239 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 5.025748 LYD</title>
+		<link>http://www.floatrates.com/omr/lyd/</link>
+		<description>1 Omani Rial = 5.025748 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>5.025748</exchangeRate>
+		<inverseRate>0.198975</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 0.198975 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 7.747741 MYR</title>
+		<link>http://www.floatrates.com/omr/myr/</link>
+		<description>1 Omani Rial = 7.747741 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>7.747741</exchangeRate>
+		<inverseRate>0.129070</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 0.129070 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 70.815345 MUR</title>
+		<link>http://www.floatrates.com/omr/mur/</link>
+		<description>1 Omani Rial = 70.815345 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>70.815345</exchangeRate>
+		<inverseRate>0.014121</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.014121 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 185.019506 NPR</title>
+		<link>http://www.floatrates.com/omr/npr/</link>
+		<description>1 Omani Rial = 185.019506 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>185.019506</exchangeRate>
+		<inverseRate>0.005405</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.005405 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 3.264299 NZD</title>
+		<link>http://www.floatrates.com/omr/nzd/</link>
+		<description>1 Omani Rial = 3.264299 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>3.264299</exchangeRate>
+		<inverseRate>0.306344</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 0.306344 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 13.755301 NOK</title>
+		<link>http://www.floatrates.com/omr/nok/</link>
+		<description>1 Omani Rial = 13.755301 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>13.755301</exchangeRate>
+		<inverseRate>0.072699</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 0.072699 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 1.000000 OMR</title>
+		<link>http://www.floatrates.com/omr/omr/</link>
+		<description>1 Omani Rial = 1.000000 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Omani Rial = 1.000000 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 219.267880 PKR</title>
+		<link>http://www.floatrates.com/omr/pkr/</link>
+		<description>1 Omani Rial = 219.267880 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>219.267880</exchangeRate>
+		<inverseRate>0.004561</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.004561 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 6.887741 PLN</title>
+		<link>http://www.floatrates.com/omr/pln/</link>
+		<description>1 Omani Rial = 6.887741 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>6.887741</exchangeRate>
+		<inverseRate>0.145185</inverseRate>
+		<inverseDescription>1 Polish Zloty = 0.145185 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 9.466840 QAR</title>
+		<link>http://www.floatrates.com/omr/qar/</link>
+		<description>1 Omani Rial = 9.466840 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>9.466840</exchangeRate>
+		<inverseRate>0.105632</inverseRate>
+		<inverseDescription>1 Qatari Rial = 0.105632 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 71.061329 RUB</title>
+		<link>http://www.floatrates.com/omr/rub/</link>
+		<description>1 Omani Rial = 71.061329 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>71.061329</exchangeRate>
+		<inverseRate>0.014072</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.014072 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 9.752926 SAR</title>
+		<link>http://www.floatrates.com/omr/sar/</link>
+		<description>1 Omani Rial = 9.752926 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>9.752926</exchangeRate>
+		<inverseRate>0.102533</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 0.102533 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 3.196984 SGD</title>
+		<link>http://www.floatrates.com/omr/sgd/</link>
+		<description>1 Omani Rial = 3.196984 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>3.196984</exchangeRate>
+		<inverseRate>0.312795</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 0.312795 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 17.227338 ZAR</title>
+		<link>http://www.floatrates.com/omr/zar/</link>
+		<description>1 Omani Rial = 17.227338 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>17.227338</exchangeRate>
+		<inverseRate>0.058047</inverseRate>
+		<inverseDescription>1 South African Rand = 0.058047 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 285.517555 LKR</title>
+		<link>http://www.floatrates.com/omr/lkr/</link>
+		<description>1 Omani Rial = 285.517555 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>285.517555</exchangeRate>
+		<inverseRate>0.003502</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.003502 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 15.717061 SEK</title>
+		<link>http://www.floatrates.com/omr/sek/</link>
+		<description>1 Omani Rial = 15.717061 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>15.717061</exchangeRate>
+		<inverseRate>0.063625</inverseRate>
+		<inverseDescription>1 Swedish Krona = 0.063625 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 2.242433 CHF</title>
+		<link>http://www.floatrates.com/omr/chf/</link>
+		<description>1 Omani Rial = 2.242433 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>2.242433</exchangeRate>
+		<inverseRate>0.445944</inverseRate>
+		<inverseDescription>1 Swiss Franc = 0.445944 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 78.085620 THB</title>
+		<link>http://www.floatrates.com/omr/thb/</link>
+		<description>1 Omani Rial = 78.085620 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>78.085620</exchangeRate>
+		<inverseRate>0.012806</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.012806 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 16.632250 TTD</title>
+		<link>http://www.floatrates.com/omr/ttd/</link>
+		<description>1 Omani Rial = 16.632250 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>16.632250</exchangeRate>
+		<inverseRate>0.060124</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 0.060124 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 9.551365 AED</title>
+		<link>http://www.floatrates.com/omr/aed/</link>
+		<description>1 Omani Rial = 9.551365 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>9.551365</exchangeRate>
+		<inverseRate>0.104697</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 0.104697 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 11.155527 VEF</title>
+		<link>http://www.floatrates.com/omr/vef/</link>
+		<description>1 Omani Rial = 11.155527 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>11.155527</exchangeRate>
+		<inverseRate>0.089642</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 0.089642 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 210.795667 JPY</title>
+		<link>http://www.floatrates.com/omr/jpy/</link>
+		<description>1 Omani Rial = 210.795667 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>210.795667</exchangeRate>
+		<inverseRate>0.004744</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.004744 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 3.417959 BGN</title>
+		<link>http://www.floatrates.com/omr/bgn/</link>
+		<description>1 Omani Rial = 3.417959 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>3.417959</exchangeRate>
+		<inverseRate>0.292572</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 0.292572 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 6.034118 LTL</title>
+		<link>http://www.floatrates.com/omr/ltl/</link>
+		<description>1 Omani Rial = 6.034118 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>6.034118</exchangeRate>
+		<inverseRate>0.165724</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 0.165724 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 1.239923 LVL</title>
+		<link>http://www.floatrates.com/omr/lvl/</link>
+		<description>1 Omani Rial = 1.239923 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>1.239923</exchangeRate>
+		<inverseRate>0.806502</inverseRate>
+		<inverseDescription>1 Latvian Lats = 0.806502 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 7.182641 RON</title>
+		<link>http://www.floatrates.com/omr/ron/</link>
+		<description>1 Omani Rial = 7.182641 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>7.182641</exchangeRate>
+		<inverseRate>0.139225</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 0.139225 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 12.899919 HRK</title>
+		<link>http://www.floatrates.com/omr/hrk/</link>
+		<description>1 Omani Rial = 12.899919 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>12.899919</exchangeRate>
+		<inverseRate>0.077520</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 0.077520 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 3.997987 TRY</title>
+		<link>http://www.floatrates.com/omr/try/</link>
+		<description>1 Omani Rial = 3.997987 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>3.997987</exchangeRate>
+		<inverseRate>0.250126</inverseRate>
+		<inverseDescription>1 Turkish Lira = 0.250126 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 4.120669 BRL</title>
+		<link>http://www.floatrates.com/omr/brl/</link>
+		<description>1 Omani Rial = 4.120669 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>4.120669</exchangeRate>
+		<inverseRate>0.242679</inverseRate>
+		<inverseDescription>1 Brazilian Real = 0.242679 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 20.206290 HKD</title>
+		<link>http://www.floatrates.com/omr/hkd/</link>
+		<description>1 Omani Rial = 20.206290 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>20.206290</exchangeRate>
+		<inverseRate>0.049490</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.049490 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 30.089150 MXN</title>
+		<link>http://www.floatrates.com/omr/mxn/</link>
+		<description>1 Omani Rial = 30.089150 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>30.089150</exchangeRate>
+		<inverseRate>0.033235</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.033235 Omani Rial</inverseDescription>
+	</item>
+	<item>
+		<title>1 OMR = 111.608809 PHP</title>
+		<link>http://www.floatrates.com/omr/php/</link>
+		<description>1 Omani Rial = 111.608809 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>OMR</baseCurrency>
+		<baseName>Omani Rial</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>111.608809</exchangeRate>
+		<inverseRate>0.008960</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.008960 Omani Rial</inverseDescription>
+	</item>
+</channel>
+

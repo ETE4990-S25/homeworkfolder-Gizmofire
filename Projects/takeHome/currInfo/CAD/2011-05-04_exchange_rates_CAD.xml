@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Canadian Dollar (CAD) (4 May 2011)</title>
+	<link>http://www.floatrates.com/currency/cad/</link>
+	<xmlLink>http://www.floatrates.com/daily/cad.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Canadian Dollar (CAD) from the Float Rates. Published at 4 May 2011.</description>
+	<language>en</language>
+	<baseCurrency>CAD</baseCurrency>
+	<pubDate>Wed, 4 May 2011</pubDate>
+	<lastBuildDate>Wed, 4 May 2011</lastBuildDate>
+	
+	<item>
+		<title>1 CAD = 0.702759 EUR</title>
+		<link>http://www.floatrates.com/cad/eur/</link>
+		<description>1 Canadian Dollar = 0.702759 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.702759</exchangeRate>
+		<inverseRate>1.422964</inverseRate>
+		<inverseDescription>1 Euro = 1.422964 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 0.633061 GBP</title>
+		<link>http://www.floatrates.com/cad/gbp/</link>
+		<description>1 Canadian Dollar = 0.633061 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.633061</exchangeRate>
+		<inverseRate>1.579627</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 1.579627 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 1.045845 USD</title>
+		<link>http://www.floatrates.com/cad/usd/</link>
+		<description>1 Canadian Dollar = 1.045845 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>1.045845</exchangeRate>
+		<inverseRate>0.956164</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 0.956164 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 74.561452 DZD</title>
+		<link>http://www.floatrates.com/cad/dzd/</link>
+		<description>1 Canadian Dollar = 74.561452 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>74.561452</exchangeRate>
+		<inverseRate>0.013412</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.013412 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 0.965414 AUD</title>
+		<link>http://www.floatrates.com/cad/aud/</link>
+		<description>1 Canadian Dollar = 0.965414 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.965414</exchangeRate>
+		<inverseRate>1.035825</inverseRate>
+		<inverseDescription>1 Australian Dollar = 1.035825 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 6.665681 BWP</title>
+		<link>http://www.floatrates.com/cad/bwp/</link>
+		<description>1 Canadian Dollar = 6.665681 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>6.665681</exchangeRate>
+		<inverseRate>0.150022</inverseRate>
+		<inverseDescription>1 Botswana Pula = 0.150022 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 1.286599 BND</title>
+		<link>http://www.floatrates.com/cad/bnd/</link>
+		<description>1 Canadian Dollar = 1.286599 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>1.286599</exchangeRate>
+		<inverseRate>0.777243</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 0.777243 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 1.000000 CAD</title>
+		<link>http://www.floatrates.com/cad/cad/</link>
+		<description>1 Canadian Dollar = 1.000000 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 1.000000 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 484.299605 CLP</title>
+		<link>http://www.floatrates.com/cad/clp/</link>
+		<description>1 Canadian Dollar = 484.299605 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>484.299605</exchangeRate>
+		<inverseRate>0.002065</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.002065 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 6.796629 CNY</title>
+		<link>http://www.floatrates.com/cad/cny/</link>
+		<description>1 Canadian Dollar = 6.796629 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>6.796629</exchangeRate>
+		<inverseRate>0.147132</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 0.147132 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 1,848.061021 COP</title>
+		<link>http://www.floatrates.com/cad/cop/</link>
+		<description>1 Canadian Dollar = 1,848.061021 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>1,848.061021</exchangeRate>
+		<inverseRate>0.000541</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.000541 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 17.011477 CZK</title>
+		<link>http://www.floatrates.com/cad/czk/</link>
+		<description>1 Canadian Dollar = 17.011477 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>17.011477</exchangeRate>
+		<inverseRate>0.058784</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.058784 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 5.240319 DKK</title>
+		<link>http://www.floatrates.com/cad/dkk/</link>
+		<description>1 Canadian Dollar = 5.240319 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>5.240319</exchangeRate>
+		<inverseRate>0.190828</inverseRate>
+		<inverseDescription>1 Danish Krone = 0.190828 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 186.506451 HUF</title>
+		<link>http://www.floatrates.com/cad/huf/</link>
+		<description>1 Canadian Dollar = 186.506451 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>186.506451</exchangeRate>
+		<inverseRate>0.005362</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.005362 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 116.496713 ISK</title>
+		<link>http://www.floatrates.com/cad/isk/</link>
+		<description>1 Canadian Dollar = 116.496713 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>116.496713</exchangeRate>
+		<inverseRate>0.008584</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.008584 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 46.592351 INR</title>
+		<link>http://www.floatrates.com/cad/inr/</link>
+		<description>1 Canadian Dollar = 46.592351 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>46.592351</exchangeRate>
+		<inverseRate>0.021463</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.021463 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 8,948.943838 IDR</title>
+		<link>http://www.floatrates.com/cad/idr/</link>
+		<description>1 Canadian Dollar = 8,948.943838 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>8,948.943838</exchangeRate>
+		<inverseRate>0.000112</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.000112 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 3.548333 ILS</title>
+		<link>http://www.floatrates.com/cad/ils/</link>
+		<description>1 Canadian Dollar = 3.548333 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>3.548333</exchangeRate>
+		<inverseRate>0.281822</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 0.281822 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 152.473793 KZT</title>
+		<link>http://www.floatrates.com/cad/kzt/</link>
+		<description>1 Canadian Dollar = 152.473793 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>152.473793</exchangeRate>
+		<inverseRate>0.006559</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.006559 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 1,120.155810 KRW</title>
+		<link>http://www.floatrates.com/cad/krw/</link>
+		<description>1 Canadian Dollar = 1,120.155810 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>1,120.155810</exchangeRate>
+		<inverseRate>0.000893</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.000893 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 0.286980 KWD</title>
+		<link>http://www.floatrates.com/cad/kwd/</link>
+		<description>1 Canadian Dollar = 0.286980 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.286980</exchangeRate>
+		<inverseRate>3.484564</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 3.484564 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 2.020992 LYD</title>
+		<link>http://www.floatrates.com/cad/lyd/</link>
+		<description>1 Canadian Dollar = 2.020992 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>2.020992</exchangeRate>
+		<inverseRate>0.494807</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 0.494807 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 3.115580 MYR</title>
+		<link>http://www.floatrates.com/cad/myr/</link>
+		<description>1 Canadian Dollar = 3.115580 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>3.115580</exchangeRate>
+		<inverseRate>0.320968</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 0.320968 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 28.476800 MUR</title>
+		<link>http://www.floatrates.com/cad/mur/</link>
+		<description>1 Canadian Dollar = 28.476800 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>28.476800</exchangeRate>
+		<inverseRate>0.035116</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.035116 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 74.401438 NPR</title>
+		<link>http://www.floatrates.com/cad/npr/</link>
+		<description>1 Canadian Dollar = 74.401438 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>74.401438</exchangeRate>
+		<inverseRate>0.013441</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.013441 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 1.312665 NZD</title>
+		<link>http://www.floatrates.com/cad/nzd/</link>
+		<description>1 Canadian Dollar = 1.312665 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>1.312665</exchangeRate>
+		<inverseRate>0.761809</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 0.761809 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 5.531385 NOK</title>
+		<link>http://www.floatrates.com/cad/nok/</link>
+		<description>1 Canadian Dollar = 5.531385 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>5.531385</exchangeRate>
+		<inverseRate>0.180787</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 0.180787 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 0.402128 OMR</title>
+		<link>http://www.floatrates.com/cad/omr/</link>
+		<description>1 Canadian Dollar = 0.402128 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.402128</exchangeRate>
+		<inverseRate>2.486773</inverseRate>
+		<inverseDescription>1 Omani Rial = 2.486773 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 88.173652 PKR</title>
+		<link>http://www.floatrates.com/cad/pkr/</link>
+		<description>1 Canadian Dollar = 88.173652 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>88.173652</exchangeRate>
+		<inverseRate>0.011341</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.011341 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 2.769750 PLN</title>
+		<link>http://www.floatrates.com/cad/pln/</link>
+		<description>1 Canadian Dollar = 2.769750 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>2.769750</exchangeRate>
+		<inverseRate>0.361043</inverseRate>
+		<inverseDescription>1 Polish Zloty = 0.361043 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 3.806877 QAR</title>
+		<link>http://www.floatrates.com/cad/qar/</link>
+		<description>1 Canadian Dollar = 3.806877 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>3.806877</exchangeRate>
+		<inverseRate>0.262683</inverseRate>
+		<inverseDescription>1 Qatari Rial = 0.262683 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 28.575717 RUB</title>
+		<link>http://www.floatrates.com/cad/rub/</link>
+		<description>1 Canadian Dollar = 28.575717 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>28.575717</exchangeRate>
+		<inverseRate>0.034995</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.034995 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 3.921920 SAR</title>
+		<link>http://www.floatrates.com/cad/sar/</link>
+		<description>1 Canadian Dollar = 3.921920 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>3.921920</exchangeRate>
+		<inverseRate>0.254977</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 0.254977 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 1.285595 SGD</title>
+		<link>http://www.floatrates.com/cad/sgd/</link>
+		<description>1 Canadian Dollar = 1.285595 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>1.285595</exchangeRate>
+		<inverseRate>0.777850</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 0.777850 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 6.927587 ZAR</title>
+		<link>http://www.floatrates.com/cad/zar/</link>
+		<description>1 Canadian Dollar = 6.927587 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>6.927587</exchangeRate>
+		<inverseRate>0.144350</inverseRate>
+		<inverseDescription>1 South African Rand = 0.144350 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 114.814471 LKR</title>
+		<link>http://www.floatrates.com/cad/lkr/</link>
+		<description>1 Canadian Dollar = 114.814471 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>114.814471</exchangeRate>
+		<inverseRate>0.008710</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.008710 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 6.320263 SEK</title>
+		<link>http://www.floatrates.com/cad/sek/</link>
+		<description>1 Canadian Dollar = 6.320263 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>6.320263</exchangeRate>
+		<inverseRate>0.158221</inverseRate>
+		<inverseDescription>1 Swedish Krona = 0.158221 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 0.901744 CHF</title>
+		<link>http://www.floatrates.com/cad/chf/</link>
+		<description>1 Canadian Dollar = 0.901744 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.901744</exchangeRate>
+		<inverseRate>1.108962</inverseRate>
+		<inverseDescription>1 Swiss Franc = 1.108962 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 31.400378 THB</title>
+		<link>http://www.floatrates.com/cad/thb/</link>
+		<description>1 Canadian Dollar = 31.400378 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>31.400378</exchangeRate>
+		<inverseRate>0.031847</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.031847 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 6.688286 TTD</title>
+		<link>http://www.floatrates.com/cad/ttd/</link>
+		<description>1 Canadian Dollar = 6.688286 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>6.688286</exchangeRate>
+		<inverseRate>0.149515</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 0.149515 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 3.840867 AED</title>
+		<link>http://www.floatrates.com/cad/aed/</link>
+		<description>1 Canadian Dollar = 3.840867 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>3.840867</exchangeRate>
+		<inverseRate>0.260358</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 0.260358 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 4.485944 VEF</title>
+		<link>http://www.floatrates.com/cad/vef/</link>
+		<description>1 Canadian Dollar = 4.485944 Venezuelan Bolivar (till 20 August 2018)</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar (till 20 August 2018)</targetName>
+		<exchangeRate>4.485944</exchangeRate>
+		<inverseRate>0.222918</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar (till 20 August 2018) = 0.222918 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 84.766742 JPY</title>
+		<link>http://www.floatrates.com/cad/jpy/</link>
+		<description>1 Canadian Dollar = 84.766742 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>84.766742</exchangeRate>
+		<inverseRate>0.011797</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.011797 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 1.374455 BGN</title>
+		<link>http://www.floatrates.com/cad/bgn/</link>
+		<description>1 Canadian Dollar = 1.374455 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>1.374455</exchangeRate>
+		<inverseRate>0.727561</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 0.727561 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 2.426485 LTL</title>
+		<link>http://www.floatrates.com/cad/ltl/</link>
+		<description>1 Canadian Dollar = 2.426485 Lithuanian Litas</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>LTL</targetCurrency>
+		<targetName>Lithuanian Litas</targetName>
+		<exchangeRate>2.426485</exchangeRate>
+		<inverseRate>0.412119</inverseRate>
+		<inverseDescription>1 Lithuanian Litas = 0.412119 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 0.498607 LVL</title>
+		<link>http://www.floatrates.com/cad/lvl/</link>
+		<description>1 Canadian Dollar = 0.498607 Latvian Lats</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>LVL</targetCurrency>
+		<targetName>Latvian Lats</targetName>
+		<exchangeRate>0.498607</exchangeRate>
+		<inverseRate>2.005587</inverseRate>
+		<inverseDescription>1 Latvian Lats = 2.005587 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 2.888338 RON</title>
+		<link>http://www.floatrates.com/cad/ron/</link>
+		<description>1 Canadian Dollar = 2.888338 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>2.888338</exchangeRate>
+		<inverseRate>0.346220</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 0.346220 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 5.187413 HRK</title>
+		<link>http://www.floatrates.com/cad/hrk/</link>
+		<description>1 Canadian Dollar = 5.187413 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>5.187413</exchangeRate>
+		<inverseRate>0.192774</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 0.192774 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 1.607701 TRY</title>
+		<link>http://www.floatrates.com/cad/try/</link>
+		<description>1 Canadian Dollar = 1.607701 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>1.607701</exchangeRate>
+		<inverseRate>0.622006</inverseRate>
+		<inverseDescription>1 Turkish Lira = 0.622006 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 1.657035 BRL</title>
+		<link>http://www.floatrates.com/cad/brl/</link>
+		<description>1 Canadian Dollar = 1.657035 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>1.657035</exchangeRate>
+		<inverseRate>0.603488</inverseRate>
+		<inverseDescription>1 Brazilian Real = 0.603488 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 8.125506 HKD</title>
+		<link>http://www.floatrates.com/cad/hkd/</link>
+		<description>1 Canadian Dollar = 8.125506 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>8.125506</exchangeRate>
+		<inverseRate>0.123069</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.123069 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 12.099676 MXN</title>
+		<link>http://www.floatrates.com/cad/mxn/</link>
+		<description>1 Canadian Dollar = 12.099676 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>12.099676</exchangeRate>
+		<inverseRate>0.082647</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.082647 Canadian Dollar</inverseDescription>
+	</item>
+	<item>
+		<title>1 CAD = 44.880975 PHP</title>
+		<link>http://www.floatrates.com/cad/php/</link>
+		<description>1 Canadian Dollar = 44.880975 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CAD</baseCurrency>
+		<baseName>Canadian Dollar</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>44.880975</exchangeRate>
+		<inverseRate>0.022281</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.022281 Canadian Dollar</inverseDescription>
+	</item>
+</channel>
+

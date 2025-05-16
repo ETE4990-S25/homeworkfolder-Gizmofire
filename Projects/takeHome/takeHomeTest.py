@@ -37,33 +37,34 @@ ratesForBase = [r for r in rates if r != "USD" and r != "EUR" and r != "GBP"]
 # WRITE TO FILE WITH DATA
 
 def fetchDataFromXML(respose):
-    # create element tree object
-    tree = ET.parse(respose)
-
-    # get root element
-    root = tree.getroot()
-
+    try:
+        root =  ET.fromstring(respose)
+    except ET.ParseError as e:
+        logger.error(f"Error parsing XML string: {e}")
+        return []
     # create empty list for news items
     newsitems = []
 
     # iterate news items
-    for item in root.findall('./channel'):
-        logger.info()
-        # empty news dictionary
-        news = {}
-        logger.info
-        print(item)
-        # iterate child elements of item
-        # for child in item:
-        #     news[child.tag] = child.text
-         
-                
-
-        # # append news dictionary to news items list
-        # newsitems.append(news)
     
-    # return news items list
+    logger.info('parssing info ')
+    # empty news dictionary
+    news = {}
+    
+    
+
+    for item_element in root.findall('item'):
+        item_details = {}
+        # Iterate through all child elements of the current <item>
+        for child_element in item_element:
+            item_details[child_element.tag] = child_element.text
+        if item_details: # Ensure we only add non-empty item data
+            newsitems.append(item_details)
+
+
+    print(newsitems)
     return newsitems
+  
 
 
 def savetoCSV(newsitems):
@@ -72,17 +73,21 @@ def savetoCSV(newsitems):
     fields = ['title', 'baseCurrency', 'targetCurrency', 'exchangeRate', 'inverseRate' ]
 
     # writing to csv file
+    if os.path.exists(f"./allDB.csv"):
+            with open(f"./allDB.csv", 'a', newline='') as csvfile:
+                writer = csv.DictWriter(csvfile, fieldnames = fields,extrasaction='ignore' )
+                writer.writerows(newsitems)
+    else:
+        with open(f"./allDB.csv", 'w') as csvfile:
 
-    with open(f"./allDB.csv", 'w') as csvfile:
+            # creating a csv dict writer object
+            writer = csv.DictWriter(csvfile, fieldnames = fields,extrasaction='ignore' )
 
-        # creating a csv dict writer object
-        writer = csv.DictWriter(csvfile, fieldnames = fields)
+            # writing headers (field names)
+            writer.writeheader()
 
-        # writing headers (field names)
-        writer.writeheader()
-
-        # writing data rows
-        writer.writerows(newsitems)
+            # writing data rows
+            writer.writerows(newsitems)
 
 
 def pullCurrInfo(base):
@@ -136,7 +141,7 @@ if __name__ == "__main__":
     # thread these all the base rates
     # for r in ratesForBase:
     #     pullCurrInfo(r)
-
+    os.remove("allDb.csv")
     os.remove("log//kingsLogs.log")
     logger = logging.getLogger("file_logger")
     logger.setLevel(logging.INFO)
@@ -152,15 +157,15 @@ if __name__ == "__main__":
     threads = []
 
 
-    r = random.choice(rates)
-    thread = threading.Thread(target=task, args=(r,))
-    threads.append(thread)
-    thread.start()
+    # r = random.choice(rates)
+    # thread = threading.Thread(target=task, args=(r,))
+    # threads.append(thread)
+    # thread.start()
 
-    # for r in ratesForBase:
-    #     thread = threading.Thread(target=task, args=(r,))
-    #     threads.append(thread)
-    #     thread.start()
+    for r in ratesForBase:
+        thread = threading.Thread(target=task, args=(r,))
+        threads.append(thread)
+        thread.start()
 
     for thread in threads:
         thread.join()

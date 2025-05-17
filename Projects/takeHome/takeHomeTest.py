@@ -20,6 +20,9 @@ import logging
 # https://www.geeksforgeeks.org/xml-parsing-python/
 # really good info on parsing xml and saving to csv 
 
+
+# TODO ADD STRUCTURE SO I CAN GET POINTS 
+
 rates = ["EUR", "GBP", "USD", "DZD", "AUD", "BWP", "BND", "CAD", "CLP", "CNY", 
          "COP", "CZK", "DKK", "HUF", "ISK", "INR", "IDR", "ILS", "KZT", "KRW", 
          "KWD", "LYD", "MYR", "MUR", "NPR", "NZD", "NOK", "OMR", "PKR", "PLN", 
@@ -28,14 +31,6 @@ ratesForBase = [r for r in rates if r != "USD" and r != "EUR" and r != "GBP"]
 
 
 
-
-
-# URL of the XML data
-
-
-
-
-# WRITE TO FILE WITH DATA
 
 def fetchDataFromXML(respose,date):
     try:
@@ -203,6 +198,9 @@ if __name__ == "__main__":
     threads = []
 
     date = "2011-05-04"
+
+    x = input("default(KRW)? ()")
+
     r = random.choice(rates)
     r = "KRW"
     for x in increment_date_string(date, "2025-05-04"):
